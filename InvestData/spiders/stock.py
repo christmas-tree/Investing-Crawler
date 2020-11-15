@@ -26,9 +26,7 @@ class StockSpider(scrapy.Spider):
         with open(ROOT_FOLDER + LOG_COMPANY, 'r') as f:
             lines = f.readlines()
 
-        for line in lines[0:1]:
-            print('--------------------------------------------------')
-            print(json.loads(line)['currId'])
+        for line in lines:
             yield json.loads(line)['currId']
 
     """
