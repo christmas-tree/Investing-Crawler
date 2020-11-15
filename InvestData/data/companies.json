@@ -1,0 +1,1000 @@
+{"name": "Boeing Co", "currId": "238", "short_name": "Boeing", "avg_volume": "21.62M", "market_cap": "105.63B", "revenue": "63.41B", "p_e_ratio": null, "beta": "1.51"}
+{"name": "General Motors Company", "currId": "239", "short_name": "General Motors", "avg_volume": "15.66M", "market_cap": "58.96B", "revenue": "115.79B", "p_e_ratio": "18.47", "beta": "1.41"}
+{"name": "Chevron Corp", "currId": "240", "short_name": "Chevron", "avg_volume": "11.13M", "market_cap": "159.84B", "revenue": "104.06B", "p_e_ratio": null, "beta": "1.28"}
+{"name": "Citigroup Inc", "currId": "241", "short_name": "Citigroup", "avg_volume": "26.07M", "market_cap": "101.31B", "revenue": "43.41B", "p_e_ratio": "9.51", "beta": "1.84"}
+{"name": "Bank of America Corp", "currId": "243", "short_name": "Bank of America", "avg_volume": "61.08M", "market_cap": "233.86B", "revenue": "45.71B", "p_e_ratio": "13.34", "beta": "1.58"}
+{"name": "AT&T Inc", "currId": "244", "short_name": "AT&T", "avg_volume": "37.30M", "market_cap": "206.01B", "revenue": "172.89B", "p_e_ratio": "19.02", "beta": "0.69"}
+{"name": "Caterpillar Inc", "currId": "247", "short_name": "Caterpillar", "avg_volume": "3.42M", "market_cap": "93.28B", "revenue": "43.66B", "p_e_ratio": "28.55", "beta": "0.98"}
+{"name": "Intel Corporation", "currId": "251", "short_name": "Intel", "avg_volume": "33.31M", "market_cap": "186.30B", "revenue": "78.10B", "p_e_ratio": "8.91", "beta": "0.7"}
+{"name": "Microsoft Corporation", "currId": "252", "short_name": "Microsoft", "avg_volume": "31.80M", "market_cap": "1.64T", "revenue": "147.11B", "p_e_ratio": "34.93", "beta": "0.86"}
+{"name": "Alcoa Corp", "currId": "254", "short_name": "Alcoa", "avg_volume": "5.14M", "market_cap": "3.08B", "revenue": "9.33B", "p_e_ratio": null, "beta": "2.35"}
+{"name": "Ford Motor Company", "currId": "255", "short_name": "Ford Motor", "avg_volume": "61.77M", "market_cap": "33.98B", "revenue": "130.91B", "p_e_ratio": null, "beta": "1.25"}
+{"name": "eBay Inc", "currId": "256", "short_name": "eBay", "avg_volume": "8.83M", "market_cap": "33.55B", "revenue": "12.60B", "p_e_ratio": "15.43", "beta": "1.27"}
+{"name": "Dell Technologies Inc", "currId": "257", "short_name": "Dell Tech", "avg_volume": "1.92M", "market_cap": "49.37B", "revenue": "91.51B", "p_e_ratio": "23.84", "beta": "0.87"}
+{"name": "Walt Disney Company", "currId": "258", "short_name": "Walt Disney", "avg_volume": "9.46M", "market_cap": "250.03B", "revenue": "69.75B", "p_e_ratio": null, "beta": "1.11"}
+{"name": "Dow Inc", "currId": "259", "short_name": "Dow", "avg_volume": "4.35M", "market_cap": "38.55B", "revenue": "38.04B", "p_e_ratio": null, "beta": null}
+{"name": "Cisco Systems Inc", "currId": "260", "short_name": "Cisco", "avg_volume": "24.89M", "market_cap": "175.42B", "revenue": "48.07B", "p_e_ratio": "16.81", "beta": "0.9"}
+{"name": "Deere & Company", "currId": "261", "short_name": "Deere&Company", "avg_volume": "1.63M", "market_cap": "78.90B", "revenue": "35.73B", "p_e_ratio": "29.81", "beta": "0.96"}
+{"name": "FedEx Corporation", "currId": "262", "short_name": "FedEx", "avg_volume": "3.15M", "market_cap": "71.40B", "revenue": "71.49B", "p_e_ratio": "40.09", "beta": "1.35"}
+{"name": "General Mills Inc", "currId": "263", "short_name": "General Mills", "avg_volume": "3.06M", "market_cap": "37.27B", "revenue": "17.99B", "p_e_ratio": "16.33", "beta": "0.58"}
+{"name": "Corning Incorporated", "currId": "264", "short_name": "Corning", "avg_volume": "4.41M", "market_cap": "27.37B", "revenue": "10.77B", "p_e_ratio": "173.98", "beta": "1.15"}
+{"name": "The Goodyear Tire & Rubber Company", "currId": "265", "short_name": "The Goodyear Tire&Rubber", "avg_volume": "3.71M", "market_cap": "2.33B", "revenue": "12.38B", "p_e_ratio": null, "beta": "2.15"}
+{"name": "Goldman Sachs Group Inc", "currId": "266", "short_name": "Goldman Sachs", "avg_volume": "3.39M", "market_cap": "75.38B", "revenue": "54.34B", "p_e_ratio": "12.63", "beta": "1.45"}
+{"name": "JPMorgan Chase & Co", "currId": "267", "short_name": "JPMorgan", "avg_volume": "16.72M", "market_cap": "347.74B", "revenue": "66.07B", "p_e_ratio": "14.89", "beta": "1.19"}
+{"name": "Kimberly-Clark Corporation", "currId": "269", "short_name": "Kimberly-Clark", "avg_volume": "1.68M", "market_cap": "47.73B", "revenue": "18.89B", "p_e_ratio": "20.41", "beta": "0.52"}
+{"name": "Kraft Heinz Co", "currId": "270", "short_name": "Kraft Heinz", "avg_volume": "6.31M", "market_cap": "38.65B", "revenue": "25.78B", "p_e_ratio": null, "beta": "0.98"}
+{"name": "Coca-Cola Company", "currId": "271", "short_name": "Coca-Cola", "avg_volume": "14.61M", "market_cap": "229.70B", "revenue": "33.47B", "p_e_ratio": "27.72", "beta": "0.6"}
+{"name": "McDonald\u2019s Corporation", "currId": "272", "short_name": "McDonald\u2019s", "avg_volume": "2.91M", "market_cap": "158.91B", "revenue": "19.24B", "p_e_ratio": "32.55", "beta": "0.59"}
+{"name": "Eli Lilly and Company", "currId": "273", "short_name": "Eli Lilly", "avg_volume": "3.81M", "market_cap": "136.20B", "revenue": "23.21B", "p_e_ratio": "23.31", "beta": "0.31"}
+{"name": "Oracle Corporation", "currId": "274", "short_name": "Oracle", "avg_volume": "13.37M", "market_cap": "171.14B", "revenue": "39.22B", "p_e_ratio": "17.85", "beta": "0.76"}
+{"name": "Merck & Company Inc", "currId": "275", "short_name": "Merck&Co", "avg_volume": "8.19M", "market_cap": "205.16B", "revenue": "47.35B", "p_e_ratio": "17.84", "beta": "0.45"}
+{"name": "Motorola Solutions Inc", "currId": "276", "short_name": "Motorola", "avg_volume": "963.61K", "market_cap": "28.90B", "revenue": "7.52B", "p_e_ratio": "38.18", "beta": "0.77"}
+{"name": "3M Company", "currId": "277", "short_name": "3M", "avg_volume": "2.37M", "market_cap": "97.94B", "revenue": "31.71B", "p_e_ratio": "19.9", "beta": "0.93"}
+{"name": "Office Depot Inc", "currId": "278", "short_name": "Office Depot", "avg_volume": "515.70K", "market_cap": "1.33B", "revenue": "9.93B", "p_e_ratio": null, "beta": "2.33"}
+{"name": "McKesson Europe AG (OTC Markets)", "currId": "6291", "short_name": "McKesson Europe", "avg_volume": "0.40K", "market_cap": "6.35B", "revenue": null, "p_e_ratio": "12.1", "beta": "0.45"}
+{"name": "Puma SE (OTC Markets)", "currId": "6309", "short_name": "Puma SE", "avg_volume": "0.21K", "market_cap": "14.23B", "revenue": "114.24M", "p_e_ratio": null, "beta": "0.37"}
+{"name": "Vertex Pharmaceuticals Inc", "currId": "6353", "short_name": "Vertex", "avg_volume": "1.86M", "market_cap": "58.67B", "revenue": "5.99B", "p_e_ratio": "22.07", "beta": "0.79"}
+{"name": "Monster Beverage Corp", "currId": "6355", "short_name": "Monster Beverage", "avg_volume": "2.16M", "market_cap": "44.36B", "revenue": "4.42B", "p_e_ratio": "37.76", "beta": "1.12"}
+{"name": "Teva Pharma Industries Ltd ADR", "currId": "6356", "short_name": "Teva ADR", "avg_volume": "9.00M", "market_cap": "10.35B", "revenue": "16.20B", "p_e_ratio": null, "beta": "1.5"}
+{"name": "Fifth Third Bancorp", "currId": "6358", "short_name": "Fifth Third", "avg_volume": "5.76M", "market_cap": "18.09B", "revenue": "4.10B", "p_e_ratio": "12.67", "beta": "1.68"}
+{"name": "Sears Holdings Corp", "currId": "6359", "short_name": "Sears", "avg_volume": "178.62K", "market_cap": "18.34M", "revenue": null, "p_e_ratio": null, "beta": "2.33"}
+{"name": "Cintas Corporation", "currId": "6360", "short_name": "Cintas", "avg_volume": "428.25K", "market_cap": "37.25B", "revenue": "8.83B", "p_e_ratio": "41.6", "beta": "1.52"}
+{"name": "Autodesk Inc", "currId": "6363", "short_name": "Autodesk", "avg_volume": "1.47M", "market_cap": "55.04B", "revenue": "3.54B", "p_e_ratio": "149.84", "beta": "1.38"}
+{"name": "DISH Network Corporation", "currId": "6364", "short_name": "DISH Network", "avg_volume": "2.52M", "market_cap": "16.59B", "revenue": "14.18B", "p_e_ratio": "12.78", "beta": "1.92"}
+{"name": "Gilead Sciences Inc", "currId": "6365", "short_name": "Gilead", "avg_volume": "9.57M", "market_cap": "75.95B", "revenue": "23.15B", "p_e_ratio": "62.95", "beta": "0.55"}
+{"name": "aTyr Pharma Inc", "currId": "6368", "short_name": "aTyr Pharma", "avg_volume": "88.01K", "market_cap": "33.83M", "revenue": "8.54M", "p_e_ratio": null, "beta": "1.94"}
+{"name": "Alphabet Inc Class A", "currId": "6369", "short_name": "Alphabet A", "avg_volume": "1.87M", "market_cap": "1.20T", "revenue": "171.70B", "p_e_ratio": "34.25", "beta": "1.03"}
+{"name": "Fiserv Inc", "currId": "6370", "short_name": "Fiserv", "avg_volume": "4.76M", "market_cap": "72.98B", "revenue": "15.07B", "p_e_ratio": "82.86", "beta": "0.81"}
+{"name": "Liberty Global PLC", "currId": "6371", "short_name": "Liberty Global", "avg_volume": "1.36M", "market_cap": "12.61B", "revenue": "11.54B", "p_e_ratio": null, "beta": "1.31"}
+{"name": "PDL BioPharma Inc", "currId": "6372", "short_name": "PDL BioPharma", "avg_volume": "1.04M", "market_cap": "274.70M", "revenue": "110.13M", "p_e_ratio": null, "beta": "1.16"}
+{"name": "Adobe Systems Incorporated", "currId": "6373", "short_name": "Adobe", "avg_volume": "3.01M", "market_cap": "225.15B", "revenue": "12.44B", "p_e_ratio": "59.09", "beta": "0.98"}
+{"name": "BlackBerry Ltd", "currId": "6374", "short_name": "BlackBerry", "avg_volume": "4.09M", "market_cap": "2.84B", "revenue": "1.01B", "p_e_ratio": null, "beta": "1.47"}
+{"name": "Qualcomm Incorporated", "currId": "6376", "short_name": "Qualcomm", "avg_volume": "8.14M", "market_cap": "163.16B", "revenue": "23.53B", "p_e_ratio": "31.85", "beta": "1.36"}
+{"name": "SINA Corp", "currId": "6377", "short_name": "SINA Corp", "avg_volume": "810.99K", "market_cap": "2.59B", "revenue": "2.10B", "p_e_ratio": null, "beta": "1.03"}
+{"name": "Baidu Inc", "currId": "6378", "short_name": "Baidu", "avg_volume": "3.30M", "market_cap": "49.54B", "revenue": "2.32B", "p_e_ratio": "94.55", "beta": "1.14"}
+{"name": "Sohu.Com Inc", "currId": "6379", "short_name": "Sohu.Com", "avg_volume": "384.94K", "market_cap": "1.52B", "revenue": "1.80B", "p_e_ratio": null, "beta": "2.26"}
+{"name": "Discovery Inc Class A", "currId": "6382", "short_name": "Discovery A", "avg_volume": "3.90M", "market_cap": "11.35B", "revenue": "10.66B", "p_e_ratio": "11.16", "beta": "1.41"}
+{"name": "Ribbon Communications Inc", "currId": "6385", "short_name": "Ribbon Com", "avg_volume": "285.72K", "market_cap": "679.00M", "revenue": "760.70M", "p_e_ratio": null, "beta": "0.76"}
+{"name": "Applied Materials Inc", "currId": "6386", "short_name": "Applied Materials", "avg_volume": "8.32M", "market_cap": "66.48B", "revenue": "16.27B", "p_e_ratio": "18.57", "beta": "1.35"}
+{"name": "Steel Dynamics Inc", "currId": "6387", "short_name": "Steel Dynamics", "avg_volume": "1.80M", "market_cap": "7.28B", "revenue": "9.35B", "p_e_ratio": "15.28", "beta": "1.4"}
+{"name": "Cadence Design Systems Inc", "currId": "6388", "short_name": "Cadence Design", "avg_volume": "1.53M", "market_cap": "32.31B", "revenue": "2.52B", "p_e_ratio": "30.1", "beta": "1.07"}
+{"name": "Bed Bath & Beyond Inc", "currId": "6389", "short_name": "Bed Bath&Beyond", "avg_volume": "9.96M", "market_cap": "2.55B", "revenue": "9.86B", "p_e_ratio": null, "beta": "2.23"}
+{"name": "Microchip Technology Inc", "currId": "6391", "short_name": "Microchip", "avg_volume": "1.95M", "market_cap": "32.85B", "revenue": "5.23B", "p_e_ratio": "53.75", "beta": "1.65"}
+{"name": "Wynn Resorts Limited", "currId": "6392", "short_name": "Wynn Resorts", "avg_volume": "3.86M", "market_cap": "9.94B", "revenue": "3.06B", "p_e_ratio": null, "beta": "2.27"}
+{"name": "Intuitive Surgical Inc", "currId": "6393", "short_name": "Intuitive Surgical", "avg_volume": "609.22K", "market_cap": "88.56B", "revenue": "4.31B", "p_e_ratio": "85.87", "beta": "1"}
+{"name": "Nasdaq Inc", "currId": "6395", "short_name": "Nasdaq Inc", "avg_volume": "750.52K", "market_cap": "20.64B", "revenue": "5.23B", "p_e_ratio": "23.04", "beta": "0.79"}
+{"name": "Ryanair Holdings PLC ADR", "currId": "6397", "short_name": "Ryanair ADR", "avg_volume": "582.22K", "market_cap": "20.06B", "revenue": "94.19M", "p_e_ratio": null, "beta": "1.55"}
+{"name": "Apollo Bancorp Inc", "currId": "6399", "short_name": "Apollo Bancorp", "avg_volume": "0.59K", "market_cap": "4.34B", "revenue": null, "p_e_ratio": null, "beta": "0.84"}
+{"name": "Infosys Ltd ADR", "currId": "6401", "short_name": "Infosys ADR", "avg_volume": "9.35M", "market_cap": "63.92B", "revenue": "20.81B", "p_e_ratio": "27.16", "beta": "0.87"}
+{"name": "JetBlue Airways Corp", "currId": "6403", "short_name": "JetBlue", "avg_volume": "8.77M", "market_cap": "3.86B", "revenue": "4.33B", "p_e_ratio": null, "beta": "1.55"}
+{"name": "Shyft Group Inc", "currId": "6404", "short_name": "Shyft Group Inc", "avg_volume": "176.71K", "market_cap": "830.46M", "revenue": "1.26B", "p_e_ratio": "18.96", "beta": "1.54"}
+{"name": "Henry Schein Inc", "currId": "6405", "short_name": "Henry Schein", "avg_volume": "1.07M", "market_cap": "9.37B", "revenue": "9.62B", "p_e_ratio": "16.14", "beta": "0.89"}
+{"name": "Paychex Inc", "currId": "6406", "short_name": "Paychex", "avg_volume": "1.58M", "market_cap": "33.03B", "revenue": "3.98B", "p_e_ratio": "31.71", "beta": "0.91"}
+{"name": "VeriSign Inc", "currId": "6407", "short_name": "VeriSign", "avg_volume": "658.34K", "market_cap": "22.65B", "revenue": "1.26B", "p_e_ratio": "28.64", "beta": "0.83"}
+{"name": "Apple Inc", "currId": "6408", "short_name": "Apple", "avg_volume": "157.91M", "market_cap": "2.03T", "revenue": "274.52B", "p_e_ratio": "36.51", "beta": "1.33"}
+{"name": "Fastenal Company", "currId": "6409", "short_name": "Fastenal", "avg_volume": "3.29M", "market_cap": "27.28B", "revenue": "5.57B", "p_e_ratio": "32.49", "beta": "1.19"}
+{"name": "Dentsply Sirona Inc", "currId": "6411", "short_name": "Dentsply", "avg_volume": "1.28M", "market_cap": "11.22B", "revenue": "3.37B", "p_e_ratio": null, "beta": "0.87"}
+{"name": "Crocs Inc", "currId": "6414", "short_name": "Crocs", "avg_volume": "1.28M", "market_cap": "3.84B", "revenue": "1.24B", "p_e_ratio": "26.09", "beta": "1.82"}
+{"name": "Zions Bancorporation", "currId": "6418", "short_name": "Zions", "avg_volume": "1.79M", "market_cap": "6.15B", "revenue": "1.45B", "p_e_ratio": "15.92", "beta": "1.65"}
+{"name": "Northern Trust Corporation", "currId": "6419", "short_name": "Northern Trust", "avg_volume": "943.58K", "market_cap": "18.90B", "revenue": "6.28B", "p_e_ratio": "15.03", "beta": "1.13"}
+{"name": "Citrix Systems Inc", "currId": "6421", "short_name": "Citrix Systems", "avg_volume": "1.42M", "market_cap": "14.56B", "revenue": "3.24B", "p_e_ratio": "25.4", "beta": "0.23"}
+{"name": "Lamar Advertising Company", "currId": "6422", "short_name": "Lamar", "avg_volume": "576.54K", "market_cap": "7.73B", "revenue": "1.60B", "p_e_ratio": "32.6", "beta": "1.43"}
+{"name": "Patterson-UTI Energy Inc", "currId": "6423", "short_name": "Patterson-UTI Energy", "avg_volume": "3.07M", "market_cap": "667.48M", "revenue": "1.40B", "p_e_ratio": null, "beta": "2.95"}
+{"name": "Atlanticus Holdings Corporation", "currId": "6425", "short_name": "Atlanticuss", "avg_volume": "9.38K", "market_cap": "231.96M", "revenue": "430.69M", "p_e_ratio": "7.19", "beta": "0.81"}
+{"name": "CH Robinson Worldwide Inc", "currId": "6426", "short_name": "CH Robinson", "avg_volume": "1.36M", "market_cap": "12.50B", "revenue": "15.45B", "p_e_ratio": "27.37", "beta": "0.67"}
+{"name": "Sirius XM Holding Inc", "currId": "6427", "short_name": "Sirius XM", "avg_volume": "26.08M", "market_cap": "26.64B", "revenue": "7.91B", "p_e_ratio": "26.58", "beta": "1.13"}
+{"name": "Alpine Immune Sciences Inc", "currId": "6428", "short_name": "Alpine Immune Sciences", "avg_volume": "45.08K", "market_cap": "194.56M", "revenue": "4.57M", "p_e_ratio": null, "beta": "1.53"}
+{"name": "PACCAR Inc", "currId": "6430", "short_name": "PACCAR", "avg_volume": "1.55M", "market_cap": "31.15B", "revenue": "19.28B", "p_e_ratio": "21.93", "beta": "1.08"}
+{"name": "Pan American Silver Corp", "currId": "6432", "short_name": "Pan American Silver", "avg_volume": "2.29M", "market_cap": "6.94B", "revenue": "1.31B", "p_e_ratio": "229.5", "beta": "1.37"}
+{"name": "Amazon.com Inc", "currId": "6435", "short_name": "Amazon.com", "avg_volume": "5.17M", "market_cap": "1.57T", "revenue": "347.95B", "p_e_ratio": "91.63", "beta": "1.24"}
+{"name": "Ross Stores Inc", "currId": "6437", "short_name": "Ross Stores", "avg_volume": "2.18M", "market_cap": "38.49B", "revenue": "12.79B", "p_e_ratio": "71.96", "beta": "0.9"}
+{"name": "Viavi Solutions Inc", "currId": "6438", "short_name": "Viavi Solutions", "avg_volume": "2.31M", "market_cap": "3.04B", "revenue": "1.12B", "p_e_ratio": "86.37", "beta": "0.81"}
+{"name": "NetEase Inc", "currId": "6439", "short_name": "NetEase", "avg_volume": "2.35M", "market_cap": "61.07B", "revenue": "1.26B", "p_e_ratio": "120.18", "beta": "0.59"}
+{"name": "NetApp Inc", "currId": "6440", "short_name": "NetApp", "avg_volume": "2.70M", "market_cap": "11.06B", "revenue": "5.48B", "p_e_ratio": "14.4", "beta": "1.27"}
+{"name": "Garmin Ltd", "currId": "6442", "short_name": "Garmin", "avg_volume": "786.75K", "market_cap": "22.11B", "revenue": "3.94B", "p_e_ratio": "21.73", "beta": "1"}
+{"name": "Costco Wholesale Corp", "currId": "6443", "short_name": "Costco", "avg_volume": "2.20M", "market_cap": "167.15B", "revenue": "166.76B", "p_e_ratio": "42.03", "beta": "0.66"}
+{"name": "Check Point Software Technologies Ltd", "currId": "6444", "short_name": "Check Point Software", "avg_volume": "973.63K", "market_cap": "16.64B", "revenue": "2.05B", "p_e_ratio": "20.22", "beta": "0.67"}
+{"name": "Lam Research Corp", "currId": "6445", "short_name": "Lam Research", "avg_volume": "1.70M", "market_cap": "61.39B", "revenue": "11.06B", "p_e_ratio": "24.19", "beta": "1.28"}
+{"name": "Ciena Corp", "currId": "6446", "short_name": "Ciena Corp", "avg_volume": "2.39M", "market_cap": "6.72B", "revenue": "3.67B", "p_e_ratio": "18.04", "beta": "0.84"}
+{"name": "IAC/InterActiveCorp", "currId": "6447", "short_name": "IAC/InterActiveCorp", "avg_volume": "808.82K", "market_cap": "11.55B", "revenue": "3.42B", "p_e_ratio": null, "beta": "1.77"}
+{"name": "Intuit Inc", "currId": "6448", "short_name": "Intuit", "avg_volume": "1.22M", "market_cap": "93.45B", "revenue": "7.68B", "p_e_ratio": "51.61", "beta": "1.01"}
+{"name": "Expedia Inc", "currId": "6449", "short_name": "Expedia", "avg_volume": "2.76M", "market_cap": "17.46B", "revenue": "7.03B", "p_e_ratio": null, "beta": "1.72"}
+{"name": "Trip.com Group Ltd ADR", "currId": "6451", "short_name": "Trip.com ADR", "avg_volume": "4.14M", "market_cap": "20.57B", "revenue": "587.42M", "p_e_ratio": null, "beta": "1.4"}
+{"name": "UTStarcom Holdings Corp", "currId": "6452", "short_name": "UTStarcom", "avg_volume": "814.64K", "market_cap": "32.58M", "revenue": "40.77M", "p_e_ratio": null, "beta": "1.24"}
+{"name": "Cognizant Technology Solutions Corp Class A", "currId": "6454", "short_name": "Cognizant A", "avg_volume": "3.08M", "market_cap": "41.61B", "revenue": "16.75B", "p_e_ratio": "28.62", "beta": "1.15"}
+{"name": "Rambus Inc", "currId": "6455", "short_name": "Rambus", "avg_volume": "638.06K", "market_cap": "1.78B", "revenue": "240.78M", "p_e_ratio": null, "beta": "1.04"}
+{"name": "YRC Worldwide Inc", "currId": "6458", "short_name": "YRC Worldwide", "avg_volume": "1.35M", "market_cap": "225.91M", "revenue": "4.51B", "p_e_ratio": null, "beta": "3.09"}
+{"name": "Akamai Technologies Inc", "currId": "6460", "short_name": "Akamai", "avg_volume": "1.63M", "market_cap": "16.53B", "revenue": "3.12B", "p_e_ratio": "29.74", "beta": "0.48"}
+{"name": "KLA-Tencor Corporation", "currId": "6462", "short_name": "KLA-Tencor", "avg_volume": "1.16M", "market_cap": "36.47B", "revenue": "5.93B", "p_e_ratio": "28.73", "beta": "1.2"}
+{"name": "Juniper Networks Inc", "currId": "6463", "short_name": "Juniper", "avg_volume": "3.30M", "market_cap": "7.20B", "revenue": "4.43B", "p_e_ratio": "18.66", "beta": "0.92"}
+{"name": "Activision Blizzard Inc", "currId": "6464", "short_name": "Activision Blizzard", "avg_volume": "6.29M", "market_cap": "59.94B", "revenue": "7.66B", "p_e_ratio": "27.18", "beta": "0.67"}
+{"name": "Flex Ltd", "currId": "6465", "short_name": "Flex", "avg_volume": "4.23M", "market_cap": "7.97B", "revenue": "23.08B", "p_e_ratio": "24.8", "beta": "1.64"}
+{"name": "Amgen Inc", "currId": "6466", "short_name": "Amgen", "avg_volume": "2.79M", "market_cap": "138.18B", "revenue": "24.99B", "p_e_ratio": "19.14", "beta": "0.83"}
+{"name": "Xilinx Inc", "currId": "6467", "short_name": "Xilinx", "avg_volume": "3.51M", "market_cap": "31.29B", "revenue": "2.97B", "p_e_ratio": "52.08", "beta": "0.88"}
+{"name": "Expeditors International of Washington Inc", "currId": "6468", "short_name": "Expeditors Washington", "avg_volume": "1.05M", "market_cap": "15.10B", "revenue": "8.99B", "p_e_ratio": "24.03", "beta": "0.77"}
+{"name": "Electronic Arts Inc", "currId": "6472", "short_name": "Electronic Arts", "avg_volume": "2.44M", "market_cap": "35.04B", "revenue": "5.59B", "p_e_ratio": "26.91", "beta": "0.88"}
+{"name": "Patterson Companies Inc", "currId": "6477", "short_name": "Patterson", "avg_volume": "987.29K", "market_cap": "2.73B", "revenue": "5.41B", "p_e_ratio": null, "beta": "1.64"}
+{"name": "T. Rowe Price Group Inc", "currId": "6480", "short_name": "T Rowe", "avg_volume": "1.08M", "market_cap": "31.80B", "revenue": "5.94B", "p_e_ratio": "15.73", "beta": "1.17"}
+{"name": "Biogen Inc", "currId": "6487", "short_name": "Biogen", "avg_volume": "1.61M", "market_cap": "38.25B", "revenue": "14.26B", "p_e_ratio": "8.23", "beta": "0.57"}
+{"name": "Qurate Retail Inc Series A", "currId": "6489", "short_name": "Qurate Retail A", "avg_volume": "5.42M", "market_cap": "3.76B", "revenue": "13.60B", "p_e_ratio": null, "beta": "1.39"}
+{"name": "The Charles Schwab Corporation", "currId": "6491", "short_name": "Charles Schwab", "avg_volume": "11.50M", "market_cap": "86.32B", "revenue": "10.61B", "p_e_ratio": "21.3", "beta": "1.12"}
+{"name": "Huntington Bancshares Incorporated", "currId": "6493", "short_name": "Huntington Bancshares", "avg_volume": "8.68M", "market_cap": "11.79B", "revenue": "2.62B", "p_e_ratio": "16.38", "beta": "1.48"}
+{"name": "NortonLifeLock Inc", "currId": "6494", "short_name": "NortonLifeLock Inc", "avg_volume": "5.75M", "market_cap": "11.72B", "revenue": "2.47B", "p_e_ratio": "15.26", "beta": "0.81"}
+{"name": "NVIDIA Corporation", "currId": "6497", "short_name": "NVIDIA", "avg_volume": "13.22M", "market_cap": "328.17B", "revenue": "13.07B", "p_e_ratio": "97.52", "beta": "1.52"}
+{"name": "Stericycle Inc", "currId": "6499", "short_name": "Stericycle", "avg_volume": "425.49K", "market_cap": "6.45B", "revenue": "2.82B", "p_e_ratio": null, "beta": "1.37"}
+{"name": "Starbucks Corporation", "currId": "6500", "short_name": "Starbucks", "avg_volume": "7.39M", "market_cap": "112.12B", "revenue": "23.52B", "p_e_ratio": "123.43", "beta": "0.79"}
+{"name": "Cincinnati Financial Corporation", "currId": "6507", "short_name": "Cincinnati Financial", "avg_volume": "759.59K", "market_cap": "12.68B", "revenue": "6.99B", "p_e_ratio": "16.25", "beta": "0.6"}
+{"name": "Extreme Networks Inc", "currId": "6508", "short_name": "Extreme", "avg_volume": "1.04M", "market_cap": "621.83M", "revenue": "928.31M", "p_e_ratio": null, "beta": "2.01"}
+{"name": "Axon Enterprise Inc", "currId": "6509", "short_name": "Axon Enterprise", "avg_volume": "547.98K", "market_cap": "7.69B", "revenue": "626.71M", "p_e_ratio": null, "beta": "0.6"}
+{"name": "Hologic Inc", "currId": "6515", "short_name": "Hologic", "avg_volume": "2.15M", "market_cap": "18.06B", "revenue": "3.78B", "p_e_ratio": "16.59", "beta": "1.33"}
+{"name": "Comcast Corp", "currId": "6516", "short_name": "Comcast", "avg_volume": "17.61M", "market_cap": "224.19B", "revenue": "104.25B", "p_e_ratio": "21.93", "beta": "1"}
+{"name": "Capstone Turbine Corp", "currId": "6517", "short_name": "Capstone Turbine", "avg_volume": "174.19K", "market_cap": "63.12M", "revenue": "58.04M", "p_e_ratio": null, "beta": "2.35"}
+{"name": "Marvell Technology Group Ltd", "currId": "6520", "short_name": "Marvell", "avg_volume": "9.09M", "market_cap": "28.99B", "revenue": "2.80B", "p_e_ratio": "21.72", "beta": "1.12"}
+{"name": "Ballard Power Systems Inc", "currId": "6522", "short_name": "Ballard", "avg_volume": "4.09M", "market_cap": "4.22B", "revenue": "141.19M", "p_e_ratio": null, "beta": "1.49"}
+{"name": "Sify Technologies Limited", "currId": "6524", "short_name": "Sify", "avg_volume": "81.98K", "market_cap": "200.46M", "revenue": "499.25M", "p_e_ratio": "22.74", "beta": "1.63"}
+{"name": "CDTi Advanced Materials Inc", "currId": "6539", "short_name": "CDTi Advanced Materials", "avg_volume": "17.79K", "market_cap": "1.51M", "revenue": null, "p_e_ratio": null, "beta": "1.12"}
+{"name": "Nexus Energy Services Inc", "currId": "7237", "short_name": "Nexus Energy", "avg_volume": "791.71K", "market_cap": "17.29M", "revenue": null, "p_e_ratio": null, "beta": "2.49"}
+{"name": "Medtronic PLC", "currId": "7857", "short_name": "Medtronic", "avg_volume": "4.70M", "market_cap": "151.22B", "revenue": "27.93B", "p_e_ratio": "34.71", "beta": "0.69"}
+{"name": "Dover Corporation", "currId": "7858", "short_name": "Dover", "avg_volume": "689.88K", "market_cap": "17.62B", "revenue": "6.68B", "p_e_ratio": "26.62", "beta": "1.35"}
+{"name": "Ashland Global Holdings Inc", "currId": "7860", "short_name": "Ashland Global", "avg_volume": "464.78K", "market_cap": "4.93B", "revenue": "2.33B", "p_e_ratio": null, "beta": "1.46"}
+{"name": "Northrop Grumman Corporation", "currId": "7861", "short_name": "Northrop Grumman", "avg_volume": "820.76K", "market_cap": "51.97B", "revenue": "35.31B", "p_e_ratio": "21.31", "beta": "0.79"}
+{"name": "MGM Resorts International", "currId": "7862", "short_name": "MGM", "avg_volume": "12.79M", "market_cap": "12.79B", "revenue": "6.85B", "p_e_ratio": "9.25", "beta": "2.35"}
+{"name": "Vornado Realty Trust", "currId": "7863", "short_name": "Vornado", "avg_volume": "2.07M", "market_cap": "7.37B", "revenue": "1.61B", "p_e_ratio": "137.76", "beta": "1.43"}
+{"name": "Mastercard Inc", "currId": "7864", "short_name": "Mastercard", "avg_volume": "3.75M", "market_cap": "334.00B", "revenue": "15.60B", "p_e_ratio": "50.48", "beta": "1.19"}
+{"name": "AutoNation Inc", "currId": "7865", "short_name": "AutoNation", "avg_volume": "741.27K", "market_cap": "5.35B", "revenue": "20.15B", "p_e_ratio": "13.89", "beta": "1.61"}
+{"name": "Fluor Corporation", "currId": "7866", "short_name": "Fluor", "avg_volume": "2.37M", "market_cap": "1.88B", "revenue": "15.87B", "p_e_ratio": null, "beta": "2.66"}
+{"name": "General Dynamics Corporation", "currId": "7867", "short_name": "General Dynamics", "avg_volume": "1.27M", "market_cap": "43.38B", "revenue": "38.22B", "p_e_ratio": "13.71", "beta": "1.05"}
+{"name": "DTE Energy Company", "currId": "7868", "short_name": "DTE Energy", "avg_volume": "1.10M", "market_cap": "25.30B", "revenue": "12.04B", "p_e_ratio": "18.51", "beta": "0.63"}
+{"name": "Analog Devices Inc", "currId": "7869", "short_name": "Analog Devices", "avg_volume": "3.13M", "market_cap": "50.36B", "revenue": "5.52B", "p_e_ratio": "45.61", "beta": "1.32"}
+{"name": "VF Corporation", "currId": "7870", "short_name": "VF", "avg_volume": "2.25M", "market_cap": "31.01B", "revenue": "8.51B", "p_e_ratio": null, "beta": "1.28"}
+{"name": "Cardinal Health Inc", "currId": "7874", "short_name": "Cardinal Health", "avg_volume": "2.19M", "market_cap": "16.85B", "revenue": "154.65B", "p_e_ratio": "17.33", "beta": "1.08"}
+{"name": "Xcel Energy Inc", "currId": "7875", "short_name": "Xcel Energy", "avg_volume": "2.19M", "market_cap": "38.93B", "revenue": "11.38B", "p_e_ratio": "26.44", "beta": "0.32"}
+{"name": "DR Horton Inc", "currId": "7876", "short_name": "DR Horton", "avg_volume": "3.22M", "market_cap": "26.67B", "revenue": "20.31B", "p_e_ratio": "11.42", "beta": "1.76"}
+{"name": "Interpublic Group of Companies Inc", "currId": "7877", "short_name": "IPG", "avg_volume": "4.02M", "market_cap": "8.25B", "revenue": "9.41B", "p_e_ratio": "14.69", "beta": "0.94"}
+{"name": "Lockheed Martin Corporation", "currId": "7880", "short_name": "Lockheed Martin", "avg_volume": "1.17M", "market_cap": "104.96B", "revenue": "64.24B", "p_e_ratio": "16.03", "beta": "0.97"}
+{"name": "Waters Corporation", "currId": "7881", "short_name": "Waters", "avg_volume": "425.78K", "market_cap": "14.44B", "revenue": "2.29B", "p_e_ratio": "29.08", "beta": "0.89"}
+{"name": "Accenture plc", "currId": "7884", "short_name": "Accenture", "avg_volume": "1.90M", "market_cap": "159.43B", "revenue": "44.33B", "p_e_ratio": "30.49", "beta": "1.07"}
+{"name": "Dominion Energy Inc", "currId": "7887", "short_name": "Dominion Energy", "avg_volume": "3.54M", "market_cap": "69.30B", "revenue": "19.62B", "p_e_ratio": "43.44", "beta": "0.39"}
+{"name": "Exxon Mobil Corp", "currId": "7888", "short_name": "Exxon Mobil", "avg_volume": "28.88M", "market_cap": "152.55B", "revenue": "195.86B", "p_e_ratio": "59.7", "beta": "1.3"}
+{"name": "Cigna Corp", "currId": "7889", "short_name": "Cigna", "avg_volume": "2.00M", "market_cap": "79.37B", "revenue": "156.85B", "p_e_ratio": "15.4", "beta": "0.88"}
+{"name": "Piper Jaffray Companies", "currId": "7890", "short_name": "Piper Jaffray", "avg_volume": "84.13K", "market_cap": "1.64B", "revenue": "1.13B", "p_e_ratio": "36.89", "beta": "1.41"}
+{"name": "Kinross Gold Corp", "currId": "7891", "short_name": "Kinross Gold", "avg_volume": "13.75M", "market_cap": "10.09B", "revenue": "4.01B", "p_e_ratio": "9.4", "beta": "0.95"}
+{"name": "Public Service Enterprise Group Inc", "currId": "7893", "short_name": "Public Service Enterprise", "avg_volume": "2.06M", "market_cap": "30.04B", "revenue": "9.61B", "p_e_ratio": "17.31", "beta": "0.55"}
+{"name": "NiSource Inc", "currId": "7896", "short_name": "NiSource", "avg_volume": "3.24M", "market_cap": "9.38B", "revenue": "4.87B", "p_e_ratio": null, "beta": "0.26"}
+{"name": "Yingli Green Energy Holding Co Ltd", "currId": "7898", "short_name": "Yingli Green Energy", "avg_volume": "48.93K", "market_cap": "1.79M", "revenue": null, "p_e_ratio": null, "beta": "0.19"}
+{"name": "Zimmer Biomet Holdings Inc", "currId": "7902", "short_name": "Zimmer Biomet", "avg_volume": "1.04M", "market_cap": "31.37B", "revenue": "7.06B", "p_e_ratio": null, "beta": "1.37"}
+{"name": "CSX Corporation", "currId": "7906", "short_name": "CSX", "avg_volume": "4.09M", "market_cap": "69.29B", "revenue": "10.64B", "p_e_ratio": "25.18", "beta": "1.23"}
+{"name": "Intercontinental Exchange Inc", "currId": "7907", "short_name": "ICE", "avg_volume": "2.92M", "market_cap": "55.76B", "revenue": "5.66B", "p_e_ratio": "27.38", "beta": "0.63"}
+{"name": "Southwest Airlines Company", "currId": "7914", "short_name": "Southwest Airlines", "avg_volume": "10.77M", "market_cap": "25.90B", "revenue": "12.77B", "p_e_ratio": null, "beta": "1.21"}
+{"name": "Illinois Tool Works Inc", "currId": "7915", "short_name": "Illinois Tool Works", "avg_volume": "948.71K", "market_cap": "66.93B", "revenue": "12.57B", "p_e_ratio": "32.07", "beta": "1.13"}
+{"name": "Darden Restaurants Inc", "currId": "7916", "short_name": "Darden Restaurants", "avg_volume": "2.07M", "market_cap": "14.01B", "revenue": "7.20B", "p_e_ratio": null, "beta": "1.44"}
+{"name": "Mattel Inc", "currId": "7917", "short_name": "Mattel", "avg_volume": "4.00M", "market_cap": "4.79B", "revenue": "4.43B", "p_e_ratio": null, "beta": "1.31"}
+{"name": "Truist Financial Corp", "currId": "7918", "short_name": "Truist Financial Corp", "avg_volume": "5.19M", "market_cap": "36.16B", "revenue": null, "p_e_ratio": "13.63", "beta": "1.18"}
+{"name": "Cameco Corp", "currId": "7920", "short_name": "Cameco", "avg_volume": "1.92M", "market_cap": "3.82B", "revenue": "46.73M", "p_e_ratio": null, "beta": "0.88"}
+{"name": "Halliburton Company", "currId": "7921", "short_name": "Halliburton", "avg_volume": "13.90M", "market_cap": "12.67B", "revenue": "16.40B", "p_e_ratio": null, "beta": "2.74"}
+{"name": "Prologis Inc", "currId": "7923", "short_name": "Prologis", "avg_volume": "2.40M", "market_cap": "76.53B", "revenue": "4.15B", "p_e_ratio": "45.49", "beta": "0.88"}
+{"name": "McCormick & Company Incorporated", "currId": "7924", "short_name": "McCormick&Co", "avg_volume": "511.76K", "market_cap": "24.63B", "revenue": "5.53B", "p_e_ratio": "32.66", "beta": "0.44"}
+{"name": "Gap Inc", "currId": "7925", "short_name": "Gap", "avg_volume": "9.54M", "market_cap": "8.25B", "revenue": "14.05B", "p_e_ratio": null, "beta": "1.64"}
+{"name": "Terex Corporation", "currId": "7926", "short_name": "Terex", "avg_volume": "683.97K", "market_cap": "2.00B", "revenue": "3.17B", "p_e_ratio": "162.15", "beta": "1.51"}
+{"name": "Host Hotels & Resorts Inc", "currId": "7927", "short_name": "Host Hotels Resorts", "avg_volume": "8.59M", "market_cap": "9.34B", "revenue": "3.75B", "p_e_ratio": "91.16", "beta": "1.22"}
+{"name": "Estee Lauder Companies Inc", "currId": "7929", "short_name": "Estee Lauder", "avg_volume": "1.16M", "market_cap": "92.25B", "revenue": "13.96B", "p_e_ratio": "155.05", "beta": "0.88"}
+{"name": "International Paper Company", "currId": "7930", "short_name": "International Paper", "avg_volume": "2.97M", "market_cap": "18.83B", "revenue": "20.84B", "p_e_ratio": "38.21", "beta": "1.11"}
+{"name": "Emerson Electric Company", "currId": "7931", "short_name": "Emerson", "avg_volume": "2.59M", "market_cap": "45.30B", "revenue": "16.79B", "p_e_ratio": "23.36", "beta": "1.56"}
+{"name": "Clorox Co", "currId": "7933", "short_name": "Clorox", "avg_volume": "1.49M", "market_cap": "26.14B", "revenue": "7.13B", "p_e_ratio": "23.1", "beta": "0.23"}
+{"name": "ConocoPhillips", "currId": "7937", "short_name": "ConocoPhillips", "avg_volume": "9.63M", "market_cap": "37.76B", "revenue": "20.88B", "p_e_ratio": null, "beta": "1.78"}
+{"name": "Colgate-Palmolive Company", "currId": "7938", "short_name": "Colgate-Palmolive", "avg_volume": "3.32M", "market_cap": "73.17B", "revenue": "16.16B", "p_e_ratio": "27.25", "beta": "0.58"}
+{"name": "Noble Corporation PLC", "currId": "7941", "short_name": "Noble Corp", "avg_volume": "1.59M", "market_cap": "6.53M", "revenue": "1.22B", "p_e_ratio": null, "beta": "1.79"}
+{"name": "Pinnacle West Capital Corp", "currId": "7943", "short_name": "Pinnacle West", "avg_volume": "902.27K", "market_cap": "10.07B", "revenue": "3.52B", "p_e_ratio": "19.82", "beta": "0.32"}
+{"name": "Regions Financial Corporation", "currId": "7945", "short_name": "Regions Financial", "avg_volume": "8.16M", "market_cap": "14.31B", "revenue": "3.35B", "p_e_ratio": "18.69", "beta": "1.62"}
+{"name": "CenterPoint Energy Inc", "currId": "7946", "short_name": "CenterPoint Energy", "avg_volume": "4.57M", "market_cap": "13.21B", "revenue": "8.59B", "p_e_ratio": null, "beta": "1"}
+{"name": "MetLife Inc", "currId": "7947", "short_name": "MetLife", "avg_volume": "5.62M", "market_cap": "40.26B", "revenue": "65.70B", "p_e_ratio": "7.34", "beta": "1.33"}
+{"name": "Exelon Corporation", "currId": "7949", "short_name": "Exelon", "avg_volume": "5.88M", "market_cap": "41.84B", "revenue": "33.26B", "p_e_ratio": "17.63", "beta": "0.44"}
+{"name": "Baxter International Inc", "currId": "7951", "short_name": "Baxter", "avg_volume": "3.00M", "market_cap": "42.07B", "revenue": "11.53B", "p_e_ratio": "58.44", "beta": "0.72"}
+{"name": "Occidental Petroleum Corporation", "currId": "7954", "short_name": "Occidental", "avg_volume": "25.27M", "market_cap": "10.99B", "revenue": "20.06B", "p_e_ratio": null, "beta": "2.02"}
+{"name": "Southern Company", "currId": "7956", "short_name": "Southern", "avg_volume": "3.94M", "market_cap": "67.49B", "revenue": "20.17B", "p_e_ratio": "21.44", "beta": "0.43"}
+{"name": "Tapestry Inc", "currId": "7959", "short_name": "Tapestry", "avg_volume": "6.21M", "market_cap": "7.31B", "revenue": "4.78B", "p_e_ratio": null, "beta": "1.26"}
+{"name": "Lennar Corporation", "currId": "7961", "short_name": "Lennar", "avg_volume": "2.78M", "market_cap": "23.64B", "revenue": "22.63B", "p_e_ratio": "10.51", "beta": "1.62"}
+{"name": "Campbell Soup Company", "currId": "7964", "short_name": "Campbell Soup", "avg_volume": "2.28M", "market_cap": "14.87B", "revenue": "8.69B", "p_e_ratio": "25.24", "beta": "0.5"}
+{"name": "CenturyLink Inc", "currId": "7965", "short_name": "CenturyLink", "avg_volume": "10.21M", "market_cap": "10.81B", "revenue": "21.16B", "p_e_ratio": "8.32", "beta": "1.05"}
+{"name": "State Street Corp", "currId": "7967", "short_name": "State Street", "avg_volume": "2.08M", "market_cap": "24.17B", "revenue": "5.88B", "p_e_ratio": "10.93", "beta": "1.63"}
+{"name": "Progressive Corp", "currId": "7968", "short_name": "Progressive", "avg_volume": "2.18M", "market_cap": "56.02B", "revenue": "41.96B", "p_e_ratio": "11.09", "beta": "0.52"}
+{"name": "Harmony Gold Mining Company Limited", "currId": "7969", "short_name": "Harmony Gold Mining", "avg_volume": "6.41M", "market_cap": "2.94B", "revenue": "643.39M", "p_e_ratio": null, "beta": "0.45"}
+{"name": "Cleveland-Cliffs Inc", "currId": "7972", "short_name": "Cleveland-Cliffs", "avg_volume": "9.69M", "market_cap": "3.39B", "revenue": "3.63B", "p_e_ratio": null, "beta": "2.07"}
+{"name": "Vulcan Materials Company", "currId": "7974", "short_name": "Vulcan Materials", "avg_volume": "952.74K", "market_cap": "18.28B", "revenue": "4.87B", "p_e_ratio": "29.93", "beta": "0.63"}
+{"name": "CNX Resources Corp", "currId": "7975", "short_name": "CNX Resources", "avg_volume": "4.68M", "market_cap": "2.23B", "revenue": "1.09B", "p_e_ratio": null, "beta": "1.78"}
+{"name": "Parker-Hannifin Corporation", "currId": "7976", "short_name": "Parker-Hannifin", "avg_volume": "847.84K", "market_cap": "33.36B", "revenue": "13.59B", "p_e_ratio": "28.32", "beta": "1.74"}
+{"name": "Teck Resources Ltd Class B", "currId": "7978", "short_name": "Teck Resources B", "avg_volume": "4.50M", "market_cap": "7.80B", "revenue": "198.95M", "p_e_ratio": null, "beta": "1.25"}
+{"name": "Genuine Parts Co", "currId": "7979", "short_name": "Genuine Parts", "avg_volume": "791.05K", "market_cap": "14.29B", "revenue": "16.99B", "p_e_ratio": "3972.32", "beta": "1.1"}
+{"name": "CBRE Group Inc Class A", "currId": "7980", "short_name": "CBRE A", "avg_volume": "1.53M", "market_cap": "19.40B", "revenue": "24.04B", "p_e_ratio": "18.25", "beta": "1.56"}
+{"name": "DuPont Inc", "currId": "7981", "short_name": "DuPont", "avg_volume": "4.08M", "market_cap": "45.23B", "revenue": "20.35B", "p_e_ratio": null, "beta": null}
+{"name": "Orix Corp Ads", "currId": "7982", "short_name": "Orix", "avg_volume": "43.18K", "market_cap": "17.66B", "revenue": "49.55B", "p_e_ratio": "8.28", "beta": "0.92"}
+{"name": "Sherwin-Williams Co", "currId": "7986", "short_name": "Sherwin-Williams", "avg_volume": "461.47K", "market_cap": "65.95B", "revenue": "17.99B", "p_e_ratio": "35.82", "beta": "1.04"}
+{"name": "Pfizer Inc", "currId": "7989", "short_name": "Pfizer", "avg_volume": "28.08M", "market_cap": "214.67B", "revenue": "48.65B", "p_e_ratio": "25.96", "beta": "0.67"}
+{"name": "NTT Docomo Inc ADR", "currId": "7990", "short_name": "NTT Docomo ADR", "avg_volume": "120.94K", "market_cap": "119.64B", "revenue": "101.28B", "p_e_ratio": "20.56", "beta": "-0.32"}
+{"name": "Wells Fargo & Company", "currId": "7992", "short_name": "Wells Fargo&Co", "avg_volume": "40.63M", "market_cap": "99.52B", "revenue": "40.05B", "p_e_ratio": "64.76", "beta": "1.13"}
+{"name": "Manitowoc Company Inc", "currId": "7996", "short_name": "Manitowoc", "avg_volume": "339.63K", "market_cap": "376.34M", "revenue": "1.48B", "p_e_ratio": null, "beta": "2.29"}
+{"name": "Walmart Inc", "currId": "7997", "short_name": "Walmart", "avg_volume": "9.67M", "market_cap": "426.59B", "revenue": "542.03B", "p_e_ratio": "24", "beta": "0.42"}
+{"name": "Edison International", "currId": "7998", "short_name": "Edison", "avg_volume": "2.19M", "market_cap": "24.25B", "revenue": "13.39B", "p_e_ratio": "65.26", "beta": "0.57"}
+{"name": "KB Home", "currId": "7999", "short_name": "KB Home", "avg_volume": "1.53M", "market_cap": "3.30B", "revenue": "5.62B", "p_e_ratio": "10.14", "beta": "1.98"}
+{"name": "Snap-On Inc", "currId": "8001", "short_name": "Snap-On", "avg_volume": "410.75K", "market_cap": "9.29B", "revenue": "3.81B", "p_e_ratio": "16.03", "beta": "1.3"}
+{"name": "Allegheny Technologies Incorporated", "currId": "8002", "short_name": "Allegheny Technologies", "avg_volume": "2.41M", "market_cap": "1.60B", "revenue": "3.34B", "p_e_ratio": null, "beta": "1.81"}
+{"name": "Xerox Corp", "currId": "8003", "short_name": "Xerox", "avg_volume": "2.74M", "market_cap": "4.29B", "revenue": "7.54B", "p_e_ratio": "13.26", "beta": "1.87"}
+{"name": "Equifax Inc", "currId": "8007", "short_name": "Equifax", "avg_volume": "854.85K", "market_cap": "20.08B", "revenue": "3.91B", "p_e_ratio": "45.88", "beta": "1.28"}
+{"name": "Gold Fields Ltd ADR", "currId": "8008", "short_name": "Gold Fields ADR", "avg_volume": "5.93M", "market_cap": "9.48B", "revenue": "3.34B", "p_e_ratio": "36.93", "beta": "0.67"}
+{"name": "Konami Holdings Corp", "currId": "8010", "short_name": "Konami Holdings", "avg_volume": "1.33K", "market_cap": "6.65B", "revenue": "5.67B", "p_e_ratio": "38.01", "beta": "0.73"}
+{"name": "McKesson Corporation", "currId": "8014", "short_name": "McKesson", "avg_volume": "1.10M", "market_cap": "29.68B", "revenue": "234.19B", "p_e_ratio": "14.07", "beta": "0.93"}
+{"name": "Entergy Corporation", "currId": "8015", "short_name": "Entergy", "avg_volume": "1.14M", "market_cap": "21.86B", "revenue": "10.21B", "p_e_ratio": "15.83", "beta": "0.51"}
+{"name": "CMS Energy Corporation", "currId": "8016", "short_name": "CMS Energy", "avg_volume": "1.63M", "market_cap": "18.63B", "revenue": "6.68B", "p_e_ratio": "25.39", "beta": "0.15"}
+{"name": "Honda Motor Co Ltd ADR", "currId": "8019", "short_name": "Honda Motor ADR", "avg_volume": "634.20K", "market_cap": "48.09B", "revenue": "285.58B", "p_e_ratio": "20.88", "beta": "0.94"}
+{"name": "Ameriprise Financial Inc", "currId": "8020", "short_name": "Ameriprise Financial", "avg_volume": "645.40K", "market_cap": "21.81B", "revenue": "11.87B", "p_e_ratio": "13.25", "beta": "1.78"}
+{"name": "American International Group Inc", "currId": "8021", "short_name": "AIG", "avg_volume": "6.83M", "market_cap": "32.15B", "revenue": "45.91B", "p_e_ratio": null, "beta": "1.36"}
+{"name": "Ralph Lauren Corp Class A", "currId": "8022", "short_name": "Ralph Lauren A", "avg_volume": "1.36M", "market_cap": "5.67B", "revenue": "4.71B", "p_e_ratio": null, "beta": "1.36"}
+{"name": "Leggett & Platt Incorporated", "currId": "8023", "short_name": "Leggett&Platt", "avg_volume": "1.00M", "market_cap": "5.55B", "revenue": "4.24B", "p_e_ratio": "24.62", "beta": "1.48"}
+{"name": "L Brands Inc", "currId": "8024", "short_name": "L Brands", "avg_volume": "4.52M", "market_cap": "9.54B", "revenue": "11.36B", "p_e_ratio": null, "beta": "1.61"}
+{"name": "International Flavors & Fragrances Inc", "currId": "8026", "short_name": "IFF", "avg_volume": "1.08M", "market_cap": "11.99B", "revenue": "6.45B", "p_e_ratio": "34.5", "beta": "1.01"}
+{"name": "Petroleo Brasileiro Petrobras SA ADR", "currId": "8028", "short_name": "Petroleo Brasileiro Petrobras ADR", "avg_volume": "21.92M", "market_cap": "54.83B", "revenue": "6.14B", "p_e_ratio": null, "beta": "1.94"}
+{"name": "M/I Homes Inc", "currId": "8029", "short_name": "M/I Homes", "avg_volume": "269.98K", "market_cap": "1.27B", "revenue": "2.88B", "p_e_ratio": "6.35", "beta": "2.19"}
+{"name": "WW Grainger Inc", "currId": "8030", "short_name": "WW Grainger", "avg_volume": "289.63K", "market_cap": "21.64B", "revenue": "11.70B", "p_e_ratio": "34.47", "beta": "1.13"}
+{"name": "JC Penney Company Inc Holding", "currId": "8032", "short_name": "JC Penney", "avg_volume": "11.19M", "market_cap": "55.82M", "revenue": "8.65B", "p_e_ratio": null, "beta": "1.65"}
+{"name": "Diamond Offshore Drilling Inc", "currId": "8033", "short_name": "Diamond Offshore Drilling", "avg_volume": "296.44K", "market_cap": "23.47M", "revenue": "842.01M", "p_e_ratio": null, "beta": "0.4"}
+{"name": "Constellation Brands Inc Class A", "currId": "8034", "short_name": "Constellation Brands A", "avg_volume": "1.10M", "market_cap": "38.94B", "revenue": "8.13B", "p_e_ratio": "37.77", "beta": "1.08"}
+{"name": "American Tower Corp", "currId": "8036", "short_name": "American Tower", "avg_volume": "1.82M", "market_cap": "107.98B", "revenue": "7.84B", "p_e_ratio": "57.42", "beta": "0.32"}
+{"name": "Grupo Televisa SAB ADR", "currId": "8037", "short_name": "Grupo Televisa ADR", "avg_volume": "1.29M", "market_cap": "4.62B", "revenue": "2.15B", "p_e_ratio": null, "beta": "1.22"}
+{"name": "Philip Morris International Inc", "currId": "8039", "short_name": "Philip Morris", "avg_volume": "4.44M", "market_cap": "118.18B", "revenue": "28.96B", "p_e_ratio": "15.4", "beta": "0.78"}
+{"name": "Fidelity National Information Services Inc", "currId": "8042", "short_name": "Fidelity National Info", "avg_volume": "3.09M", "market_cap": "89.80B", "revenue": "12.58B", "p_e_ratio": null, "beta": "0.81"}
+{"name": "Altria Group", "currId": "8044", "short_name": "Altria", "avg_volume": "8.44M", "market_cap": "74.95B", "revenue": "25.86B", "p_e_ratio": "86.19", "beta": "0.57"}
+{"name": "El Paso Energy Capital Trust I", "currId": "8045", "short_name": "El Paso Energy Capital Trust I", "avg_volume": "2.47K", "market_cap": null, "revenue": null, "p_e_ratio": null, "beta": null}
+{"name": "Stewart Information Services Corp", "currId": "8046", "short_name": "Stewart Info Services", "avg_volume": "280.93K", "market_cap": "1.14B", "revenue": "2.06B", "p_e_ratio": "11.05", "beta": "1.09"}
+{"name": "Ball Corporation", "currId": "8048", "short_name": "Ball", "avg_volume": "1.53M", "market_cap": "30.96B", "revenue": "11.40B", "p_e_ratio": "60.9", "beta": "0.46"}
+{"name": "Hartford Financial Services Group", "currId": "8050", "short_name": "Hartford", "avg_volume": "2.37M", "market_cap": "16.20B", "revenue": "20.56B", "p_e_ratio": "9.46", "beta": "1.05"}
+{"name": "Hershey Company", "currId": "8052", "short_name": "Hershey", "avg_volume": "747.47K", "market_cap": "32.05B", "revenue": "8.03B", "p_e_ratio": "27.02", "beta": "0.32"}
+{"name": "Site Centers Corp", "currId": "8053", "short_name": "Site Centers", "avg_volume": "1.36M", "market_cap": "1.78B", "revenue": "468.21M", "p_e_ratio": "56.86", "beta": "1.56"}
+{"name": "DXC Technology Co", "currId": "8054", "short_name": "DXC Technology", "avg_volume": "2.71M", "market_cap": "5.22B", "revenue": "18.89B", "p_e_ratio": null, "beta": "2.43"}
+{"name": "Morgan Stanley", "currId": "8056", "short_name": "Morgan Stanley", "avg_volume": "11.88M", "market_cap": "102.42B", "revenue": "51.41B", "p_e_ratio": "9.55", "beta": "1.51"}
+{"name": "PNC Financial Services Group Inc", "currId": "8057", "short_name": "PNC Financial", "avg_volume": "2.07M", "market_cap": "52.02B", "revenue": "13.90B", "p_e_ratio": "20.15", "beta": "1.26"}
+{"name": "Waste Management Inc", "currId": "8058", "short_name": "Waste Management", "avg_volume": "1.59M", "market_cap": "51.52B", "revenue": "15.00B", "p_e_ratio": "34.42", "beta": "0.77"}
+{"name": "AmerisourceBergen", "currId": "8060", "short_name": "AmerisourceBergen", "avg_volume": "912.85K", "market_cap": "22.07B", "revenue": "189.89B", "p_e_ratio": null, "beta": "0.6"}
+{"name": "Assurant Inc", "currId": "8061", "short_name": "Assurant", "avg_volume": "365.37K", "market_cap": "7.84B", "revenue": "10.14B", "p_e_ratio": "20.53", "beta": "0.65"}
+{"name": "Kroger Company", "currId": "8062", "short_name": "Kroger", "avg_volume": "8.44M", "market_cap": "24.89B", "revenue": "128.91B", "p_e_ratio": "9.82", "beta": "0.33"}
+{"name": "Molson Coors Brewing Co Class B", "currId": "8063", "short_name": "Molson Coors Brewing B", "avg_volume": "2.44M", "market_cap": "9.73B", "revenue": "9.85B", "p_e_ratio": "16.39", "beta": "1.09"}
+{"name": "Home Depot Inc", "currId": "8064", "short_name": "Home Depot", "avg_volume": "3.51M", "market_cap": "298.36B", "revenue": "119.32B", "p_e_ratio": "25.39", "beta": "1.08"}
+{"name": "Becton Dickinson and Company", "currId": "8067", "short_name": "Becton Dickinson", "avg_volume": "1.43M", "market_cap": "70.38B", "revenue": "17.12B", "p_e_ratio": "88.96", "beta": "0.83"}
+{"name": "Arch Resources Inc", "currId": "8070", "short_name": "Arch Resources", "avg_volume": "436.68K", "market_cap": "443.97M", "revenue": "1.66B", "p_e_ratio": null, "beta": "1.02"}
+{"name": "JM Smucker Company", "currId": "8071", "short_name": "JM Smucker", "avg_volume": "825.32K", "market_cap": "13.59B", "revenue": "7.99B", "p_e_ratio": "15.77", "beta": "0.27"}
+{"name": "VMware Inc", "currId": "8074", "short_name": "VMware", "avg_volume": "1.14M", "market_cap": "59.60B", "revenue": "11.72B", "p_e_ratio": "33.2", "beta": "0.92"}
+{"name": "Sealed Air Corporation", "currId": "8076", "short_name": "Sealed Air", "avg_volume": "1.18M", "market_cap": "6.69B", "revenue": "4.86B", "p_e_ratio": "14.61", "beta": "1.21"}
+{"name": "Best Buy Co Inc", "currId": "8077", "short_name": "Best Buy", "avg_volume": "2.41M", "market_cap": "29.58B", "revenue": "43.43B", "p_e_ratio": "18.51", "beta": "1.68"}
+{"name": "Archer-Daniels-Midland Company", "currId": "8080", "short_name": "Archer-Daniels-Midland", "avg_volume": "3.06M", "market_cap": "27.74B", "revenue": "62.71B", "p_e_ratio": "17.18", "beta": "0.87"}
+{"name": "Brown Forman", "currId": "8081", "short_name": "Brown Forman", "avg_volume": "772.79K", "market_cap": "38.08B", "revenue": "3.35B", "p_e_ratio": "39.63", "beta": "0.77"}
+{"name": "International Business Machines", "currId": "8082", "short_name": "IBM", "avg_volume": "5.22M", "market_cap": "104.12B", "revenue": "75.03B", "p_e_ratio": "13.04", "beta": "1.23"}
+{"name": "Union Pacific Corporation", "currId": "8083", "short_name": "Union Pacific", "avg_volume": "2.87M", "market_cap": "137.09B", "revenue": "19.60B", "p_e_ratio": "25.92", "beta": "1.13"}
+{"name": "China Fund Inc", "currId": "8085", "short_name": "China Fund", "avg_volume": "13.69K", "market_cap": "304.32M", "revenue": "4.67M", "p_e_ratio": "26.24", "beta": "0.91"}
+{"name": "Sony Corp ADR", "currId": "8086", "short_name": "Sony ADR", "avg_volume": "1.10M", "market_cap": "109.96B", "revenue": "182.47B", "p_e_ratio": "12.61", "beta": "0.93"}
+{"name": "Ryder System Inc", "currId": "8087", "short_name": "Ryder System", "avg_volume": "510.97K", "market_cap": "3.01B", "revenue": "10.65B", "p_e_ratio": null, "beta": "1.98"}
+{"name": "SLM Corp", "currId": "8089", "short_name": "SLM", "avg_volume": "4.18M", "market_cap": "4.06B", "revenue": "1.01B", "p_e_ratio": "7.7", "beta": "1.41"}
+{"name": "Micron Technology Inc", "currId": "8092", "short_name": "Micron", "avg_volume": "17.77M", "market_cap": "64.49B", "revenue": "21.44B", "p_e_ratio": "24.37", "beta": "1.28"}
+{"name": "Avery Dennison Corp", "currId": "8097", "short_name": "Avery Dennison", "avg_volume": "573.77K", "market_cap": "12.48B", "revenue": "6.75B", "p_e_ratio": "23.91", "beta": "0.99"}
+{"name": "Weatherford International PLC", "currId": "8098", "short_name": "Weatherford", "avg_volume": "71.01K", "market_cap": "165.24M", "revenue": "4.09B", "p_e_ratio": "0.09", "beta": null}
+{"name": "Marathon Oil Corporation", "currId": "8099", "short_name": "Marathon Oil", "avg_volume": "27.62M", "market_cap": "3.99B", "revenue": "3.47B", "p_e_ratio": null, "beta": "3.28"}
+{"name": "CF Industries Holdings Inc", "currId": "8102", "short_name": "CF Industries", "avg_volume": "2.28M", "market_cap": "6.61B", "revenue": "4.07B", "p_e_ratio": "23.41", "beta": "1.11"}
+{"name": "Apache Corporation", "currId": "8103", "short_name": "Apache", "avg_volume": "11.10M", "market_cap": "3.90B", "revenue": "4.84B", "p_e_ratio": null, "beta": "4.76"}
+{"name": "Duke Energy Corporation", "currId": "8104", "short_name": "Duke Energy", "avg_volume": "3.37M", "market_cap": "69.90B", "revenue": "24.19B", "p_e_ratio": "34.64", "beta": "0.24"}
+{"name": "KeyCorp", "currId": "8105", "short_name": "KeyCorp", "avg_volume": "8.54M", "market_cap": "14.52B", "revenue": "3.68B", "p_e_ratio": "13.07", "beta": "1.56"}
+{"name": "Teradata Corp", "currId": "8106", "short_name": "Teradata", "avg_volume": "1.11M", "market_cap": "2.31B", "revenue": "1.84B", "p_e_ratio": "22.65", "beta": "1.18"}
+{"name": "Synovus Financial Corp", "currId": "8107", "short_name": "Synovus", "avg_volume": "1.23M", "market_cap": "4.38B", "revenue": "1.18B", "p_e_ratio": "12.94", "beta": "1.65"}
+{"name": "Wheaton Precious Metals Corp", "currId": "8111", "short_name": "Wheaton Precious Metals", "avg_volume": "1.81M", "market_cap": "20.42B", "revenue": "1.03B", "p_e_ratio": "47.79", "beta": "0.48"}
+{"name": "Laboratory Corporation of America Holdings", "currId": "8113", "short_name": "Laboratory America", "avg_volume": "712.93K", "market_cap": "19.44B", "revenue": "12.44B", "p_e_ratio": "23.22", "beta": "1.13"}
+{"name": "Boston Properties Inc", "currId": "8116", "short_name": "Boston Properties", "avg_volume": "1.33M", "market_cap": "14.26B", "revenue": "3.61B", "p_e_ratio": "14.31", "beta": "1.16"}
+{"name": "Western Digital Corporation", "currId": "8117", "short_name": "Western Digital", "avg_volume": "6.06M", "market_cap": "12.62B", "revenue": "16.62B", "p_e_ratio": null, "beta": "1.62"}
+{"name": "PPG Industries Inc", "currId": "8118", "short_name": "PPG Industries", "avg_volume": "1.30M", "market_cap": "33.73B", "revenue": "13.75B", "p_e_ratio": "31.49", "beta": "1.13"}
+{"name": "S&P Global Inc", "currId": "8119", "short_name": "S&P Global", "avg_volume": "868.00K", "market_cap": "82.27B", "revenue": "7.31B", "p_e_ratio": "34.23", "beta": "1.02"}
+{"name": "Abercrombie & Fitch Company", "currId": "8120", "short_name": "Abercrombie&Fitch", "avg_volume": "2.39M", "market_cap": "1.13B", "revenue": "3.23B", "p_e_ratio": null, "beta": "1.67"}
+{"name": "Williams Companies Inc", "currId": "8122", "short_name": "Williams", "avg_volume": "8.95M", "market_cap": "24.32B", "revenue": "7.73B", "p_e_ratio": "105.74", "beta": "1.72"}
+{"name": "Anthem Inc", "currId": "8123", "short_name": "Anthem", "avg_volume": "1.28M", "market_cap": "82.81B", "revenue": "117.53B", "p_e_ratio": "17.21", "beta": "1.05"}
+{"name": "Brunswick Corporation", "currId": "8124", "short_name": "Brunswick", "avg_volume": "839.61K", "market_cap": "5.52B", "revenue": "4.10B", "p_e_ratio": "15.98", "beta": "1.96"}
+{"name": "Jacobs Engineering Group Inc", "currId": "8125", "short_name": "Jacobs Engineering", "avg_volume": "736.11K", "market_cap": "13.45B", "revenue": "16.80B", "p_e_ratio": "39.84", "beta": "0.89"}
+{"name": "Eastman Chemical Company", "currId": "8126", "short_name": "Eastman Chemical", "avg_volume": "886.22K", "market_cap": "12.73B", "revenue": "8.49B", "p_e_ratio": "27.17", "beta": "1.55"}
+{"name": "Verizon Communications Inc", "currId": "8127", "short_name": "Verizon", "avg_volume": "14.66M", "market_cap": "252.67B", "revenue": "128.38B", "p_e_ratio": "13.81", "beta": "0.41"}
+{"name": "Nucor Corp", "currId": "8128", "short_name": "Nucor", "avg_volume": "1.84M", "market_cap": "15.60B", "revenue": "20.01B", "p_e_ratio": "36.66", "beta": "1.35"}
+{"name": "Omnicom Group Inc", "currId": "8129", "short_name": "Omnicom", "avg_volume": "2.24M", "market_cap": "12.55B", "revenue": "13.56B", "p_e_ratio": "13.2", "beta": "0.77"}
+{"name": "New York Times Company", "currId": "8130", "short_name": "NewYork Times", "avg_volume": "1.72M", "market_cap": "6.65B", "revenue": "1.78B", "p_e_ratio": "42.18", "beta": "0.76"}
+{"name": "Lincoln National Corporation", "currId": "8131", "short_name": "Lincoln National", "avg_volume": "2.06M", "market_cap": "8.06B", "revenue": "17.65B", "p_e_ratio": "10.69", "beta": "2.16"}
+{"name": "UBS Group AG (NYSE)", "currId": "8132", "short_name": "UBS Group", "avg_volume": "2.77M", "market_cap": "48.89B", "revenue": "19.56B", "p_e_ratio": "8.99", "beta": "1.23"}
+{"name": "National Oilwell Varco Inc", "currId": "8134", "short_name": "National Oilwell Varco", "avg_volume": "5.29M", "market_cap": "4.26B", "revenue": "7.04B", "p_e_ratio": null, "beta": "2.09"}
+{"name": "AvalonBay Communities Inc", "currId": "8135", "short_name": "AvalonBay", "avg_volume": "1.11M", "market_cap": "23.64B", "revenue": "2.34B", "p_e_ratio": "36.46", "beta": "1"}
+{"name": "Marriott International Inc", "currId": "8136", "short_name": "Marriott Int", "avg_volume": "2.90M", "market_cap": "38.92B", "revenue": "13.77B", "p_e_ratio": "227.94", "beta": "1.78"}
+{"name": "Ingersoll Rand Inc", "currId": "8137", "short_name": "Ingersoll Rand", "avg_volume": "2.26M", "market_cap": "17.86B", "revenue": "4.01B", "p_e_ratio": null, "beta": "1.51"}
+{"name": "Bristol-Myers Squibb Company", "currId": "8142", "short_name": "Bristol-Myers Squibb", "avg_volume": "10.16M", "market_cap": "143.78B", "revenue": "39.40B", "p_e_ratio": null, "beta": "0.67"}
+{"name": "Genworth Financial Inc", "currId": "8143", "short_name": "Genworth", "avg_volume": "5.47M", "market_cap": "2.28B", "revenue": "8.44B", "p_e_ratio": "4.93", "beta": "1.2"}
+{"name": "American Electric Power Company Inc", "currId": "8144", "short_name": "American Electric Power", "avg_volume": "2.62M", "market_cap": "44.61B", "revenue": "14.92B", "p_e_ratio": "23.26", "beta": "0.27"}
+{"name": "Thermo Fisher Scientific Inc", "currId": "8147", "short_name": "Thermo Fisher Scientific", "avg_volume": "1.40M", "market_cap": "193.65B", "revenue": "28.50B", "p_e_ratio": "40.03", "beta": "0.94"}
+{"name": "Kohls Corp", "currId": "8148", "short_name": "Kohls Corp", "avg_volume": "9.59M", "market_cap": "3.83B", "revenue": "17.29B", "p_e_ratio": null, "beta": "1.72"}
+{"name": "Newmont Goldcorp Corp", "currId": "8150", "short_name": "Newmont Goldcorp", "avg_volume": "5.82M", "market_cap": "52.79B", "revenue": "11.08B", "p_e_ratio": "22.2", "beta": "0.27"}
+{"name": "Varian Medical Systems Inc", "currId": "8153", "short_name": "Varian", "avg_volume": "1.26M", "market_cap": "15.85B", "revenue": "3.17B", "p_e_ratio": "58.33", "beta": "1.12"}
+{"name": "Graham Holdings Co", "currId": "8154", "short_name": "Graham Holdings", "avg_volume": "25.48K", "market_cap": "2.24B", "revenue": "3.60B", "p_e_ratio": "11.26", "beta": "1.09"}
+{"name": "Tata Motors Limited ADR", "currId": "8156", "short_name": "Tata Motors ADR", "avg_volume": "1.50M", "market_cap": "2.97B", "revenue": null, "p_e_ratio": "2.58", "beta": "2.17"}
+{"name": "Public Storage", "currId": "8158", "short_name": "Public Storage", "avg_volume": "757.10K", "market_cap": "40.92B", "revenue": "2.87B", "p_e_ratio": "36.06", "beta": "0.1"}
+{"name": "The Travelers Companies Inc", "currId": "8159", "short_name": "Travelers", "avg_volume": "1.48M", "market_cap": "34.10B", "revenue": "31.67B", "p_e_ratio": "15.41", "beta": "0.8"}
+{"name": "Stanley Black & Decker Inc", "currId": "8160", "short_name": "Stanley Black Decker", "avg_volume": "976.09K", "market_cap": "29.06B", "revenue": "13.84B", "p_e_ratio": "29.41", "beta": "1.51"}
+{"name": "MBIA Inc", "currId": "8162", "short_name": "MBIA", "avg_volume": "647.92K", "market_cap": "319.79M", "revenue": "237.00M", "p_e_ratio": null, "beta": "1.01"}
+{"name": "HDFC Bank Limited ADR", "currId": "8165", "short_name": "HDFC Bank ADR", "avg_volume": "1.40M", "market_cap": "100.25B", "revenue": null, "p_e_ratio": "49.51", "beta": "0.85"}
+{"name": "Nippon Telegraph and Telephone Corp ADR", "currId": "8166", "short_name": "Nippon ADR", "avg_volume": "212.32K", "market_cap": "91.88B", "revenue": "257.87B", "p_e_ratio": "10.84", "beta": "0.17"}
+{"name": "Franklin Resources Inc", "currId": "8167", "short_name": "Franklin Resources", "avg_volume": "3.45M", "market_cap": "10.16B", "revenue": "5.39B", "p_e_ratio": "10.01", "beta": "1.22"}
+{"name": "Humana Inc", "currId": "8169", "short_name": "Humana", "avg_volume": "670.84K", "market_cap": "57.36B", "revenue": "74.39B", "p_e_ratio": "13.89", "beta": "0.94"}
+{"name": "H&R Block Inc", "currId": "8170", "short_name": "H&R Block", "avg_volume": "4.12M", "market_cap": "3.37B", "revenue": "3.09B", "p_e_ratio": "13.45", "beta": "0.73"}
+{"name": "ViacomCBS Inc", "currId": "8171", "short_name": "ViacomCBS", "avg_volume": "9.74M", "market_cap": "18.64B", "revenue": "35.60B", "p_e_ratio": "7.45", "beta": "1.71"}
+{"name": "Unum Group", "currId": "8174", "short_name": "Unum", "avg_volume": "2.39M", "market_cap": "4.25B", "revenue": "11.93B", "p_e_ratio": "4.48", "beta": "1.73"}
+{"name": "Chubb Ltd", "currId": "8175", "short_name": "Chubb", "avg_volume": "1.88M", "market_cap": "67.37B", "revenue": "34.89B", "p_e_ratio": "29.68", "beta": "0.67"}
+{"name": "Jefferies Financial Group Inc", "currId": "8176", "short_name": "Jefferies Financial", "avg_volume": "1.71M", "market_cap": "5.94B", "revenue": "7.66B", "p_e_ratio": "10.57", "beta": "1.48"}
+{"name": "Johnson & Johnson", "currId": "8177", "short_name": "J&J", "avg_volume": "6.40M", "market_cap": "394.62B", "revenue": "80.86B", "p_e_ratio": "23.99", "beta": "0.72"}
+{"name": "Tyson Foods Inc", "currId": "8179", "short_name": "Tyson Foods", "avg_volume": "2.44M", "market_cap": "22.76B", "revenue": "42.61B", "p_e_ratio": "12.45", "beta": "0.71"}
+{"name": "Target Corporation", "currId": "8180", "short_name": "Target", "avg_volume": "3.87M", "market_cap": "81.54B", "revenue": "84.65B", "p_e_ratio": "23.57", "beta": "0.91"}
+{"name": "Jabil Circuit Inc", "currId": "8181", "short_name": "Jabil Circuit", "avg_volume": "1.20M", "market_cap": "5.64B", "revenue": "27.27B", "p_e_ratio": "122.2", "beta": "1.33"}
+{"name": "American Express Company", "currId": "8182", "short_name": "American Express", "avg_volume": "4.37M", "market_cap": "92.59B", "revenue": "39.24B", "p_e_ratio": "28.39", "beta": "1.32"}
+{"name": "America Movil SAB de CV ADR", "currId": "8183", "short_name": "America Movil ADR", "avg_volume": "2.61M", "market_cap": "45.98B", "revenue": "22.55B", "p_e_ratio": "31", "beta": "0.68"}
+{"name": "Masco Corporation", "currId": "8184", "short_name": "Masco", "avg_volume": "1.84M", "market_cap": "14.37B", "revenue": "6.25B", "p_e_ratio": "20.85", "beta": "1.43"}
+{"name": "United States Steel Corporation", "currId": "8185", "short_name": "United States Steel", "avg_volume": "10.45M", "market_cap": "2.33B", "revenue": "10.00B", "p_e_ratio": null, "beta": "2.21"}
+{"name": "Stryker Corporation", "currId": "8186", "short_name": "Stryker", "avg_volume": "1.16M", "market_cap": "87.16B", "revenue": "14.22B", "p_e_ratio": "50.23", "beta": "0.88"}
+{"name": "Mitsubishi UFJ Financial Group Inc ADR", "currId": "8187", "short_name": "Mitsubishi UFJ Financial ADR", "avg_volume": "1.06M", "market_cap": "54.69B", "revenue": "69.52B", "p_e_ratio": "18.41", "beta": "1.21"}
+{"name": "Discover Financial Services", "currId": "8188", "short_name": "Discover", "avg_volume": "3.02M", "market_cap": "23.48B", "revenue": "6.27B", "p_e_ratio": "23.49", "beta": "1.81"}
+{"name": "Prudential Financial Inc", "currId": "8191", "short_name": "Prudential Financial", "avg_volume": "2.25M", "market_cap": "28.96B", "revenue": "73.76B", "p_e_ratio": null, "beta": "1.71"}
+{"name": "Abbott Laboratories", "currId": "8192", "short_name": "Abbott Labs", "avg_volume": "5.55M", "market_cap": "199.57B", "revenue": "32.22B", "p_e_ratio": "59.9", "beta": "0.89"}
+{"name": "General Electric Company", "currId": "8193", "short_name": "General Electric", "avg_volume": "105.85M", "market_cap": "81.03B", "revenue": "83.93B", "p_e_ratio": "23.1", "beta": "0.92"}
+{"name": "Oi SA ADR Pref", "currId": "8195", "short_name": "Oi ADR Pref", "avg_volume": "65.96K", "market_cap": "1.97B", "revenue": "422.56M", "p_e_ratio": null, "beta": "2.19"}
+{"name": "Meredith Corporation", "currId": "8197", "short_name": "Meredith", "avg_volume": "643.83K", "market_cap": "757.77M", "revenue": "2.82B", "p_e_ratio": null, "beta": "1.97"}
+{"name": "Quest Diagnostics Incorporated", "currId": "8198", "short_name": "Quest Diagnostics", "avg_volume": "1.28M", "market_cap": "16.38B", "revenue": "8.36B", "p_e_ratio": "15.06", "beta": "1.1"}
+{"name": "United Parcel Service Inc", "currId": "8199", "short_name": "United Parcel Service", "avg_volume": "3.78M", "market_cap": "141.48B", "revenue": "80.30B", "p_e_ratio": "31.08", "beta": "1"}
+{"name": "Yamana Gold Inc", "currId": "8200", "short_name": "Yamana Gold", "avg_volume": "15.58M", "market_cap": "5.23B", "revenue": "1.48B", "p_e_ratio": "45.47", "beta": "1.55"}
+{"name": "CVS Health Corp", "currId": "8201", "short_name": "CVS Health Corp", "avg_volume": "8.26M", "market_cap": "92.93B", "revenue": "266.04B", "p_e_ratio": "11.72", "beta": "0.81"}
+{"name": "ITT Inc", "currId": "8202", "short_name": "ITT", "avg_volume": "448.61K", "market_cap": "6.01B", "revenue": "2.49B", "p_e_ratio": "41.44", "beta": "1.54"}
+{"name": "PPL Corporation", "currId": "8203", "short_name": "PPL", "avg_volume": "4.51M", "market_cap": "22.92B", "revenue": "7.63B", "p_e_ratio": "14.78", "beta": "0.8"}
+{"name": "Robert Half International Inc", "currId": "8207", "short_name": "Robert Half", "avg_volume": "917.46K", "market_cap": "7.20B", "revenue": "5.34B", "p_e_ratio": "22.18", "beta": "1.66"}
+{"name": "Simon Property Group Inc", "currId": "8210", "short_name": "Simon Property", "avg_volume": "5.07M", "market_cap": "22.85B", "revenue": "4.96B", "p_e_ratio": "16.98", "beta": "1.4"}
+{"name": "Icici Bank Limited ADR", "currId": "8214", "short_name": "ICICI Bank ADR", "avg_volume": "7.74M", "market_cap": "44.95B", "revenue": "17.00B", "p_e_ratio": "23.47", "beta": "1.31"}
+{"name": "Big Lots Inc", "currId": "8215", "short_name": "Big Lots", "avg_volume": "1.48M", "market_cap": "1.86B", "revenue": "5.86B", "p_e_ratio": "2.61", "beta": "2.51"}
+{"name": "Johnson Controls International PLC", "currId": "8217", "short_name": "Johnson Controls", "avg_volume": "4.79M", "market_cap": "33.22B", "revenue": "22.32B", "p_e_ratio": "53.18", "beta": "1.04"}
+{"name": "Cummins Inc", "currId": "8218", "short_name": "Cummins", "avg_volume": "942.75K", "market_cap": "35.01B", "revenue": "19.56B", "p_e_ratio": "22.29", "beta": "1.18"}
+{"name": "Allstate Corp", "currId": "8221", "short_name": "Allstate", "avg_volume": "1.94M", "market_cap": "29.41B", "revenue": "44.25B", "p_e_ratio": "6.78", "beta": "0.75"}
+{"name": "Sempra Energy", "currId": "8222", "short_name": "Sempra Energy", "avg_volume": "1.35M", "market_cap": "38.81B", "revenue": "11.08B", "p_e_ratio": "21.46", "beta": "0.69"}
+{"name": "Devon Energy Corporation", "currId": "8224", "short_name": "Devon Energy", "avg_volume": "9.79M", "market_cap": "4.51B", "revenue": "4.77B", "p_e_ratio": null, "beta": "3.36"}
+{"name": "ConAgra Foods Inc", "currId": "8225", "short_name": "ConAgra Foods", "avg_volume": "2.78M", "market_cap": "17.60B", "revenue": "11.34B", "p_e_ratio": "17.71", "beta": "0.86"}
+{"name": "TJX Companies Inc", "currId": "8227", "short_name": "TJX", "avg_volume": "7.12M", "market_cap": "71.50B", "revenue": "33.73B", "p_e_ratio": "105.63", "beta": "0.85"}
+{"name": "Whirlpool Corporation", "currId": "8228", "short_name": "Whirlpool", "avg_volume": "690.94K", "market_cap": "11.80B", "revenue": "19.04B", "p_e_ratio": "12.75", "beta": "1.95"}
+{"name": "Range Resources Corp", "currId": "8229", "short_name": "Range Resources", "avg_volume": "5.63M", "market_cap": "1.84B", "revenue": "1.85B", "p_e_ratio": null, "beta": "2.85"}
+{"name": "FirstEnergy Corporation", "currId": "8231", "short_name": "FirstEnergy", "avg_volume": "5.42M", "market_cap": "16.00B", "revenue": "10.87B", "p_e_ratio": "29.56", "beta": "0.24"}
+{"name": "Hovnanian Enterprises Inc", "currId": "8233", "short_name": "Hovnanian Enterprises", "avg_volume": "194.19K", "market_cap": "244.69M", "revenue": "2.37B", "p_e_ratio": "33.1", "beta": "2.7"}
+{"name": "Globe Life Inc", "currId": "8234", "short_name": "Globe Life", "avg_volume": "454.56K", "market_cap": "9.63B", "revenue": "4.65B", "p_e_ratio": "13.97", "beta": "1.14"}
+{"name": "Raytheon Technologies Corp", "currId": "8235", "short_name": "Raytheon Technologies", "avg_volume": "8.51M", "market_cap": "100.46B", "revenue": "59.72B", "p_e_ratio": null, "beta": "1.41"}
+{"name": "PulteGroup Inc", "currId": "8237", "short_name": "PulteGroup", "avg_volume": "2.69M", "market_cap": "11.51B", "revenue": "13.16B", "p_e_ratio": "8.96", "beta": "1.47"}
+{"name": "Wyndham Destinations Inc", "currId": "8239", "short_name": "Wyndham", "avg_volume": "808.32K", "market_cap": "3.57B", "revenue": "2.50B", "p_e_ratio": null, "beta": "1.9"}
+{"name": "Valero Energy Corporation", "currId": "8241", "short_name": "Valero Energy", "avg_volume": "5.04M", "market_cap": "20.76B", "revenue": "76.19B", "p_e_ratio": null, "beta": "2.06"}
+{"name": "International Game Technology PLC", "currId": "8243", "short_name": "IGT", "avg_volume": "2.37M", "market_cap": "2.18B", "revenue": "3.81B", "p_e_ratio": null, "beta": "2.1"}
+{"name": "Boston Scientific Corp", "currId": "8248", "short_name": "Boston Scientific", "avg_volume": "9.56M", "market_cap": "54.38B", "revenue": "10.11B", "p_e_ratio": null, "beta": "0.99"}
+{"name": "Frontier Communications Corp", "currId": "8249", "short_name": "Frontier Com", "avg_volume": "694.45K", "market_cap": "11.77M", "revenue": "7.40B", "p_e_ratio": null, "beta": "1.11"}
+{"name": "Capital One Financial Corporation", "currId": "8250", "short_name": "Capital One Financial", "avg_volume": "3.01M", "market_cap": "39.66B", "revenue": "23.79B", "p_e_ratio": "42.4", "beta": "1.75"}
+{"name": "Pacific Gas & Electric Co", "currId": "8251", "short_name": "Pacific Gas&Electric", "avg_volume": "20.22M", "market_cap": "22.62B", "revenue": "18.46B", "p_e_ratio": null, "beta": "1.19"}
+{"name": "Norfolk Southern Corporation", "currId": "8252", "short_name": "Norfolk Southern", "avg_volume": "1.31M", "market_cap": "60.77B", "revenue": "9.91B", "p_e_ratio": "30.85", "beta": "1.44"}
+{"name": "Aflac Inc", "currId": "8256", "short_name": "Aflac", "avg_volume": "3.74M", "market_cap": "29.17B", "revenue": "21.85B", "p_e_ratio": "6.49", "beta": "0.91"}
+{"name": "Harley-Davidson Inc", "currId": "8259", "short_name": "Harley-Davidson", "avg_volume": "3.00M", "market_cap": "5.38B", "revenue": "4.40B", "p_e_ratio": "48.78", "beta": "1.52"}
+{"name": "Equity Residential", "currId": "8260", "short_name": "Equity Residential", "avg_volume": "2.98M", "market_cap": "22.39B", "revenue": "2.64B", "p_e_ratio": "23.66", "beta": "0.83"}
+{"name": "Pitney Bowes Inc", "currId": "8262", "short_name": "Pitney Bowes", "avg_volume": "2.48M", "market_cap": "1.01B", "revenue": "3.36B", "p_e_ratio": null, "beta": "3.02"}
+{"name": "Air Products and Chemicals Inc", "currId": "8263", "short_name": "Air Products", "avg_volume": "974.75K", "market_cap": "58.29B", "revenue": "8.86B", "p_e_ratio": "30.87", "beta": "0.79"}
+{"name": "First Horizon National Corporation", "currId": "8266", "short_name": "First Horizon National", "avg_volume": "5.46M", "market_cap": "6.55B", "revenue": "1.97B", "p_e_ratio": "7.72", "beta": "1.56"}
+{"name": "Principal Financial Group Inc", "currId": "8267", "short_name": "Principal Financial", "avg_volume": "1.34M", "market_cap": "12.72B", "revenue": "15.03B", "p_e_ratio": "10.49", "beta": "1.62"}
+{"name": "Texas Instruments Incorporated", "currId": "8268", "short_name": "Texas Instruments", "avg_volume": "4.02M", "market_cap": "143.80B", "revenue": "13.74B", "p_e_ratio": "29.61", "beta": "1.08"}
+{"name": "Grupo Aeroportuario del Sureste SAB de CV ADR", "currId": "8269", "short_name": "Grupo Aeroportuario Sureste ADR", "avg_volume": "62.49K", "market_cap": "4.55B", "revenue": "284.15M", "p_e_ratio": "34.53", "beta": "1.29"}
+{"name": "HP Inc", "currId": "8270", "short_name": "HP Inc", "avg_volume": "9.78M", "market_cap": "26.93B", "revenue": "56.79B", "p_e_ratio": "11.07", "beta": "0.99"}
+{"name": "Coca-Cola European Partners PLC", "currId": "8271", "short_name": "Coca-Cola European", "avg_volume": "1.46M", "market_cap": "17.96B", "revenue": "243.14M", "p_e_ratio": "21.82", "beta": "0.64"}
+{"name": "Honeywell International Inc", "currId": "8272", "short_name": "Honeywell", "avg_volume": "3.16M", "market_cap": "141.42B", "revenue": "33.23B", "p_e_ratio": "29.95", "beta": "1.1"}
+{"name": "Nomura Holdings Inc ADR", "currId": "8273", "short_name": "Nomura ADR", "avg_volume": "148.45K", "market_cap": "14.78B", "revenue": "39.61B", "p_e_ratio": "7", "beta": "1"}
+{"name": "Advanced Micro Devices Inc", "currId": "8274", "short_name": "AMD", "avg_volume": "52.03M", "market_cap": "97.86B", "revenue": "8.65B", "p_e_ratio": "113.61", "beta": "2.22"}
+{"name": "M&T Bank Corp", "currId": "8275", "short_name": "M&T Bank", "avg_volume": "962.68K", "market_cap": "15.25B", "revenue": "4.69B", "p_e_ratio": "11.84", "beta": "1.25"}
+{"name": "NCR Corp", "currId": "8277", "short_name": "NCR", "avg_volume": "1.04M", "market_cap": "3.02B", "revenue": "6.46B", "p_e_ratio": "6.9", "beta": "1.63"}
+{"name": "Mosaic Co", "currId": "8278", "short_name": "Mosaic", "avg_volume": "4.58M", "market_cap": "6.83B", "revenue": "8.30B", "p_e_ratio": null, "beta": "1.72"}
+{"name": "PerkinElmer Inc", "currId": "8279", "short_name": "PerkinElmer", "avg_volume": "904.97K", "market_cap": "14.79B", "revenue": "3.23B", "p_e_ratio": "35.76", "beta": "1.21"}
+{"name": "Las Vegas Sands Corp", "currId": "8280", "short_name": "Las Vegas Sands", "avg_volume": "5.76M", "market_cap": "44.52B", "revenue": "5.98B", "p_e_ratio": null, "beta": "1.41"}
+{"name": "Freeport-McMoran Copper & Gold Inc", "currId": "8281", "short_name": "Freeport-McMoran", "avg_volume": "19.02M", "market_cap": "29.26B", "revenue": "13.61B", "p_e_ratio": null, "beta": "2.19"}
+{"name": "AutoZone Inc", "currId": "8282", "short_name": "AutoZone", "avg_volume": "210.59K", "market_cap": "26.79B", "revenue": "12.63B", "p_e_ratio": "16.04", "beta": "0.88"}
+{"name": "Nabors Industries Ltd", "currId": "8284", "short_name": "Nabors Industries", "avg_volume": "459.59K", "market_cap": "271.63M", "revenue": "2.40B", "p_e_ratio": null, "beta": "3.41"}
+{"name": "Sysco Corporation", "currId": "8285", "short_name": "Sysco", "avg_volume": "2.97M", "market_cap": "36.44B", "revenue": "49.37B", "p_e_ratio": null, "beta": "1.36"}
+{"name": "Tenet Healthcare Corporation", "currId": "8286", "short_name": "Tenet Healthcare", "avg_volume": "1.37M", "market_cap": "3.29B", "revenue": "17.53B", "p_e_ratio": null, "beta": "2.67"}
+{"name": "Ameren Corp", "currId": "8288", "short_name": "Ameren", "avg_volume": "1.08M", "market_cap": "20.30B", "revenue": "5.78B", "p_e_ratio": "24", "beta": "0.27"}
+{"name": "Industrias Bachoco SAB de CV ADR", "currId": "8289", "short_name": "Industrias Bachoco ADR", "avg_volume": "7.89K", "market_cap": "1.97B", "revenue": "1.44B", "p_e_ratio": "12.73", "beta": "0.77"}
+{"name": "Eaton Corporation PLC", "currId": "8291", "short_name": "Eaton", "avg_volume": "1.52M", "market_cap": "45.62B", "revenue": "18.41B", "p_e_ratio": "33.78", "beta": "1.12"}
+{"name": "MFC Bancorp Ltd", "currId": "8292", "short_name": "MFC Bancorp", "avg_volume": "25.36K", "market_cap": "54.36M", "revenue": "1.03M", "p_e_ratio": null, "beta": "1.12"}
+{"name": "Coca Cola Femsa SAB De CV ADR", "currId": "8293", "short_name": "Coca Cola Femsa ADR", "avg_volume": "133.35K", "market_cap": "75.59B", "revenue": "5.10B", "p_e_ratio": "21.44", "beta": "0.83"}
+{"name": "Salesforce.com Inc", "currId": "8294", "short_name": "Salesforce.com", "avg_volume": "7.72M", "market_cap": "227.05B", "revenue": "19.38B", "p_e_ratio": "639.64", "beta": "1.26"}
+{"name": "Actuant Corp", "currId": "8296", "short_name": "Actuant", "avg_volume": "285.37K", "market_cap": "1.21B", "revenue": "493.29M", "p_e_ratio": "222.99", "beta": "1.32"}
+{"name": "Consolidated Edison Inc", "currId": "8297", "short_name": "Consolidated Edison", "avg_volume": "2.19M", "market_cap": "27.33B", "revenue": "12.24B", "p_e_ratio": "20.19", "beta": "0.17"}
+{"name": "The AES Corporation", "currId": "8299", "short_name": "The AES", "avg_volume": "4.99M", "market_cap": "13.88B", "revenue": "9.53B", "p_e_ratio": null, "beta": "0.88"}
+{"name": "Transocean Ltd", "currId": "8300", "short_name": "Transocean", "avg_volume": "27.55M", "market_cap": "664.32M", "revenue": "3.25B", "p_e_ratio": null, "beta": "2.71"}
+{"name": "Apartment Investment and Management Co", "currId": "8303", "short_name": "Apartment Invest", "avg_volume": "1.99M", "market_cap": "4.63B", "revenue": "888.85M", "p_e_ratio": "36.87", "beta": "0.89"}
+{"name": "Textron Inc", "currId": "8305", "short_name": "Textron", "avg_volume": "1.31M", "market_cap": "9.96B", "revenue": "12.02B", "p_e_ratio": "36.8", "beta": "1.74"}
+{"name": "Gruma SAB de CV", "currId": "8306", "short_name": "Gruma SAB de CV", "avg_volume": "1.73K", "market_cap": "4.58B", "revenue": "1.95B", "p_e_ratio": "28.14", "beta": "1.34"}
+{"name": "Unisys Corporation", "currId": "8307", "short_name": "Unisys", "avg_volume": "587.24K", "market_cap": "861.21M", "revenue": "2.19B", "p_e_ratio": null, "beta": "0.46"}
+{"name": "Federated Investors Inc B", "currId": "8308", "short_name": "Federated Investors B", "avg_volume": "635.73K", "market_cap": "2.74B", "revenue": "1.80B", "p_e_ratio": "8.83", "beta": "1.25"}
+{"name": "US Bancorp", "currId": "8310", "short_name": "US Bancorp", "avg_volume": "6.50M", "market_cap": "65.24B", "revenue": "12.57B", "p_e_ratio": "14.34", "beta": "1.12"}
+{"name": "Comerica Inc", "currId": "8313", "short_name": "Comerica", "avg_volume": "1.57M", "market_cap": "7.02B", "revenue": "1.49B", "p_e_ratio": "13.83", "beta": "1.76"}
+{"name": "Ensco Rowan PLC", "currId": "8314", "short_name": "Ensco Rowan", "avg_volume": "2.28M", "market_cap": "15.96M", "revenue": "1.64B", "p_e_ratio": null, "beta": "2.33"}
+{"name": "Tiffany & Co", "currId": "8315", "short_name": "Tiffany&Co", "avg_volume": "1.96M", "market_cap": "15.94B", "revenue": "3.68B", "p_e_ratio": "64.91", "beta": "0.79"}
+{"name": "Visa Inc Class A", "currId": "8318", "short_name": "Visa A", "avg_volume": "7.97M", "market_cap": "415.91B", "revenue": "22.88B", "p_e_ratio": null, "beta": "0.97"}
+{"name": "MGIC Investment Corporation", "currId": "8319", "short_name": "MGIC Investment", "avg_volume": "5.42M", "market_cap": "3.81B", "revenue": "1.21B", "p_e_ratio": "8.43", "beta": "1.83"}
+{"name": "Baker Hughes A Ge Company LLC", "currId": "8320", "short_name": "Baker Hughes A", "avg_volume": "6.99M", "market_cap": "18.50B", "revenue": "26.98B", "p_e_ratio": null, "beta": "1.74"}
+{"name": "Toyota Motor Corporation ADR", "currId": "8321", "short_name": "Toyota Motor ADR", "avg_volume": "151.16K", "market_cap": "195.51B", "revenue": "572.43B", "p_e_ratio": "14.73", "beta": "0.63"}
+{"name": "Western Union Company", "currId": "8323", "short_name": "Western Union", "avg_volume": "3.84M", "market_cap": "8.73B", "revenue": "4.87B", "p_e_ratio": "12.61", "beta": "0.95"}
+{"name": "Canon Inc ADR", "currId": "8324", "short_name": "Canon ADR", "avg_volume": "563.46K", "market_cap": "18.57B", "revenue": "69.70B", "p_e_ratio": "32.09", "beta": "0.44"}
+{"name": "Hess Corporation", "currId": "8326", "short_name": "Hess", "avg_volume": "2.28M", "market_cap": "13.36B", "revenue": "5.03B", "p_e_ratio": null, "beta": "2.22"}
+{"name": "Yum! Brands Inc", "currId": "8327", "short_name": "Yum! Brands", "avg_volume": "1.52M", "market_cap": "31.03B", "revenue": "5.60B", "p_e_ratio": "29.93", "beta": "1.06"}
+{"name": "Marsh & McLennan Companies Inc", "currId": "8328", "short_name": "Marsh McLennan", "avg_volume": "1.75M", "market_cap": "57.47B", "revenue": "17.07B", "p_e_ratio": "28.47", "beta": "0.86"}
+{"name": "Kyocera Corporation ADR", "currId": "8329", "short_name": "Kyocera ADR", "avg_volume": "18.85K", "market_cap": "20.78B", "revenue": "32.91B", "p_e_ratio": "26.67", "beta": "0.64"}
+{"name": "Kellogg Company", "currId": "8334", "short_name": "Kellogg", "avg_volume": "1.94M", "market_cap": "22.60B", "revenue": "13.53B", "p_e_ratio": "18.53", "beta": "0.63"}
+{"name": "Kimco Realty Corporation", "currId": "8337", "short_name": "Kimco", "avg_volume": "5.07M", "market_cap": "6.15B", "revenue": "1.37B", "p_e_ratio": "7.05", "beta": "1.39"}
+{"name": "Ecolab Inc", "currId": "8339", "short_name": "Ecolab", "avg_volume": "1.08M", "market_cap": "59.50B", "revenue": "12.55B", "p_e_ratio": "55.11", "beta": "0.98"}
+{"name": "Nordstrom Inc", "currId": "8340", "short_name": "Nordstrom", "avg_volume": "10.11M", "market_cap": "2.72B", "revenue": "12.19B", "p_e_ratio": null, "beta": "1.8"}
+{"name": "EOG Resources Inc", "currId": "8342", "short_name": "EOG Resources", "avg_volume": "5.26M", "market_cap": "24.89B", "revenue": "12.31B", "p_e_ratio": null, "beta": "2.02"}
+{"name": "Newell Brands Inc", "currId": "8345", "short_name": "Newell Brands", "avg_volume": "2.57M", "market_cap": "8.37B", "revenue": "9.67B", "p_e_ratio": null, "beta": "0.99"}
+{"name": "Aon PLC", "currId": "8350", "short_name": "Aon", "avg_volume": "1.49M", "market_cap": "46.69B", "revenue": "10.99B", "p_e_ratio": "26.38", "beta": "0.84"}
+{"name": "Hasbro Inc", "currId": "8351", "short_name": "Hasbro", "avg_volume": "918.53K", "market_cap": "12.02B", "revenue": "5.17B", "p_e_ratio": "30.67", "beta": "0.88"}
+{"name": "Bank of New York Mellon", "currId": "8352", "short_name": "Bank of NY Mellon", "avg_volume": "4.97M", "market_cap": "34.30B", "revenue": "8.14B", "p_e_ratio": "8.5", "beta": "1.05"}
+{"name": "Wipro Limited ADR", "currId": "8353", "short_name": "Wipro ADR", "avg_volume": "1.49M", "market_cap": "26.30B", "revenue": "13.47B", "p_e_ratio": "22.37", "beta": "0.61"}
+{"name": "Schlumberger NV", "currId": "8354", "short_name": "Schlumberger", "avg_volume": "14.08M", "market_cap": "25.06B", "revenue": "26.30B", "p_e_ratio": null, "beta": "2.17"}
+{"name": "Walgreens Boots Alliance Inc", "currId": "8355", "short_name": "Walgreens Boots", "avg_volume": "7.12M", "market_cap": "36.98B", "revenue": "139.54B", "p_e_ratio": "86.45", "beta": "0.6"}
+{"name": "Rockwell Automation Inc", "currId": "8356", "short_name": "Rockwell Automation", "avg_volume": "586.40K", "market_cap": "27.86B", "revenue": "6.33B", "p_e_ratio": "27.35", "beta": "1.39"}
+{"name": "PepsiCo Inc", "currId": "8358", "short_name": "PepsiCo", "avg_volume": "4.18M", "market_cap": "199.98B", "revenue": "68.56B", "p_e_ratio": "28.58", "beta": "0.59"}
+{"name": "UnitedHealth Group Incorporated", "currId": "8359", "short_name": "UnitedHealth", "avg_volume": "2.93M", "market_cap": "337.47B", "revenue": "252.58B", "p_e_ratio": "20.44", "beta": "0.78"}
+{"name": "Teradyne Inc", "currId": "8362", "short_name": "Teradyne", "avg_volume": "2.14M", "market_cap": "16.99B", "revenue": "3.02B", "p_e_ratio": "26.09", "beta": "1.29"}
+{"name": "Murphy Oil Corporation", "currId": "8363", "short_name": "Murphy Oil", "avg_volume": "4.72M", "market_cap": "1.34B", "revenue": "2.27B", "p_e_ratio": null, "beta": "3.29"}
+{"name": "Mizuho Financial Group Inc ADR", "currId": "8364", "short_name": "Mizuho Financial ADR", "avg_volume": "317.64K", "market_cap": "33.55B", "revenue": null, "p_e_ratio": "42.64", "beta": "0.92"}
+{"name": "Dillards Inc", "currId": "8930", "short_name": "Dillards", "avg_volume": "555.93K", "market_cap": "1.07B", "revenue": "4.78B", "p_e_ratio": null, "beta": "0.79"}
+{"name": "Danaher Corporation", "currId": "8931", "short_name": "Danaher", "avg_volume": "2.21M", "market_cap": "166.71B", "revenue": "18.36B", "p_e_ratio": "56.45", "beta": "0.81"}
+{"name": "FLIR Systems Inc", "currId": "8934", "short_name": "FLIR Systems", "avg_volume": "1.26M", "market_cap": "4.89B", "revenue": "1.89B", "p_e_ratio": "35.46", "beta": "1.53"}
+{"name": "SunPower Corporation", "currId": "8939", "short_name": "SunPower", "avg_volume": "8.59M", "market_cap": "3.23B", "revenue": "1.84B", "p_e_ratio": "18.38", "beta": "2.34"}
+{"name": "Seagate Technology PLC", "currId": "8940", "short_name": "Seagate", "avg_volume": "2.89M", "market_cap": "14.06B", "revenue": "10.25B", "p_e_ratio": "13.99", "beta": "1.18"}
+{"name": "Agilent Technologies Inc", "currId": "8942", "short_name": "Agilent Technologies", "avg_volume": "1.24M", "market_cap": "33.97B", "revenue": "5.22B", "p_e_ratio": "49.79", "beta": "1.02"}
+{"name": "Cemex SAB de CV ADR", "currId": "8943", "short_name": "Cemex ADR", "avg_volume": "7.61M", "market_cap": "39.69B", "revenue": "12.37B", "p_e_ratio": null, "beta": "1.39"}
+{"name": "Delta Air Lines Inc", "currId": "8944", "short_name": "Delta Air Lines", "avg_volume": "19.78M", "market_cap": "23.25B", "revenue": "24.56B", "p_e_ratio": null, "beta": "1.33"}
+{"name": "Macy\u2019s Inc", "currId": "8945", "short_name": "Macy\u2019s Inc", "avg_volume": "24.05M", "market_cap": "2.28B", "revenue": "20.81B", "p_e_ratio": null, "beta": "1.64"}
+{"name": "Moodys Corporation", "currId": "8946", "short_name": "Moodys", "avg_volume": "636.50K", "market_cap": "51.72B", "revenue": "5.31B", "p_e_ratio": "28.64", "beta": "1.2"}
+{"name": "Nike Inc", "currId": "8948", "short_name": "Nike", "avg_volume": "6.39M", "market_cap": "201.38B", "revenue": "37.34B", "p_e_ratio": "76.52", "beta": "0.82"}
+{"name": "Dr Reddys Laboratories Ltd", "currId": "8949", "short_name": "Dr Reddys Labs", "avg_volume": "178.23K", "market_cap": "10.83B", "revenue": "3.97B", "p_e_ratio": "42.79", "beta": "0.39"}
+{"name": "Lindsay Corporation", "currId": "8950", "short_name": "Lindsay", "avg_volume": "48.92K", "market_cap": "1.26B", "revenue": "474.70M", "p_e_ratio": "32.73", "beta": "0.28"}
+{"name": "Procter & Gamble Company", "currId": "8952", "short_name": "Procter&Gamble", "avg_volume": "5.99M", "market_cap": "356.29B", "revenue": "72.47B", "p_e_ratio": "27.58", "beta": "0.4"}
+{"name": "Weyerhaeuser Company", "currId": "8953", "short_name": "Weyerhaeuser", "avg_volume": "4.37M", "market_cap": "21.75B", "revenue": "7.02B", "p_e_ratio": "44.39", "beta": "1.96"}
+{"name": "Empresas ICA SAB De CV ADR", "currId": "8954", "short_name": "Empresas ICA ADR", "avg_volume": "17.36K", "market_cap": "44.05M", "revenue": null, "p_e_ratio": null, "beta": "-1.27"}
+{"name": "Automatic Data Processing Inc", "currId": "9019", "short_name": "ADP", "avg_volume": "2.08M", "market_cap": "73.68B", "revenue": "14.56B", "p_e_ratio": "29.86", "beta": "0.72"}
+{"name": "Laird PLC", "currId": "9218", "short_name": "Laird", "avg_volume": "1.87M", "market_cap": "1.26B", "revenue": null, "p_e_ratio": "18.44", "beta": "-0.18"}
+{"name": "Denbury Resources Inc", "currId": "9222", "short_name": "Denbury Resources", "avg_volume": "214.78K", "market_cap": "9.97B", "revenue": "986.14M", "p_e_ratio": null, "beta": null}
+{"name": "Allscripts Healthcare Solutions Inc", "currId": "9231", "short_name": "Allscripts", "avg_volume": "1.70M", "market_cap": "1.94B", "revenue": "1.68B", "p_e_ratio": null, "beta": "1.04"}
+{"name": "Reliance Steel & Aluminum Co", "currId": "9235", "short_name": "Reliance Steel&Aluminum", "avg_volume": "329.48K", "market_cap": "7.54B", "revenue": "9.13B", "p_e_ratio": "19.35", "beta": "1.05"}
+{"name": "SSR Mining Inc", "currId": "9238", "short_name": "SSR Mining", "avg_volume": "1.81M", "market_cap": "4.32B", "revenue": "659.95M", "p_e_ratio": "41.47", "beta": "1.04"}
+{"name": "Southwestern Energy Company", "currId": "9240", "short_name": "Southwestern Energy", "avg_volume": "16.53M", "market_cap": "1.85B", "revenue": "2.27B", "p_e_ratio": null, "beta": "1.61"}
+{"name": "Carter\u2019s Inc", "currId": "9254", "short_name": "Carter\u2019s", "avg_volume": "612.72K", "market_cap": "3.68B", "revenue": "3.79B", "p_e_ratio": "27.62", "beta": "1.19"}
+{"name": "Keurig Dr Pepper Inc", "currId": "10548", "short_name": "Keurig Dr Pepper", "avg_volume": "5.88M", "market_cap": "41.23B", "revenue": "11.43B", "p_e_ratio": "31.96", "beta": "0.62"}
+{"name": "Lowe\u2019s Companies Inc", "currId": "10549", "short_name": "Lowe\u2019s", "avg_volume": "4.09M", "market_cap": "120.34B", "revenue": "80.39B", "p_e_ratio": "21.15", "beta": "1.44"}
+{"name": "Africa Israel Investments Ltd", "currId": "10868", "short_name": "Africa Israel Invest", "avg_volume": "93.62K", "market_cap": "2.01B", "revenue": "1.18B", "p_e_ratio": null, "beta": "0.63"}
+{"name": "Middleby Corp", "currId": "13058", "short_name": "Middleby Corp", "avg_volume": "783.48K", "market_cap": "7.37B", "revenue": "2.57B", "p_e_ratio": "27.77", "beta": "1.75"}
+{"name": "Vale SA ADR", "currId": "13059", "short_name": "Vale ADR", "avg_volume": "27.72M", "market_cap": "59.44B", "revenue": "3.75B", "p_e_ratio": "21.13", "beta": "0.98"}
+{"name": "United Airlines Holdings Inc", "currId": "13061", "short_name": "United Airlines Holdings", "avg_volume": "26.06M", "market_cap": "11.35B", "revenue": "22.83B", "p_e_ratio": null, "beta": "1.49"}
+{"name": "Netflix Inc", "currId": "13063", "short_name": "Netflix", "avg_volume": "6.13M", "market_cap": "213.32B", "revenue": "23.82B", "p_e_ratio": "81.74", "beta": "0.96"}
+{"name": "News Corp B", "currId": "13065", "short_name": "News Corp", "avg_volume": "512.68K", "market_cap": "10.15B", "revenue": "8.79B", "p_e_ratio": null, "beta": "1.59"}
+{"name": "Tupperware Brands Corporation", "currId": "13066", "short_name": "Tupperware Brands", "avg_volume": "2.28M", "market_cap": "1.46B", "revenue": "1.67B", "p_e_ratio": "91.26", "beta": "3.1"}
+{"name": "Equinix Inc", "currId": "13067", "short_name": "Equinix", "avg_volume": "374.66K", "market_cap": "67.79B", "revenue": "5.85B", "p_e_ratio": "149.38", "beta": "0.38"}
+{"name": "Cerner Corp", "currId": "13068", "short_name": "Cerner", "avg_volume": "1.42M", "market_cap": "23.14B", "revenue": "5.55B", "p_e_ratio": "29.51", "beta": "0.77"}
+{"name": "China Green Agriculture Inc", "currId": "13069", "short_name": "China Green Agriculture", "avg_volume": "35.94K", "market_cap": "16.57M", "revenue": "186.22M", "p_e_ratio": null, "beta": "0.67"}
+{"name": "Booking Holdings Inc", "currId": "13072", "short_name": "Booking", "avg_volume": "377.17K", "market_cap": "84.08B", "revenue": "8.90B", "p_e_ratio": "61.54", "beta": "1.21"}
+{"name": "O\u2019Reilly Automotive Inc", "currId": "13074", "short_name": "O\u2019Reilly Automotive", "avg_volume": "473.16K", "market_cap": "33.45B", "revenue": "11.26B", "p_e_ratio": "20.62", "beta": "1.06"}
+{"name": "Seattle Genetics Inc", "currId": "13076", "short_name": "Seattle Genetics", "avg_volume": "956.45K", "market_cap": "31.72B", "revenue": "1.86B", "p_e_ratio": "69.01", "beta": "1.16"}
+{"name": "BlackRock Inc", "currId": "13078", "short_name": "BlackRock", "avg_volume": "634.82K", "market_cap": "102.14B", "revenue": "15.70B", "p_e_ratio": "22.23", "beta": "1.17"}
+{"name": "Cabot Microelectronics Corporation", "currId": "13079", "short_name": "Cabot", "avg_volume": "158.97K", "market_cap": "3.92B", "revenue": "1.12B", "p_e_ratio": "27.97", "beta": "1.13"}
+{"name": "CME Group Inc", "currId": "13080", "short_name": "CME Group", "avg_volume": "1.64M", "market_cap": "59.58B", "revenue": "4.92B", "p_e_ratio": "27.66", "beta": "0.41"}
+{"name": "Illumina Inc", "currId": "13081", "short_name": "Illumina", "avg_volume": "1.48M", "market_cap": "45.09B", "revenue": "3.24B", "p_e_ratio": "71.83", "beta": "1.09"}
+{"name": "JB Hunt Transport Services Inc", "currId": "13082", "short_name": "JB Hunt", "avg_volume": "880.90K", "market_cap": "13.65B", "revenue": "9.35B", "p_e_ratio": "27.75", "beta": "1"}
+{"name": "Loews Corp", "currId": "13083", "short_name": "Loews", "avg_volume": "874.78K", "market_cap": "11.63B", "revenue": "12.87B", "p_e_ratio": null, "beta": "0.87"}
+{"name": "Maxim Integrated Products Inc", "currId": "13084", "short_name": "Maxim", "avg_volume": "3.02M", "market_cap": "21.70B", "revenue": "2.28B", "p_e_ratio": "32.1", "beta": "1.26"}
+{"name": "Rogers Communications Inc", "currId": "13086", "short_name": "Rogers Communications", "avg_volume": "517.99K", "market_cap": "23.03B", "revenue": "312.14M", "p_e_ratio": "18.85", "beta": "0.48"}
+{"name": "Urban Outfitters Inc", "currId": "13087", "short_name": "Urban Outfitters", "avg_volume": "2.20M", "market_cap": "2.60B", "revenue": "3.55B", "p_e_ratio": null, "beta": "1.62"}
+{"name": "E. W. Scripps Co Class A", "currId": "13089", "short_name": "EW Scripps A", "avg_volume": "526.95K", "market_cap": "1.00B", "revenue": "1.71B", "p_e_ratio": "20.22", "beta": "1.89"}
+{"name": "Oshkosh Corporation", "currId": "13090", "short_name": "Oshkosh", "avg_volume": "413.57K", "market_cap": "5.14B", "revenue": "6.86B", "p_e_ratio": "16.01", "beta": "1.62"}
+{"name": "Nextera Energy Inc", "currId": "13091", "short_name": "NextEra Energy", "avg_volume": "7.33M", "market_cap": "151.22B", "revenue": "18.19B", "p_e_ratio": "38.72", "beta": "0.19"}
+{"name": "Sprott Physical Gold and Silver Trust", "currId": "13092", "short_name": "Sprott Physical Gold and Silver Trust", "avg_volume": "792.87K", "market_cap": "4.17B", "revenue": "659.40M", "p_e_ratio": "5.91", "beta": "0.17"}
+{"name": "First Solar Inc", "currId": "13569", "short_name": "First Solar", "avg_volume": "2.95M", "market_cap": "8.47B", "revenue": "3.50B", "p_e_ratio": "38.29", "beta": "1.16"}
+{"name": "Mylan NV", "currId": "13570", "short_name": "Mylan", "avg_volume": "5.80M", "market_cap": "8.42B", "revenue": "11.51B", "p_e_ratio": "30.22", "beta": "1.45"}
+{"name": "Makita Corp", "currId": "13571", "short_name": "Makita", "avg_volume": "12.43K", "market_cap": "13.21B", "revenue": "11.71B", "p_e_ratio": "28.01", "beta": "1.01"}
+{"name": "Mitsui & Company Ltd", "currId": "13572", "short_name": "Mitsui & Company", "avg_volume": "2.92K", "market_cap": "28.59B", "revenue": "143.38B", "p_e_ratio": "11.52", "beta": "0.77"}
+{"name": "World Poker Fund Holdings Inc", "currId": "13746", "short_name": "World Poker Fund Holdings", "avg_volume": "15.20K", "market_cap": "5.21M", "revenue": null, "p_e_ratio": null, "beta": "2.47"}
+{"name": "Polymetal International PLC (OTC Markets)", "currId": "13751", "short_name": "Polymetal", "avg_volume": "1.17K", "market_cap": "10.57B", "revenue": "2.44B", "p_e_ratio": null, "beta": null}
+{"name": "F5 Networks Inc", "currId": "13763", "short_name": "F5 Networks", "avg_volume": "772.12K", "market_cap": "9.74B", "revenue": "2.35B", "p_e_ratio": "31.75", "beta": "1.11"}
+{"name": "Edwards Lifesciences Corp", "currId": "13794", "short_name": "Edwards Lifesciences", "avg_volume": "2.54M", "market_cap": "50.97B", "revenue": "4.37B", "p_e_ratio": "65.33", "beta": "0.96"}
+{"name": "News Corp A", "currId": "13795", "short_name": "News Corp A", "avg_volume": "2.22M", "market_cap": "10.03B", "revenue": "8.79B", "p_e_ratio": null, "beta": "1.59"}
+{"name": "Alexion Pharmaceuticals Inc", "currId": "13810", "short_name": "Alexion", "avg_volume": "2.05M", "market_cap": "27.96B", "revenue": "5.86B", "p_e_ratio": "29.92", "beta": "1.32"}
+{"name": "Amphenol Corporation", "currId": "13833", "short_name": "Amphenol", "avg_volume": "1.38M", "market_cap": "36.92B", "revenue": "8.32B", "p_e_ratio": "32.51", "beta": "1.25"}
+{"name": "Berkshire Hathaway B", "currId": "13834", "short_name": "Berkshire Hathaway B", "avg_volume": "4.95M", "market_cap": "535.78B", "revenue": "246.50B", "p_e_ratio": "15.15", "beta": "0.87"}
+{"name": "Cabot Oil & Gas Corporation", "currId": "13835", "short_name": "Cabot Oil&Gas", "avg_volume": "4.77M", "market_cap": "7.02B", "revenue": "1.47B", "p_e_ratio": "32.97", "beta": "0.2"}
+{"name": "CarMax Inc", "currId": "13836", "short_name": "CarMax", "avg_volume": "1.43M", "market_cap": "15.67B", "revenue": "18.35B", "p_e_ratio": "22.96", "beta": "1.85"}
+{"name": "Chipotle Mexican Grill Inc", "currId": "13837", "short_name": "Chipotle Mexican Grill", "avg_volume": "352.86K", "market_cap": "35.02B", "revenue": "5.82B", "p_e_ratio": "149.73", "beta": "1.36"}
+{"name": "DaVita HealthCare Partners Inc", "currId": "13838", "short_name": "DaVita", "avg_volume": "1.09M", "market_cap": "12.38B", "revenue": "11.54B", "p_e_ratio": "16.82", "beta": "1.3"}
+{"name": "Adtalem Global Education Inc", "currId": "13839", "short_name": "Adtalem Education", "avg_volume": "426.52K", "market_cap": "1.49B", "revenue": "1.07B", "p_e_ratio": "5.96", "beta": "1.31"}
+{"name": "EQT Corporation", "currId": "13841", "short_name": "EQT", "avg_volume": "4.79M", "market_cap": "4.20B", "revenue": "2.82B", "p_e_ratio": null, "beta": "1.4"}
+{"name": "FMC Corporation", "currId": "13842", "short_name": "FMC", "avg_volume": "609.47K", "market_cap": "14.09B", "revenue": "4.69B", "p_e_ratio": "24.95", "beta": "1.01"}
+{"name": "TechnipFMC PLC", "currId": "13843", "short_name": "TechnipFMC", "avg_volume": "6.05M", "market_cap": "3.29B", "revenue": "13.35B", "p_e_ratio": null, "beta": "2.35"}
+{"name": "Flowserve Corporation", "currId": "13844", "short_name": "Flowserve", "avg_volume": "983.13K", "market_cap": "4.23B", "revenue": "4.71B", "p_e_ratio": "33.07", "beta": "1.76"}
+{"name": "GameStop Corp", "currId": "13845", "short_name": "GameStop Corp", "avg_volume": "11.42M", "market_cap": "717.43M", "revenue": "5.60B", "p_e_ratio": null, "beta": "1.03"}
+{"name": "L3Harris Technologies Inc", "currId": "13846", "short_name": "L3Harris Technologies", "avg_volume": "1.29M", "market_cap": "40.82B", "revenue": "18.37B", "p_e_ratio": "32.21", "beta": "0.8"}
+{"name": "Healthpeak Properties Inc", "currId": "13847", "short_name": "Healthpeak Properties", "avg_volume": "3.73M", "market_cap": "15.99B", "revenue": "2.30B", "p_e_ratio": "50.76", "beta": "0.72"}
+{"name": "Welltower Inc", "currId": "13848", "short_name": "Welltower", "avg_volume": "2.82M", "market_cap": "27.36B", "revenue": "4.75B", "p_e_ratio": "211.16", "beta": "1.03"}
+{"name": "Helmerich and Payne Inc", "currId": "13849", "short_name": "Helmerich Payne", "avg_volume": "1.73M", "market_cap": "1.86B", "revenue": "2.21B", "p_e_ratio": null, "beta": "1.98"}
+{"name": "Hormel Foods Corporation", "currId": "13850", "short_name": "Hormel Foods", "avg_volume": "1.63M", "market_cap": "28.14B", "revenue": "9.69B", "p_e_ratio": "30.61", "beta": null}
+{"name": "Invesco Plc", "currId": "13851", "short_name": "Invesco", "avg_volume": "6.58M", "market_cap": "7.13B", "revenue": "6.26B", "p_e_ratio": "14.5", "beta": "1.32"}
+{"name": "Iron Mountain Incorporated", "currId": "13852", "short_name": "Iron Mountain", "avg_volume": "2.66M", "market_cap": "7.35B", "revenue": "4.17B", "p_e_ratio": "55.28", "beta": "0.78"}
+{"name": "Eversource Energy", "currId": "13856", "short_name": "Eversource Energy", "avg_volume": "1.36M", "market_cap": "31.98B", "revenue": "8.71B", "p_e_ratio": "26.49", "beta": "0.36"}
+{"name": "NRG Energy Inc", "currId": "13857", "short_name": "NRG", "avg_volume": "2.18M", "market_cap": "7.85B", "revenue": "9.26B", "p_e_ratio": "1.95", "beta": "1.01"}
+{"name": "ONEOK Inc", "currId": "13858", "short_name": "ONEOK", "avg_volume": "4.46M", "market_cap": "14.07B", "revenue": "8.64B", "p_e_ratio": "21.9", "beta": "1.92"}
+{"name": "Owens-Illinois Inc", "currId": "13859", "short_name": "Owens-Illinois", "avg_volume": "1.09M", "market_cap": "1.73B", "revenue": "6.22B", "p_e_ratio": "5.69", "beta": "1.81"}
+{"name": "Pioneer Natural Resources Co", "currId": "13860", "short_name": "Pioneer Natural", "avg_volume": "1.83M", "market_cap": "14.91B", "revenue": "7.65B", "p_e_ratio": "86.8", "beta": "1.87"}
+{"name": "QEP Resources Inc", "currId": "13861", "short_name": "QEP Resources", "avg_volume": "3.61M", "market_cap": "256.73M", "revenue": "846.10M", "p_e_ratio": "9.81", "beta": "4.82"}
+{"name": "Republic Services Inc", "currId": "13862", "short_name": "Republic Services", "avg_volume": "1.09M", "market_cap": "32.21B", "revenue": "10.16B", "p_e_ratio": "31.66", "beta": "0.69"}
+{"name": "Roper Technologies Inc", "currId": "13863", "short_name": "Roper Technologies", "avg_volume": "550.36K", "market_cap": "41.57B", "revenue": "5.42B", "p_e_ratio": "26.71", "beta": "0.99"}
+{"name": "Ventas Inc", "currId": "13866", "short_name": "Ventas", "avg_volume": "2.70M", "market_cap": "18.77B", "revenue": "3.87B", "p_e_ratio": "55.59", "beta": "1.3"}
+{"name": "WEC Energy Group Inc", "currId": "13867", "short_name": "WEC Energy", "avg_volume": "1.13M", "market_cap": "32.22B", "revenue": "7.26B", "p_e_ratio": "26.84", "beta": "0.18"}
+{"name": "RR Donnelley & Sons Co", "currId": "13868", "short_name": "RR Donnelley & Sons", "avg_volume": "575.19K", "market_cap": "97.82M", "revenue": "6.45B", "p_e_ratio": null, "beta": "2.59"}
+{"name": "Barrick Gold Corp", "currId": "13928", "short_name": "Barrick Gold", "avg_volume": "17.45M", "market_cap": "46.04B", "revenue": "12.20B", "p_e_ratio": "15.22", "beta": "0.11"}
+{"name": "Agnico Eagle Mines Limited", "currId": "13930", "short_name": "Agnico Eagle Mines", "avg_volume": "1.16M", "market_cap": "18.00B", "revenue": "2.96B", "p_e_ratio": "28.13", "beta": "0.78"}
+{"name": "Autoliv Inc", "currId": "13931", "short_name": "Autoliv", "avg_volume": "451.92K", "market_cap": "7.63B", "revenue": "7.12B", "p_e_ratio": "49.69", "beta": "1.94"}
+{"name": "The Blackstone Group LP", "currId": "13933", "short_name": "The Blackstone", "avg_volume": "2.89M", "market_cap": "37.85B", "revenue": "4.56B", "p_e_ratio": "75.88", "beta": "1.3"}
+{"name": "Chimera Investment Corporation", "currId": "13934", "short_name": "Chimera Investment", "avg_volume": "2.72M", "market_cap": "2.33B", "revenue": "1.32B", "p_e_ratio": null, "beta": "1"}
+{"name": "Cohen & Steers Inc", "currId": "13935", "short_name": "Cohen Steers", "avg_volume": "115.30K", "market_cap": "3.04B", "revenue": "420.93M", "p_e_ratio": "26.31", "beta": "1.26"}
+{"name": "3D Systems Corporation", "currId": "13938", "short_name": "3D Systems", "avg_volume": "3.62M", "market_cap": "893.82M", "revenue": "546.49M", "p_e_ratio": null, "beta": "1.67"}
+{"name": "Lazard Ltd", "currId": "13943", "short_name": "Lazard", "avg_volume": "555.72K", "market_cap": "4.17B", "revenue": "2.49B", "p_e_ratio": "14.63", "beta": "1.67"}
+{"name": "Magna International Inc", "currId": "13946", "short_name": "Magna Intl", "avg_volume": "918.53K", "market_cap": "17.81B", "revenue": "31.47B", "p_e_ratio": "40.11", "beta": "1.6"}
+{"name": "Marathon Petroleum Corp", "currId": "13947", "short_name": "Marathon Petroleum", "avg_volume": "7.26M", "market_cap": "24.44B", "revenue": "106.14B", "p_e_ratio": null, "beta": "2.22"}
+{"name": "NuStar Energy LP", "currId": "13948", "short_name": "Nustar", "avg_volume": "614.63K", "market_cap": "1.24B", "revenue": "1.49B", "p_e_ratio": null, "beta": "2.46"}
+{"name": "Overseas Shipholding Group", "currId": "13950", "short_name": "Overseas Shipholding", "avg_volume": "187.45K", "market_cap": "181.28M", "revenue": "419.57M", "p_e_ratio": "4.48", "beta": "0.41"}
+{"name": "RPC Inc", "currId": "13954", "short_name": "RPC", "avg_volume": "678.54K", "market_cap": "574.23M", "revenue": "685.67M", "p_e_ratio": null, "beta": "2.05"}
+{"name": "Southern Copper Corporation", "currId": "13955", "short_name": "Southern Copper", "avg_volume": "795.05K", "market_cap": "42.05B", "revenue": "7.49B", "p_e_ratio": "32.7", "beta": "1.11"}
+{"name": "SandRidge Energy Inc", "currId": "13956", "short_name": "Sandridge Energy", "avg_volume": "395.04K", "market_cap": "95.21M", "revenue": "144.52M", "p_e_ratio": null, "beta": "3.46"}
+{"name": "Titan International Inc", "currId": "13958", "short_name": "Titan", "avg_volume": "479.30K", "market_cap": "285.40M", "revenue": "1.23B", "p_e_ratio": null, "beta": "2.33"}
+{"name": "Under Armour Inc A", "currId": "13959", "short_name": "Under Armour A", "avg_volume": "7.32M", "market_cap": "6.77B", "revenue": "4.51B", "p_e_ratio": null, "beta": "1.05"}
+{"name": "Bausch Health Companies Inc", "currId": "13960", "short_name": "Bausch Health", "avg_volume": "4.32M", "market_cap": "6.96B", "revenue": "8.04B", "p_e_ratio": null, "beta": "1.48"}
+{"name": "Aqua America Inc", "currId": "13961", "short_name": "Aqua America", "avg_volume": "1.19M", "market_cap": "10.97B", "revenue": "1.21B", "p_e_ratio": "46.4", "beta": "0.46"}
+{"name": "ADTRAN Inc", "currId": "13962", "short_name": "ADTRAN", "avg_volume": "262.75K", "market_cap": "606.65M", "revenue": "492.17M", "p_e_ratio": null, "beta": "1.35"}
+{"name": "Advanced Energy Industries Inc", "currId": "13963", "short_name": "Advanced Energy", "avg_volume": "273.81K", "market_cap": "3.30B", "revenue": "1.38B", "p_e_ratio": "32.05", "beta": "1.7"}
+{"name": "Airnet Technology Inc", "currId": "13964", "short_name": "Airnet Tech", "avg_volume": "726.69K", "market_cap": "13.45M", "revenue": "13.20M", "p_e_ratio": null, "beta": "0.92"}
+{"name": "Arena Pharmaceuticals Inc", "currId": "13966", "short_name": "Arena Pharma", "avg_volume": "731.33K", "market_cap": "3.88B", "revenue": "3.28M", "p_e_ratio": null, "beta": "0.95"}
+{"name": "Broadcom Inc", "currId": "13969", "short_name": "Broadcom", "avg_volume": "1.81M", "market_cap": "151.08B", "revenue": "23.20B", "p_e_ratio": "70.02", "beta": "0.99"}
+{"name": "Celsion Corp", "currId": "13971", "short_name": "Celsion", "avg_volume": "787.68K", "market_cap": "17.99M", "revenue": "480.00K", "p_e_ratio": null, "beta": "2.24"}
+{"name": "Cree Inc", "currId": "13972", "short_name": "Cree", "avg_volume": "1.17M", "market_cap": "7.71B", "revenue": "877.70M", "p_e_ratio": null, "beta": "1.17"}
+{"name": "Cirrus Logic Inc", "currId": "13973", "short_name": "Cirrus", "avg_volume": "592.96K", "market_cap": "4.46B", "revenue": "1.24B", "p_e_ratio": "29.72", "beta": "0.89"}
+{"name": "Dunkin Brands Group Inc", "currId": "13977", "short_name": "Dunkin Brands", "avg_volume": "1.91M", "market_cap": "8.75B", "revenue": "1.31B", "p_e_ratio": "40.07", "beta": "0.94"}
+{"name": "Entegris Inc", "currId": "13978", "short_name": "Entegris", "avg_volume": "913.70K", "market_cap": "11.52B", "revenue": "1.77B", "p_e_ratio": "43.74", "beta": "1.29"}
+{"name": "The Hain Celestial Group Inc", "currId": "13979", "short_name": "The Hain Celestial", "avg_volume": "743.21K", "market_cap": "3.67B", "revenue": "2.07B", "p_e_ratio": "194.15", "beta": "0.83"}
+{"name": "Internet Initiative Japan Inc ADR", "currId": "13980", "short_name": "Internet Initiative Japan ADR", "avg_volume": "3.02K", "market_cap": "2.14B", "revenue": "4.55B", "p_e_ratio": "44.15", "beta": "0.21"}
+{"name": "IPG Photonics Corporation", "currId": "13981", "short_name": "IPG Photonics", "avg_volume": "264.98K", "market_cap": "10.71B", "revenue": "1.17B", "p_e_ratio": "101.94", "beta": "1.49"}
+{"name": "Ionis Pharmaceuticals Inc", "currId": "13982", "short_name": "Ionis Pharma", "avg_volume": "968.43K", "market_cap": "7.21B", "revenue": "932.67M", "p_e_ratio": "104.5", "beta": "1.44"}
+{"name": "Itron Inc", "currId": "13983", "short_name": "Itron", "avg_volume": "326.47K", "market_cap": "2.97B", "revenue": "2.28B", "p_e_ratio": null, "beta": "1.1"}
+{"name": "ManTech International Corporation", "currId": "13985", "short_name": "ManTech", "avg_volume": "160.98K", "market_cap": "3.14B", "revenue": "2.43B", "p_e_ratio": "24.76", "beta": "0.78"}
+{"name": "Merriman Holdings Inc", "currId": "13986", "short_name": "Merriman", "avg_volume": "11.25K", "market_cap": "137.27K", "revenue": null, "p_e_ratio": null, "beta": "-0.87"}
+{"name": "Motorcar Parts of America Inc", "currId": "13987", "short_name": "Motorcar Parts", "avg_volume": "72.66K", "market_cap": "349.00M", "revenue": "526.40M", "p_e_ratio": "76.65", "beta": "1.81"}
+{"name": "Nuance Communications Inc", "currId": "13988", "short_name": "Nuance Communications", "avg_volume": "3.19M", "market_cap": "9.78B", "revenue": "2.01B", "p_e_ratio": "63.65", "beta": "1.03"}
+{"name": "NXP Semiconductors NV", "currId": "13989", "short_name": "NXP", "avg_volume": "2.01M", "market_cap": "40.98B", "revenue": "8.41B", "p_e_ratio": null, "beta": "1.5"}
+{"name": "QuickLogic Corporation", "currId": "13990", "short_name": "QuickLogic", "avg_volume": "61.06K", "market_cap": "32.10M", "revenue": "9.01M", "p_e_ratio": null, "beta": "2.04"}
+{"name": "Radware Ltd", "currId": "13991", "short_name": "Radware", "avg_volume": "210.29K", "market_cap": "1.16B", "revenue": "248.34M", "p_e_ratio": "85.02", "beta": "0.98"}
+{"name": "Royal Gold Inc", "currId": "13992", "short_name": "Royal Gold", "avg_volume": "376.05K", "market_cap": "7.79B", "revenue": "526.93M", "p_e_ratio": "47.73", "beta": "0.79"}
+{"name": "Tesla Inc", "currId": "13994", "short_name": "Tesla", "avg_volume": "60.28M", "market_cap": "387.22B", "revenue": "28.18B", "p_e_ratio": "809.36", "beta": "1.87"}
+{"name": "Take-Two Interactive Software Inc", "currId": "13995", "short_name": "Take-Two", "avg_volume": "1.24M", "market_cap": "18.61B", "revenue": "3.36B", "p_e_ratio": "39.14", "beta": "0.52"}
+{"name": "Wacoal Holdings Corp", "currId": "13996", "short_name": "Wacoal", "avg_volume": "0.64K", "market_cap": "1.25B", "revenue": "3.49B", "p_e_ratio": null, "beta": "0.38"}
+{"name": "Yandex NV", "currId": "13999", "short_name": "Yandex", "avg_volume": "3.31M", "market_cap": "21.88B", "revenue": "4.37B", "p_e_ratio": "67.17", "beta": "1.38"}
+{"name": "New Zealand Oil and Gas Ltd (OTC Markets)", "currId": "14296", "short_name": "New Zealand Oil Gas", "avg_volume": "8.00K", "market_cap": "80.41M", "revenue": "819.94K", "p_e_ratio": null, "beta": null}
+{"name": "CBB Bancorp Inc", "currId": "14570", "short_name": "CBB Bancorp", "avg_volume": "3.51K", "market_cap": "8.40M", "revenue": null, "p_e_ratio": "8.73", "beta": null}
+{"name": "Regis Resources Ltd (OTC Markets)", "currId": "14595", "short_name": "Regis Resources", "avg_volume": "3.47K", "market_cap": "1.50B", "revenue": "16.65M", "p_e_ratio": "15.65", "beta": "1.52"}
+{"name": "Dollar Tree Inc", "currId": "14776", "short_name": "Dollar Tree", "avg_volume": "2.00M", "market_cap": "22.53B", "revenue": "24.63B", "p_e_ratio": "25.43", "beta": "0.65"}
+{"name": "Espirito Santo Financial Group SA", "currId": "15158", "short_name": "Espirito Santo SA", "avg_volume": "0.52K", "market_cap": null, "revenue": null, "p_e_ratio": null, "beta": null}
+{"name": "Engie SA (OTC Markets)", "currId": "15286", "short_name": "Engie", "avg_volume": "5.18K", "market_cap": "35.13B", "revenue": "1.20B", "p_e_ratio": null, "beta": null}
+{"name": "Atlantic American Corporation", "currId": "15301", "short_name": "Atlantic American", "avg_volume": "10.74K", "market_cap": "44.91M", "revenue": "189.18M", "p_e_ratio": null, "beta": "0.27"}
+{"name": "AAON Inc", "currId": "15302", "short_name": "AAON", "avg_volume": "180.79K", "market_cap": "3.40B", "revenue": "520.42M", "p_e_ratio": "45.2", "beta": "0.69"}
+{"name": "Atlas Air Worldwide Holdings", "currId": "15304", "short_name": "Atlas Air", "avg_volume": "500.09K", "market_cap": "1.51B", "revenue": "3.03B", "p_e_ratio": null, "beta": "1.41"}
+{"name": "Ameris Bancorp", "currId": "15306", "short_name": "Ameris", "avg_volume": "372.58K", "market_cap": "2.33B", "revenue": "644.93M", "p_e_ratio": "10.17", "beta": "1.46"}
+{"name": "ArcBest Corp", "currId": "15309", "short_name": "ArcBest Corp", "avg_volume": "183.81K", "market_cap": "942.63M", "revenue": "2.84B", "p_e_ratio": "23.7", "beta": "1.72"}
+{"name": "ARCA Biopharma Inc", "currId": "15310", "short_name": "ARCA Biopharma", "avg_volume": "663.56K", "market_cap": "37.57M", "revenue": null, "p_e_ratio": null, "beta": "2.91"}
+{"name": "ABIOMED Inc", "currId": "15311", "short_name": "ABIOMED", "avg_volume": "305.53K", "market_cap": "12.30B", "revenue": "802.85M", "p_e_ratio": "59.73", "beta": "1.39"}
+{"name": "Autobytel Inc", "currId": "15312", "short_name": "Autobytel", "avg_volume": "831.04K", "market_cap": "31.21M", "revenue": "85.99M", "p_e_ratio": null, "beta": "2.29"}
+{"name": "ACADIA Pharmaceuticals Inc", "currId": "15314", "short_name": "ACADIA", "avg_volume": "1.09M", "market_cap": "8.20B", "revenue": "419.08M", "p_e_ratio": null, "beta": "1.42"}
+{"name": "Aceto Corp", "currId": "15317", "short_name": "Aceto", "avg_volume": "4.90K", "market_cap": "3.39M", "revenue": null, "p_e_ratio": null, "beta": "1.51"}
+{"name": "Acorn Energy Inc", "currId": "15319", "short_name": "Acorn", "avg_volume": "33.07K", "market_cap": "12.50M", "revenue": "5.60M", "p_e_ratio": null, "beta": "1.52"}
+{"name": "Acadia Healthcare Company Inc", "currId": "15321", "short_name": "Acadia Healthcare", "avg_volume": "492.62K", "market_cap": "3.72B", "revenue": "3.15B", "p_e_ratio": "36.92", "beta": "1.48"}
+{"name": "ACI Worldwide Inc", "currId": "15323", "short_name": "ACI Worldwide", "avg_volume": "1.05M", "market_cap": "3.71B", "revenue": "1.31B", "p_e_ratio": "62.22", "beta": "1.26"}
+{"name": "Axcelis Technologies Inc", "currId": "15324", "short_name": "Axcelis", "avg_volume": "298.04K", "market_cap": "871.23M", "revenue": "460.09M", "p_e_ratio": "19.65", "beta": "1.4"}
+{"name": "ACNB Corporation", "currId": "15325", "short_name": "ACNB", "avg_volume": "13.86K", "market_cap": "205.22M", "revenue": "52.81M", "p_e_ratio": "11.67", "beta": "0.03"}
+{"name": "Acorda Therapeutics Inc", "currId": "15327", "short_name": "Acorda", "avg_volume": "5.79M", "market_cap": "39.97M", "revenue": "165.31M", "p_e_ratio": "0.9", "beta": "0.89"}
+{"name": "AcelRx Pharmaceuticals Inc", "currId": "15329", "short_name": "AcelRx", "avg_volume": "1.68M", "market_cap": "140.24M", "revenue": "5.15M", "p_e_ratio": null, "beta": "1.38"}
+{"name": "Acacia Research Corporation", "currId": "15330", "short_name": "Acacia Research", "avg_volume": "184.86K", "market_cap": "172.48M", "revenue": "29.90M", "p_e_ratio": "15.45", "beta": "0.82"}
+{"name": "Acura Pharmaceuticals Inc", "currId": "15332", "short_name": "Acura Pharma", "avg_volume": "8.77K", "market_cap": "5.41M", "revenue": "4.98M", "p_e_ratio": null, "beta": "0.87"}
+{"name": "Liveramp Holdings Inc", "currId": "15333", "short_name": "Liveramp", "avg_volume": "571.61K", "market_cap": "3.99B", "revenue": "412.02M", "p_e_ratio": null, "beta": "1.35"}
+{"name": "Aeon Global Health Corp", "currId": "15334", "short_name": "Aeon Global", "avg_volume": "13.54K", "market_cap": "416.43K", "revenue": null, "p_e_ratio": null, "beta": "0.88"}
+{"name": "Advanced Emissions Solutions Inc", "currId": "15336", "short_name": "ADES", "avg_volume": "392.99K", "market_cap": "92.37M", "revenue": "71.53M", "p_e_ratio": null, "beta": "0.75"}
+{"name": "Addus HomeCare Corporation", "currId": "15339", "short_name": "Addus", "avg_volume": "104.86K", "market_cap": "1.60B", "revenue": "758.83M", "p_e_ratio": "46.43", "beta": "0.64"}
+{"name": "Aegion Corp", "currId": "15341", "short_name": "Aegion", "avg_volume": "122.98K", "market_cap": "504.06M", "revenue": "1.12B", "p_e_ratio": null, "beta": "1.24"}
+{"name": "Aehr Test Systems", "currId": "15343", "short_name": "Aehr Test Systems", "avg_volume": "155.33K", "market_cap": "36.36M", "revenue": "18.76M", "p_e_ratio": null, "beta": "1.13"}
+{"name": "LiNiu Technology Group", "currId": "15345", "short_name": "LiNiu Tech", "avg_volume": "32.14K", "market_cap": "62.45K", "revenue": null, "p_e_ratio": null, "beta": "1.62"}
+{"name": "Stabilis Energy Inc", "currId": "15346", "short_name": "Stabilis Energy", "avg_volume": "1.27K", "market_cap": "38.19M", "revenue": "41.84M", "p_e_ratio": null, "beta": "0.15"}
+{"name": "ADDvantage Technologies Group Inc", "currId": "15347", "short_name": "ADDvantage", "avg_volume": "115.50K", "market_cap": "24.52M", "revenue": "55.80M", "p_e_ratio": null, "beta": "0.12"}
+{"name": "Aeterna Zentaris Inc (NASDAQ)", "currId": "15348", "short_name": "Aeterna Zentaris", "avg_volume": "2.07M", "market_cap": "21.00M", "revenue": "1.31M", "p_e_ratio": null, "beta": "2.13"}
+{"name": "AmTrust Financial Services Inc ADR Series E", "currId": "15355", "short_name": "AmTrust Financial", "avg_volume": "4.22K", "market_cap": "2.79B", "revenue": null, "p_e_ratio": "23.6", "beta": "1.1"}
+{"name": "Agenus Inc", "currId": "15356", "short_name": "Agenus", "avg_volume": "2.55M", "market_cap": "720.67M", "revenue": "91.41M", "p_e_ratio": null, "beta": "2"}
+{"name": "Argo Group International Holdings Ltd", "currId": "15357", "short_name": "Argo Group Int", "avg_volume": "143.29K", "market_cap": "1.42B", "revenue": "1.87B", "p_e_ratio": null, "beta": "0.92"}
+{"name": "AGNC Investment Corp", "currId": "15358", "short_name": "AGNC Invest", "avg_volume": "6.97M", "market_cap": "8.11B", "revenue": "1.03B", "p_e_ratio": null, "beta": "0.96"}
+{"name": "Agilysys Inc", "currId": "15359", "short_name": "Agilysys", "avg_volume": "135.94K", "market_cap": "782.28M", "revenue": "145.82M", "p_e_ratio": null, "beta": "1.31"}
+{"name": "Allied Healthcare Products Inc", "currId": "15361", "short_name": "Allied Healthcare", "avg_volume": "284.53K", "market_cap": "23.52M", "revenue": "31.90M", "p_e_ratio": null, "beta": "-5.06"}
+{"name": "Altra Holdings Inc", "currId": "15362", "short_name": "Altra", "avg_volume": "360.32K", "market_cap": "3.43B", "revenue": "1.71B", "p_e_ratio": null, "beta": "2.58"}
+{"name": "Air T Inc", "currId": "15364", "short_name": "Air T", "avg_volume": "1.58K", "market_cap": "30.63M", "revenue": "226.56M", "p_e_ratio": null, "beta": "1.18"}
+{"name": "Akorn Inc", "currId": "15366", "short_name": "Akorn", "avg_volume": "4.43M", "market_cap": "3.60M", "revenue": "663.50M", "p_e_ratio": null, "beta": "0.6"}
+{"name": "Alico Inc", "currId": "15367", "short_name": "Alico", "avg_volume": "11.66K", "market_cap": "235.16M", "revenue": "89.04M", "p_e_ratio": "10.24", "beta": "0.73"}
+{"name": "Align Technology Inc", "currId": "15368", "short_name": "Align", "avg_volume": "760.36K", "market_cap": "36.06B", "revenue": "2.29B", "p_e_ratio": "20.8", "beta": "1.68"}
+{"name": "Allegiant Travel Company", "currId": "15369", "short_name": "Allegiant", "avg_volume": "194.25K", "market_cap": "2.54B", "revenue": "1.20B", "p_e_ratio": null, "beta": "1.62"}
+{"name": "Alimera Sciences Inc", "currId": "15370", "short_name": "Alimera", "avg_volume": "29.40K", "market_cap": "26.12M", "revenue": "54.40M", "p_e_ratio": null, "beta": "1.91"}
+{"name": "Alkermes Plc", "currId": "15371", "short_name": "Alkermes Plc", "avg_volume": "1.25M", "market_cap": "2.83B", "revenue": "1.17B", "p_e_ratio": null, "beta": "1.2"}
+{"name": "Allot Communications Ltd (NASDAQ)", "currId": "15373", "short_name": "Allot Communications", "avg_volume": "181.26K", "market_cap": "370.61M", "revenue": "127.40M", "p_e_ratio": "-99999.99", "beta": "-99999.99"}
+{"name": "Alnylam Pharmaceuticals Inc", "currId": "15375", "short_name": "Alnylam", "avg_volume": "491.07K", "market_cap": "15.74B", "revenue": "400.97M", "p_e_ratio": null, "beta": "1.57"}
+{"name": "AstroNova Inc", "currId": "15377", "short_name": "AstroNova", "avg_volume": "14.92K", "market_cap": "62.37M", "revenue": "122.38M", "p_e_ratio": null, "beta": "0.51"}
+{"name": "Alaska Communications Systems", "currId": "15379", "short_name": "Alaska Communications", "avg_volume": "506.84K", "market_cap": "166.31M", "revenue": "236.50M", "p_e_ratio": "17.15", "beta": "1.42"}
+{"name": "AMAG Pharmaceuticals Inc", "currId": "15385", "short_name": "AMAG", "avg_volume": "1.64M", "market_cap": "477.47M", "revenue": "370.79M", "p_e_ratio": null, "beta": "0.82"}
+{"name": "Andatee China Marine Fuel Services", "currId": "15389", "short_name": "Andatee China Marine", "avg_volume": "32.71K", "market_cap": "30.77K", "revenue": null, "p_e_ratio": null, "beta": "1.99"}
+{"name": "Amedisys Inc", "currId": "15391", "short_name": "Amedisys", "avg_volume": "174.87K", "market_cap": "7.99B", "revenue": "2.02B", "p_e_ratio": "48.71", "beta": "0.79"}
+{"name": "Amkor Technology Inc", "currId": "15393", "short_name": "Amkor", "avg_volume": "1.14M", "market_cap": "3.22B", "revenue": "4.86B", "p_e_ratio": "10.34", "beta": "1.6"}
+{"name": "American National Bankshares Inc", "currId": "15394", "short_name": "American National Bankshares", "avg_volume": "18.18K", "market_cap": "281.19M", "revenue": "55.60M", "p_e_ratio": "9.85", "beta": "1.11"}
+{"name": "Allied Motion Technologies Inc", "currId": "15395", "short_name": "Allied Motion", "avg_volume": "20.13K", "market_cap": "394.70M", "revenue": "361.61M", "p_e_ratio": "26.75", "beta": "1.77"}
+{"name": "America Movil SAB de CV ADR Class A", "currId": "15396", "short_name": "America Movil ADR A", "avg_volume": "4.68K", "market_cap": "45.98B", "revenue": "22.55B", "p_e_ratio": "31", "beta": "0.68"}
+{"name": "American River Bankshares", "currId": "15399", "short_name": "American River", "avg_volume": "5.67K", "market_cap": "64.90M", "revenue": "14.73M", "p_e_ratio": "9.96", "beta": "0.69"}
+{"name": "Amyris Inc", "currId": "15402", "short_name": "Amyris", "avg_volume": "2.94M", "market_cap": "557.36M", "revenue": "163.06M", "p_e_ratio": null, "beta": "0.65"}
+{"name": "American Superconductor Corporation", "currId": "15403", "short_name": "American Superconductor", "avg_volume": "362.71K", "market_cap": "392.38M", "revenue": "78.38M", "p_e_ratio": null, "beta": "0.84"}
+{"name": "AMERISAFE Inc", "currId": "15404", "short_name": "AMERISAFE", "avg_volume": "93.22K", "market_cap": "1.12B", "revenue": "343.22M", "p_e_ratio": "12.2", "beta": "0.39"}
+{"name": "American Software Inc", "currId": "15406", "short_name": "American Software", "avg_volume": "158.56K", "market_cap": "540.15M", "revenue": "115.36M", "p_e_ratio": "71.19", "beta": "0.51"}
+{"name": "Ameritrans Capital Corp", "currId": "15407", "short_name": "Ameritrans Capital", "avg_volume": "8.00K", "market_cap": "20.37K", "revenue": null, "p_e_ratio": null, "beta": "-0.05"}
+{"name": "TD Ameritrade Holding Corporation", "currId": "15408", "short_name": "TD Ameritrade", "avg_volume": "4.21M", "market_cap": "21.62B", "revenue": "5.92B", "p_e_ratio": "11.43", "beta": "1.13"}
+{"name": "American Woodmark Corporation", "currId": "15409", "short_name": "American Woodmark", "avg_volume": "132.48K", "market_cap": "1.56B", "revenue": "1.61B", "p_e_ratio": "24.23", "beta": "2.38"}
+{"name": "American National Insurance Company", "currId": "15412", "short_name": "American National Insurance", "avg_volume": "36.60K", "market_cap": "2.23B", "revenue": "3.50B", "p_e_ratio": "6.73", "beta": "0.73"}
+{"name": "American Caresource Holdings Inc", "currId": "15414", "short_name": "American Caresource", "avg_volume": "22.86K", "market_cap": "207.46K", "revenue": null, "p_e_ratio": null, "beta": "3.12"}
+{"name": "The Andersons Inc", "currId": "15416", "short_name": "The Andersons", "avg_volume": "243.86K", "market_cap": "728.17M", "revenue": "7.55B", "p_e_ratio": null, "beta": "0.75"}
+{"name": "AngioDynamics Inc", "currId": "15420", "short_name": "AngioDynamics", "avg_volume": "259.48K", "market_cap": "460.37M", "revenue": "268.33M", "p_e_ratio": null, "beta": "0.68"}
+{"name": "Anika Therapeutics Inc", "currId": "15421", "short_name": "Anika", "avg_volume": "108.93K", "market_cap": "537.45M", "revenue": "127.54M", "p_e_ratio": null, "beta": "1.09"}
+{"name": "ANSYS Inc", "currId": "15424", "short_name": "ANSYS", "avg_volume": "415.74K", "market_cap": "28.19B", "revenue": "1.54B", "p_e_ratio": "74.4", "beta": "1.23"}
+{"name": "Anthera Pharmaceuticals Inc", "currId": "15425", "short_name": "Anthera Pharma", "avg_volume": "109.95K", "market_cap": "471.23K", "revenue": null, "p_e_ratio": null, "beta": "2.23"}
+{"name": "Alpha and Omega Semiconductor Ltd", "currId": "15428", "short_name": "Alpha & Omega Semiconductor", "avg_volume": "131.25K", "market_cap": "520.71M", "revenue": "498.65M", "p_e_ratio": "351.76", "beta": "2.36"}
+{"name": "American Public Education Inc", "currId": "15430", "short_name": "American Public Education", "avg_volume": "79.34K", "market_cap": "462.34M", "revenue": "310.26M", "p_e_ratio": "27.12", "beta": "0.87"}
+{"name": "Apogee Enterprises Inc", "currId": "15433", "short_name": "Apogee", "avg_volume": "291.71K", "market_cap": "657.80M", "revenue": "1.28B", "p_e_ratio": "13.9", "beta": "1.19"}
+{"name": "Riot Blockchain Inc", "currId": "15434", "short_name": "Riot Blockchain", "avg_volume": "6.31M", "market_cap": "202.69M", "revenue": "7.27M", "p_e_ratio": null, "beta": "3.38"}
+{"name": "Seelos Therapeutics Inc", "currId": "15435", "short_name": "Seelos Therapeutics", "avg_volume": "1.33M", "market_cap": "45.66M", "revenue": "380.00K", "p_e_ratio": null, "beta": "2.13"}
+{"name": "IRSA Propiedades Comerciales SA ADR", "currId": "15436", "short_name": "IRSA Propiedades ADR", "avg_volume": "17.20K", "market_cap": "581.52M", "revenue": "323.30M", "p_e_ratio": "1.38", "beta": "1.2"}
+{"name": "Asia Pacific Wire & Cable Corp Ltd", "currId": "15437", "short_name": "Asia Pacific Wire & Cable", "avg_volume": "1.01M", "market_cap": "26.95M", "revenue": "305.17M", "p_e_ratio": null, "beta": "1.04"}
+{"name": "Accuray Incorporated", "currId": "15438", "short_name": "Accuray", "avg_volume": "775.84K", "market_cap": "350.49M", "revenue": "378.69M", "p_e_ratio": "25.56", "beta": "1.92"}
+{"name": "Janone Inc", "currId": "15440", "short_name": "Janone", "avg_volume": "347.98K", "market_cap": "7.47M", "revenue": "33.66M", "p_e_ratio": null, "beta": "2.07"}
+{"name": "Vereit Inc", "currId": "15442", "short_name": "Vereit", "avg_volume": "9.22M", "market_cap": "8.03B", "revenue": "1.18B", "p_e_ratio": "30.85", "beta": "1.13"}
+{"name": "ARC Group Worldwide Inc", "currId": "15443", "short_name": "ARC Group", "avg_volume": "7.96K", "market_cap": "10.52M", "revenue": null, "p_e_ratio": null, "beta": "1.66"}
+{"name": "Approach Resources Inc", "currId": "15445", "short_name": "Approach Resources", "avg_volume": "598.15K", "market_cap": "758.41K", "revenue": "15.42M", "p_e_ratio": null, "beta": "2.1"}
+{"name": "Gentherm Inc", "currId": "15446", "short_name": "Gentherm", "avg_volume": "138.79K", "market_cap": "1.70B", "revenue": "854.59M", "p_e_ratio": "47.51", "beta": "1.42"}
+{"name": "Ark Restaurants Corp", "currId": "15448", "short_name": "Ark Restaurants", "avg_volume": "16.59K", "market_cap": "35.60M", "revenue": "126.40M", "p_e_ratio": null, "beta": "0.99"}
+{"name": "Alliance Resource Partners LP", "currId": "15449", "short_name": "Alliance Resource", "avg_volume": "577.61K", "market_cap": "449.00M", "revenue": "1.77B", "p_e_ratio": null, "beta": "1.67"}
+{"name": "Arrow Financial Corporation", "currId": "15451", "short_name": "Arrow", "avg_volume": "26.74K", "market_cap": "452.66M", "revenue": "71.16M", "p_e_ratio": "11.87", "beta": "0.64"}
+{"name": "Trecora Resources", "currId": "15454", "short_name": "Trecora Resources", "avg_volume": "57.86K", "market_cap": "161.31M", "revenue": "212.21M", "p_e_ratio": null, "beta": "0.72"}
+{"name": "Artesian Resources Corporation", "currId": "15456", "short_name": "Artesian", "avg_volume": "24.41K", "market_cap": "364.86M", "revenue": "87.40M", "p_e_ratio": "21.76", "beta": "0.03"}
+{"name": "Arts-Way Manufacturing Co Inc", "currId": "15457", "short_name": "Arts-Way", "avg_volume": "86.51K", "market_cap": "10.41M", "revenue": "24.45M", "p_e_ratio": null, "beta": "0.33"}
+{"name": "Arrowhead Pharmaceuticals Inc", "currId": "15459", "short_name": "Arrowhead Pharma", "avg_volume": "1.54M", "market_cap": "7.01B", "revenue": "123.65M", "p_e_ratio": null, "beta": "1.74"}
+{"name": "Associated Banc-Corp", "currId": "15461", "short_name": "Associated Banc-Corp", "avg_volume": "1.37M", "market_cap": "2.37B", "revenue": "767.95M", "p_e_ratio": "8.13", "beta": "1.24"}
+{"name": "Asta Funding Inc", "currId": "15466", "short_name": "Asta Funding", "avg_volume": "8.89K", "market_cap": "85.91M", "revenue": "16.71M", "p_e_ratio": "26.7", "beta": "0.58"}
+{"name": "ASGN Inc", "currId": "15467", "short_name": "ASGN", "avg_volume": "219.92K", "market_cap": "4.24B", "revenue": "3.96B", "p_e_ratio": "23.11", "beta": "2.29"}
+{"name": "ASM International NV ADR", "currId": "15469", "short_name": "ASM ADR", "avg_volume": "1.00K", "market_cap": "7.82B", "revenue": "29.17M", "p_e_ratio": null, "beta": null}
+{"name": "ASML Holding NV (OTC Markets)", "currId": "15470", "short_name": "ASML Holding", "avg_volume": "2.64K", "market_cap": "174.68B", "revenue": null, "p_e_ratio": "20", "beta": "1.47"}
+{"name": "Ascena Retail Group Inc", "currId": "15471", "short_name": "Ascena Retail", "avg_volume": "119.06K", "market_cap": "2.62M", "revenue": "2.94B", "p_e_ratio": null, "beta": "1.51"}
+{"name": "AmeriServ Financial Inc", "currId": "15473", "short_name": "AmeriServ", "avg_volume": "11.39K", "market_cap": "53.22M", "revenue": "31.37M", "p_e_ratio": "11.65", "beta": "0.87"}
+{"name": "Astrotech Corp", "currId": "15474", "short_name": "Astrotech", "avg_volume": "3.48M", "market_cap": "35.07M", "revenue": "620.00K", "p_e_ratio": null, "beta": "-0.81"}
+{"name": "Astec Industries Inc", "currId": "15475", "short_name": "Astec", "avg_volume": "127.86K", "market_cap": "1.22B", "revenue": "1.07B", "p_e_ratio": "94.26", "beta": "1.32"}
+{"name": "Ascent Solar Technologies Inc", "currId": "15476", "short_name": "Ascent Solar", "avg_volume": "33.48M", "market_cap": "2.51M", "revenue": "340.00K", "p_e_ratio": null, "beta": "0.14"}
+{"name": "Vericel Corp Ord", "currId": "15477", "short_name": "Vericel Corp Ord", "avg_volume": "515.95K", "market_cap": "1.17B", "revenue": "118.34M", "p_e_ratio": "36842.86", "beta": "3.12"}
+{"name": "Asure Software Inc", "currId": "15479", "short_name": "Asure", "avg_volume": "93.33K", "market_cap": "113.26M", "revenue": "122.24M", "p_e_ratio": null, "beta": "1.13"}
+{"name": "Amtech Systems Inc", "currId": "15480", "short_name": "Amtech", "avg_volume": "39.73K", "market_cap": "81.90M", "revenue": "70.55M", "p_e_ratio": null, "beta": "1.53"}
+{"name": "ATA Inc", "currId": "15481", "short_name": "ATA", "avg_volume": "75.34K", "market_cap": "36.01M", "revenue": "3.39M", "p_e_ratio": null, "beta": "1.64"}
+{"name": "America First Tax Exempt Investors", "currId": "15482", "short_name": "America First Tax", "avg_volume": "145.60K", "market_cap": "223.27M", "revenue": "63.17M", "p_e_ratio": "16", "beta": "0.53"}
+{"name": "Alphatec Holdings Inc", "currId": "15484", "short_name": "Alphatecs", "avg_volume": "988.68K", "market_cap": "805.43M", "revenue": "133.25M", "p_e_ratio": null, "beta": "1.41"}
+{"name": "Athersys Inc", "currId": "15486", "short_name": "Athersys", "avg_volume": "1.67M", "market_cap": "345.97M", "revenue": "460.00K", "p_e_ratio": null, "beta": "-1.62"}
+{"name": "Ames National Corporation", "currId": "15487", "short_name": "Ames", "avg_volume": "18.69K", "market_cap": "185.92M", "revenue": "36.78M", "p_e_ratio": "10.41", "beta": "0.65"}
+{"name": "ATN International Inc", "currId": "15489", "short_name": "ATN Int", "avg_volume": "55.24K", "market_cap": "807.48M", "revenue": "443.83M", "p_e_ratio": null, "beta": "0.34"}
+{"name": "AtriCure Inc", "currId": "15492", "short_name": "AtriCure", "avg_volume": "342.10K", "market_cap": "1.78B", "revenue": "210.13M", "p_e_ratio": null, "beta": "0.97"}
+{"name": "ATRION Corporation", "currId": "15493", "short_name": "ATRION", "avg_volume": "6.85K", "market_cap": "1.09B", "revenue": "149.81M", "p_e_ratio": "33.51", "beta": "0.14"}
+{"name": "Astronics Corporation", "currId": "15495", "short_name": "Astronics", "avg_volume": "269.11K", "market_cap": "268.27M", "revenue": "586.19M", "p_e_ratio": null, "beta": "1.76"}
+{"name": "Auburn National Bancorporation Inc", "currId": "15498", "short_name": "Auburn", "avg_volume": "3.07K", "market_cap": "139.41M", "revenue": "16.63M", "p_e_ratio": "17.25", "beta": "0.62"}
+{"name": "AudioCodes Ltd (NASDAQ)", "currId": "15499", "short_name": "AudioCodes", "avg_volume": "326.73K", "market_cap": "914.63M", "revenue": "214.90M", "p_e_ratio": "93.53", "beta": "0.63"}
+{"name": "AeroVironment Inc", "currId": "15502", "short_name": "AeroVironment", "avg_volume": "170.42K", "market_cap": "1.96B", "revenue": "367.83M", "p_e_ratio": "57.14", "beta": "0.51"}
+{"name": "Diversicare Healthcare Services Inc", "currId": "15503", "short_name": "Diversicare", "avg_volume": "11.89K", "market_cap": "23.84M", "revenue": "491.79M", "p_e_ratio": "7.52", "beta": "0.76"}
+{"name": "AVEO Pharmaceuticals Inc", "currId": "15504", "short_name": "AVEO", "avg_volume": "395.50K", "market_cap": "171.42M", "revenue": "5.89M", "p_e_ratio": null, "beta": "1.51"}
+{"name": "Avid Technology Inc", "currId": "15505", "short_name": "Avid", "avg_volume": "467.40K", "market_cap": "489.16M", "revenue": "372.47M", "p_e_ratio": "26.62", "beta": "1.16"}
+{"name": "Sarepta Therapeutics Inc", "currId": "15506", "short_name": "Sarepta", "avg_volume": "740.34K", "market_cap": "11.16B", "revenue": "495.06M", "p_e_ratio": null, "beta": "2.05"}
+{"name": "Aviat Networks Inc", "currId": "15508", "short_name": "Aviat", "avg_volume": "36.60K", "market_cap": "146.37M", "revenue": "246.32M", "p_e_ratio": "24.43", "beta": "1.68"}
+{"name": "Aware Inc", "currId": "15511", "short_name": "Aware", "avg_volume": "24.59K", "market_cap": "57.26M", "revenue": "10.33M", "p_e_ratio": null, "beta": "0.07"}
+{"name": "Abraxas Petroleum Corporation", "currId": "15512", "short_name": "Abraxas Petroleum", "avg_volume": "525.81K", "market_cap": "14.71M", "revenue": "58.60M", "p_e_ratio": null, "beta": "3.39"}
+{"name": "AXT Inc", "currId": "15513", "short_name": "AXT", "avg_volume": "741.65K", "market_cap": "317.80M", "revenue": "86.73M", "p_e_ratio": null, "beta": "2.03"}
+{"name": "Natus Medical Incorporated", "currId": "15515", "short_name": "Natus", "avg_volume": "236.72K", "market_cap": "708.17M", "revenue": "428.38M", "p_e_ratio": null, "beta": "0.72"}
+{"name": "Banc of California Inc", "currId": "15518", "short_name": "Banc of California", "avg_volume": "206.95K", "market_cap": "656.14M", "revenue": "228.62M", "p_e_ratio": null, "beta": "1.88"}
+{"name": "BancFirst Corporation", "currId": "15519", "short_name": "BancFirst", "avg_volume": "86.54K", "market_cap": "1.73B", "revenue": "227.31M", "p_e_ratio": "17.65", "beta": "1.41"}
+{"name": "Banner Corporation", "currId": "15520", "short_name": "Banner", "avg_volume": "172.87K", "market_cap": "1.52B", "revenue": "465.09M", "p_e_ratio": "13.84", "beta": "1.16"}
+{"name": "Bioanalytical Systems Inc", "currId": "15522", "short_name": "Bioanalytical Systems", "avg_volume": "26.53K", "market_cap": "67.69M", "revenue": "59.49M", "p_e_ratio": null, "beta": "1.71"}
+{"name": "Hope Bancorp Inc", "currId": "15523", "short_name": "Hope Bancorp", "avg_volume": "868.80K", "market_cap": "1.15B", "revenue": "319.03M", "p_e_ratio": "9.26", "beta": "1.65"}
+{"name": "Beasley Broadcast Group Inc", "currId": "15525", "short_name": "Beasley", "avg_volume": "2.27M", "market_cap": "40.34M", "revenue": "209.77M", "p_e_ratio": null, "beta": "1.64"}
+{"name": "Barrett Business Services Inc", "currId": "15529", "short_name": "Barrett", "avg_volume": "59.68K", "market_cap": "535.62M", "revenue": "892.79M", "p_e_ratio": "14.1", "beta": "1.54"}
+{"name": "BCB Bancorp Inc", "currId": "15531", "short_name": "BCB Bancorp", "avg_volume": "30.98K", "market_cap": "177.99M", "revenue": "63.75M", "p_e_ratio": "10.23", "beta": "0.61"}
+{"name": "B Communications Ltd (OTC Markets)", "currId": "15533", "short_name": "B Communications", "avg_volume": "11.37K", "market_cap": "245.19M", "revenue": null, "p_e_ratio": "34.87", "beta": "1.90"}
+{"name": "Balchem Corporation", "currId": "15534", "short_name": "Balchem", "avg_volume": "109.98K", "market_cap": "3.44B", "revenue": "689.46M", "p_e_ratio": "41.66", "beta": "0.58"}
+{"name": "BioCryst Pharmaceuticals Inc", "currId": "15535", "short_name": "BioCryst", "avg_volume": "5.00M", "market_cap": "778.65M", "revenue": "53.52M", "p_e_ratio": null, "beta": "2.86"}
+{"name": "Black Diamond Inc", "currId": "15538", "short_name": "Black Diamond", "avg_volume": "223.27K", "market_cap": "469.98M", "revenue": "209.07M", "p_e_ratio": "43.77", "beta": "0.95"}
+{"name": "Bridge Bancorp Inc", "currId": "15539", "short_name": "Bridge Bancorp", "avg_volume": "84.90K", "market_cap": "408.63M", "revenue": "104.59M", "p_e_ratio": "8.13", "beta": "1.07"}
+{"name": "BioDelivery Sciences International", "currId": "15541", "short_name": "BioDelivery Sciences", "avg_volume": "1.19M", "market_cap": "385.23M", "revenue": "145.94M", "p_e_ratio": "27.61", "beta": "0.75"}
+{"name": "BioTelemetry Inc", "currId": "15542", "short_name": "BioTelemetry", "avg_volume": "318.65K", "market_cap": "1.63B", "revenue": "438.83M", "p_e_ratio": "98.31", "beta": "1.19"}
+{"name": "bebe stores inc", "currId": "15544", "short_name": "bebe stores", "avg_volume": "4.64K", "market_cap": "56.87M", "revenue": null, "p_e_ratio": null, "beta": "1.05"}
+{"name": "Beacon Roofing Supply Inc", "currId": "15545", "short_name": "Beacon Roofing", "avg_volume": "490.33K", "market_cap": "2.56B", "revenue": "6.96B", "p_e_ratio": null, "beta": "2.01"}
+{"name": "Bel Fuse A Inc", "currId": "15546", "short_name": "Bel Fuse A", "avg_volume": "2.43K", "market_cap": "154.86M", "revenue": "464.77M", "p_e_ratio": "54.7", "beta": "1.98"}
+{"name": "Bel Fuse B Inc", "currId": "15547", "short_name": "Bel Fuse B", "avg_volume": "35.29K", "market_cap": "170.19M", "revenue": "464.77M", "p_e_ratio": "54.7", "beta": "1.98"}
+{"name": "Berkshire Bancorp Inc", "currId": "15548", "short_name": "Berkshire", "avg_volume": "1.15K", "market_cap": "134.79M", "revenue": null, "p_e_ratio": "20.44", "beta": "0.07"}
+{"name": "BankFinancial Corporation", "currId": "15551", "short_name": "BankFinancial", "avg_volume": "28.62K", "market_cap": "121.94M", "revenue": "28.09M", "p_e_ratio": "12.35", "beta": "0.58"}
+{"name": "BGC Partners Inc", "currId": "15554", "short_name": "BGC Partners", "avg_volume": "2.48M", "market_cap": "1.31B", "revenue": "2.06B", "p_e_ratio": "30.34", "beta": "1.72"}
+{"name": "Big 5 Sporting Goods Corporation", "currId": "15555", "short_name": "Big 5", "avg_volume": "1.43M", "market_cap": "180.29M", "revenue": "994.73M", "p_e_ratio": "5.06", "beta": "2.52"}
+{"name": "BG Medicine Inc", "currId": "15556", "short_name": "BG Medicine", "avg_volume": "19.38K", "market_cap": "125.12K", "revenue": null, "p_e_ratio": null, "beta": "-0.18"}
+{"name": "Berkshire Hills Bancorp Inc", "currId": "15557", "short_name": "Berkshire Hills Bancorp", "avg_volume": "506.16K", "market_cap": "794.00M", "revenue": "238.80M", "p_e_ratio": null, "beta": "1.16"}
+{"name": "Biocept Inc", "currId": "15559", "short_name": "Biocept", "avg_volume": "700.87K", "market_cap": "64.02M", "revenue": "5.68M", "p_e_ratio": null, "beta": "0.95"}
+{"name": "Albireo Pharma Inc", "currId": "15560", "short_name": "Albireo Pharma", "avg_volume": "397.96K", "market_cap": "674.76M", "revenue": "12.02M", "p_e_ratio": null, "beta": "1.64"}
+{"name": "Green Brick Partners Inc", "currId": "15561", "short_name": "Green Brick Partners Inc", "avg_volume": "415.03K", "market_cap": "1.11B", "revenue": "952.04M", "p_e_ratio": "11.05", "beta": "1.37"}
+{"name": "Option Care Health Inc", "currId": "15562", "short_name": "Option Care Health", "avg_volume": "657.34K", "market_cap": "2.95B", "revenue": "2.95B", "p_e_ratio": null, "beta": "1.13"}
+{"name": "BJs Restaurants Inc", "currId": "15565", "short_name": "BJs Restaurants", "avg_volume": "424.58K", "market_cap": "826.61M", "revenue": "872.57M", "p_e_ratio": null, "beta": "2.29"}
+{"name": "Blueknight Energy Partners LP LLC", "currId": "15567", "short_name": "Blueknight", "avg_volume": "159.81K", "market_cap": "120.59M", "revenue": "388.86M", "p_e_ratio": null, "beta": "2.19"}
+{"name": "Oak Ridge Financial Services Inc", "currId": "15569", "short_name": "Oak Ridge", "avg_volume": "1.27K", "market_cap": "31.54M", "revenue": "19.03M", "p_e_ratio": "9.63", "beta": "0.76"}
+{"name": "Bank of South Carolina Corp", "currId": "15570", "short_name": "Bank of South Carolina", "avg_volume": "4.55K", "market_cap": "90.79M", "revenue": "10.61M", "p_e_ratio": "12.57", "beta": "0.46"}
+{"name": "Builders FirstSource Inc", "currId": "15572", "short_name": "Builders FirstSource", "avg_volume": "2.67M", "market_cap": "4.07B", "revenue": "7.79B", "p_e_ratio": "19.07", "beta": "2.69"}
+{"name": "Bridgeline Digital Inc", "currId": "15573", "short_name": "Bridgeline Digital", "avg_volume": "173.22K", "market_cap": "9.19M", "revenue": "10.89M", "p_e_ratio": null, "beta": "2.81"}
+{"name": "Blackbaud Inc", "currId": "15574", "short_name": "Blackbaud", "avg_volume": "364.92K", "market_cap": "2.60B", "revenue": "908.45M", "p_e_ratio": "112.15", "beta": "1.16"}
+{"name": "BioLineRx Ltd", "currId": "15576", "short_name": "BioLineRx", "avg_volume": "4.75M", "market_cap": "49.70M", "revenue": null, "p_e_ratio": null, "beta": null}
+{"name": "BIOLASE Inc", "currId": "15577", "short_name": "BIOLASE", "avg_volume": "2.38M", "market_cap": "26.74M", "revenue": "24.44M", "p_e_ratio": null, "beta": "1.91"}
+{"name": "Bank of Marin Bancorp", "currId": "15578", "short_name": "Bank of Marin", "avg_volume": "26.75K", "market_cap": "460.75M", "revenue": "53.77M", "p_e_ratio": "14.79", "beta": "0.84"}
+{"name": "Biomarin Pharmaceutical Inc", "currId": "15579", "short_name": "Biomarin Pharma", "avg_volume": "2.48M", "market_cap": "14.07B", "revenue": "1.86B", "p_e_ratio": "17.91", "beta": "0.67"}
+{"name": "Bryn Mawr Bank Corporation", "currId": "15580", "short_name": "Bryn Mawr Bank", "avg_volume": "70.41K", "market_cap": "591.16M", "revenue": "124.83M", "p_e_ratio": "17.82", "beta": "0.92"}
+{"name": "Bonso Electronics International Inc", "currId": "15585", "short_name": "Bonso Electronics Int", "avg_volume": "26.33K", "market_cap": "20.75M", "revenue": "13.10M", "p_e_ratio": "59.67", "beta": "0.72"}
+{"name": "Bank of Commerce Holdings", "currId": "15588", "short_name": "Bank of Commerce", "avg_volume": "31.33K", "market_cap": "154.10M", "revenue": "32.36M", "p_e_ratio": "11.74", "beta": "0.71"}
+{"name": "Axos Financial Inc", "currId": "15590", "short_name": "Axos Financial", "avg_volume": "325.62K", "market_cap": "1.94B", "revenue": "358.58M", "p_e_ratio": "10.27", "beta": "1.79"}
+{"name": "BOK Financial Corporation", "currId": "15591", "short_name": "BOK Financial", "avg_volume": "235.91K", "market_cap": "4.75B", "revenue": "1.07B", "p_e_ratio": "12.18", "beta": "1.64"}
+{"name": "Bon-Ton Stores Inc", "currId": "15594", "short_name": "Bon-Ton Stores", "avg_volume": "13.52K", "market_cap": "249.71K", "revenue": null, "p_e_ratio": null, "beta": "0.56"}
+{"name": "Dmc Global Inc", "currId": "15595", "short_name": "Dmc Global", "avg_volume": "116.90K", "market_cap": "553.42M", "revenue": "331.98M", "p_e_ratio": null, "beta": "1.34"}
+{"name": "BOS Better Online Solutions", "currId": "15597", "short_name": "BOS", "avg_volume": "8.71K", "market_cap": "10.95M", "revenue": "24.73M", "p_e_ratio": null, "beta": "0.82"}
+{"name": "Boston Private Financial Holdings", "currId": "15600", "short_name": "Boston Private", "avg_volume": "835.99K", "market_cap": "593.88M", "revenue": "179.98M", "p_e_ratio": "14.3", "beta": "1.13"}
+{"name": "Bridgford Foods Corporation", "currId": "15603", "short_name": "Bridgford", "avg_volume": "2.69K", "market_cap": "166.11M", "revenue": "190.76M", "p_e_ratio": "24.78", "beta": "0.04"}
+{"name": "Brookline Bancorp Inc", "currId": "15604", "short_name": "Brookline Bancorp", "avg_volume": "343.33K", "market_cap": "900.49M", "revenue": "173.92M", "p_e_ratio": "20.92", "beta": "0.73"}
+{"name": "Brooks Automation Inc", "currId": "15606", "short_name": "Brooks Automation", "avg_volume": "417.97K", "market_cap": "5.06B", "revenue": "897.28M", "p_e_ratio": "77.79", "beta": "1.91"}
+{"name": "Bassett Furniture Industries", "currId": "15609", "short_name": "Bassett", "avg_volume": "85.36K", "market_cap": "147.45M", "revenue": "381.12M", "p_e_ratio": null, "beta": "1.54"}
+{"name": "Biostar Pharmaceuticals Inc", "currId": "15611", "short_name": "Biostar Pharma", "avg_volume": "7.57K", "market_cap": "382.39K", "revenue": null, "p_e_ratio": "0.37", "beta": "2.56"}
+{"name": "BSQUARE Corporation", "currId": "15612", "short_name": "BSQUARE", "avg_volume": "39.09K", "market_cap": "19.34M", "revenue": "55.66M", "p_e_ratio": null, "beta": "1.59"}
+{"name": "Sierra Bancorp", "currId": "15613", "short_name": "Sierra Bancorp", "avg_volume": "38.60K", "market_cap": "330.68M", "revenue": "68.44M", "p_e_ratio": "9.25", "beta": "1.12"}
+{"name": "BioSpecifics Technologies Corp", "currId": "15614", "short_name": "BioSpecifics", "avg_volume": "102.70K", "market_cap": "648.85M", "revenue": "36.59M", "p_e_ratio": "37.48", "beta": "0.25"}
+{"name": "Burcon NutraScience Corporation (OTC Markets)", "currId": "15617", "short_name": "Burcon NutraScience", "avg_volume": "47.69K", "market_cap": "179.53M", "revenue": "0.66K", "p_e_ratio": null, "beta": null}
+{"name": "First Busey Corp", "currId": "15618", "short_name": "First Busey", "avg_volume": "149.27K", "market_cap": "1.09B", "revenue": "221.10M", "p_e_ratio": "10.95", "beta": "1.13"}
+{"name": "Broadwind Energy Inc", "currId": "15620", "short_name": "Broadwind", "avg_volume": "220.85K", "market_cap": "60.81M", "revenue": "207.42M", "p_e_ratio": null, "beta": "1.39"}
+{"name": "Protective Insurance Corp Class A", "currId": "15621", "short_name": "Protective Insurance A", "avg_volume": "0.90K", "market_cap": "213.99M", "revenue": "457.93M", "p_e_ratio": null, "beta": "0.55"}
+{"name": "Protective Insurance Corp Class B", "currId": "15622", "short_name": "Protective Insurance B", "avg_volume": "14.24K", "market_cap": "202.15M", "revenue": "457.93M", "p_e_ratio": null, "beta": "0.55"}
+{"name": "Broadway Financial Corporation", "currId": "15625", "short_name": "Broadway Financial", "avg_volume": "1.05M", "market_cap": "46.54M", "revenue": "9.58M", "p_e_ratio": null, "beta": "0.97"}
+{"name": "China Automotive Systems Inc", "currId": "15626", "short_name": "China Automotive", "avg_volume": "107.27K", "market_cap": "98.51M", "revenue": "373.22M", "p_e_ratio": "54.61", "beta": "1.35"}
+{"name": "Camden National Corporation", "currId": "15627", "short_name": "Camden", "avg_volume": "40.01K", "market_cap": "528.05M", "revenue": "102.61M", "p_e_ratio": "9.49", "beta": "1.03"}
+{"name": "Credit Acceptance Corporation", "currId": "15629", "short_name": "Credit Acceptance", "avg_volume": "197.19K", "market_cap": "5.53B", "revenue": "1.61B", "p_e_ratio": "13.69", "beta": "1.25"}
+{"name": "Cache Inc", "currId": "15630", "short_name": "Cache", "avg_volume": "27.96K", "market_cap": "93.11K", "revenue": null, "p_e_ratio": null, "beta": "0.13"}
+{"name": "Color Star Technology Co Ltd", "currId": "15631", "short_name": "Color Star Technology Co", "avg_volume": "3.57M", "market_cap": "29.07M", "revenue": null, "p_e_ratio": null, "beta": "2.25"}
+{"name": "The Cheesecake Factory", "currId": "15634", "short_name": "The Cheesecake", "avg_volume": "1.44M", "market_cap": "1.60B", "revenue": "2.12B", "p_e_ratio": null, "beta": "1.67"}
+{"name": "China Auto Logistics Inc", "currId": "15636", "short_name": "China Auto Logistics", "avg_volume": "6.57K", "market_cap": "1.16M", "revenue": null, "p_e_ratio": null, "beta": "7.17"}
+{"name": "Cal-Maine Foods Inc", "currId": "15638", "short_name": "Cal-Maine", "avg_volume": "511.01K", "market_cap": "1.96B", "revenue": "1.40B", "p_e_ratio": "44.18", "beta": "-0.18"}
+{"name": "CalAmp Corp", "currId": "15639", "short_name": "CalAmp", "avg_volume": "222.13K", "market_cap": "296.27M", "revenue": "347.56M", "p_e_ratio": null, "beta": "2.41"}
+{"name": "Camtek Ltd (NASDAQ)", "currId": "15640", "short_name": "Camtek", "avg_volume": "105.59K", "market_cap": "750.44M", "revenue": "140.44M", "p_e_ratio": "41.24", "beta": "1.75"}
+{"name": "Carver Bancorp Inc", "currId": "15644", "short_name": "Carver", "avg_volume": "721.51K", "market_cap": "19.68M", "revenue": "12.35M", "p_e_ratio": null, "beta": "1.72"}
+{"name": "Meta Financial Group Inc", "currId": "15645", "short_name": "Meta Financial", "avg_volume": "228.80K", "market_cap": "1.15B", "revenue": "217.62M", "p_e_ratio": "11.49", "beta": "0.97"}
+{"name": "Cass Information Systems Inc", "currId": "15647", "short_name": "Cass", "avg_volume": "39.35K", "market_cap": "602.99M", "revenue": "150.60M", "p_e_ratio": "24.3", "beta": "0.86"}
+{"name": "Caseys General Stores Inc", "currId": "15649", "short_name": "Caseys", "avg_volume": "211.45K", "market_cap": "7.05B", "revenue": "8.65B", "p_e_ratio": "23.81", "beta": "0.93"}
+{"name": "Cardtronics Inc", "currId": "15650", "short_name": "Cardtronics", "avg_volume": "427.78K", "market_cap": "949.19M", "revenue": "1.16B", "p_e_ratio": "41.91", "beta": "1.69"}
+{"name": "Cathay General Bancorp", "currId": "15651", "short_name": "Cathay", "avg_volume": "351.52K", "market_cap": "2.20B", "revenue": "371.83M", "p_e_ratio": "9.78", "beta": "1.52"}
+{"name": "Net Element Inc", "currId": "15653", "short_name": "Net Element", "avg_volume": "1.33M", "market_cap": "37.07M", "revenue": "63.03M", "p_e_ratio": null, "beta": "1.78"}
+{"name": "CBAK Energy Technology Inc", "currId": "15654", "short_name": "CBAK Energy", "avg_volume": "7.92M", "market_cap": "408.77M", "revenue": "24.27M", "p_e_ratio": null, "beta": "2.86"}
+{"name": "Colony Bankcorp Inc", "currId": "15655", "short_name": "Colony Bankcorp", "avg_volume": "8.57K", "market_cap": "123.48M", "revenue": "63.48M", "p_e_ratio": "12.77", "beta": "0.55"}
+{"name": "Cleveland BioLabs Inc", "currId": "15659", "short_name": "Cleveland BioLabs", "avg_volume": "2.57M", "market_cap": "41.00M", "revenue": "860.00K", "p_e_ratio": null, "beta": "0.73"}
+{"name": "China Biologic Products Inc", "currId": "15665", "short_name": "China Biologic", "avg_volume": "87.31K", "market_cap": "4.47B", "revenue": "511.97M", "p_e_ratio": "30.63", "beta": "0.42"}
+{"name": "Cracker Barrel Old Country Store", "currId": "15666", "short_name": "Cracker Barrel Old", "avg_volume": "410.34K", "market_cap": "3.07B", "revenue": "2.52B", "p_e_ratio": null, "beta": "1.34"}
+{"name": "Commerce Bancshares Inc", "currId": "15668", "short_name": "Commerce Bancshares", "avg_volume": "354.14K", "market_cap": "7.67B", "revenue": "695.55M", "p_e_ratio": "24.39", "beta": "1.03"}
+{"name": "Capital City Bank Group", "currId": "15670", "short_name": "Capital City Bank", "avg_volume": "24.94K", "market_cap": "378.98M", "revenue": "117.85M", "p_e_ratio": "11.75", "beta": "0.87"}
+{"name": "Antelope Enterprise Holdings Ltd", "currId": "15671", "short_name": "Antelope Enterprise Holdings", "avg_volume": "465.35K", "market_cap": "6.45M", "revenue": "3.30M", "p_e_ratio": null, "beta": "1.2"}
+{"name": "ChinaCache International Holdings", "currId": "15673", "short_name": "ChinaCaches", "avg_volume": "434.75K", "market_cap": "3.07M", "revenue": null, "p_e_ratio": null, "beta": "-0.75"}
+{"name": "CNB Financial Corporation", "currId": "15675", "short_name": "CNB Financial", "avg_volume": "54.09K", "market_cap": "311.07M", "revenue": "95.16M", "p_e_ratio": "8.15", "beta": "0.92"}
+{"name": "Cogent Communications Group Inc", "currId": "15676", "short_name": "Cogent", "avg_volume": "429.29K", "market_cap": "2.89B", "revenue": "564.49M", "p_e_ratio": "140.76", "beta": "0.12"}
+{"name": "Cross Country Healthcare Inc", "currId": "15677", "short_name": "Cross Country", "avg_volume": "209.46K", "market_cap": "297.88M", "revenue": "835.91M", "p_e_ratio": null, "beta": "1.08"}
+{"name": "CCUR Holdings Inc", "currId": "15678", "short_name": "CCUR Holdings", "avg_volume": "4.93K", "market_cap": "26.02M", "revenue": "5.05M", "p_e_ratio": "2.78", "beta": "0.4"}
+{"name": "Codexis Inc", "currId": "15680", "short_name": "Codexis", "avg_volume": "278.11K", "market_cap": "925.98M", "revenue": "66.68M", "p_e_ratio": null, "beta": "0.93"}
+{"name": "Cadiz Inc", "currId": "15681", "short_name": "Cadiz", "avg_volume": "127.47K", "market_cap": "353.66M", "revenue": "510.00K", "p_e_ratio": null, "beta": "-0.25"}
+{"name": "CECO Environmental Corp", "currId": "15683", "short_name": "CECO Environmental", "avg_volume": "77.12K", "market_cap": "280.49M", "revenue": "322.49M", "p_e_ratio": "18.85", "beta": "1.43"}
+{"name": "Perdoceo Education Corp", "currId": "15684", "short_name": "Career", "avg_volume": "440.93K", "market_cap": "804.42M", "revenue": "674.60M", "p_e_ratio": "6.65", "beta": "1.84"}
+{"name": "Central Garden & Pet Company", "currId": "15687", "short_name": "Central Garden&Pet", "avg_volume": "68.82K", "market_cap": "2.27B", "revenue": "2.56B", "p_e_ratio": "20.64", "beta": "0.72"}
+{"name": "Central Garden & Pet Company A", "currId": "15688", "short_name": "Central Garden&Pet A", "avg_volume": "177.97K", "market_cap": "2.05B", "revenue": "2.56B", "p_e_ratio": "20.64", "beta": "0.72"}
+{"name": "Cereplast Inc", "currId": "15690", "short_name": "Cereplast Inc", "avg_volume": "115.21K", "market_cap": "591.38K", "revenue": null, "p_e_ratio": null, "beta": "2.46"}
+{"name": "Cerus Corporation", "currId": "15691", "short_name": "Cerus", "avg_volume": "1.44M", "market_cap": "1.02B", "revenue": "107.15M", "p_e_ratio": null, "beta": "1.27"}
+{"name": "Central European Media Enterprises Ltd (NASDAQ)", "currId": "15692", "short_name": "Central European Media", "avg_volume": "563.42K", "market_cap": "1.16B", "revenue": null, "p_e_ratio": "16.67", "beta": "1.34"}
+{"name": "CEVA Inc", "currId": "15693", "short_name": "CEVA", "avg_volume": "123.63K", "market_cap": "906.70M", "revenue": "100.49M", "p_e_ratio": "10213.03", "beta": "1.25"}
+{"name": "CF Bankshares Inc", "currId": "15694", "short_name": "CF Bankshares", "avg_volume": "4.41K", "market_cap": "97.30M", "revenue": "77.11M", "p_e_ratio": "4.1", "beta": "0.72"}
+{"name": "C&F Financial Corporation", "currId": "15696", "short_name": "C&F Financial", "avg_volume": "6.16K", "market_cap": "126.46M", "revenue": "76.17M", "p_e_ratio": "6.78", "beta": "0.5"}
+{"name": "Capitol Federal Financial Inc", "currId": "15697", "short_name": "Capitol Federal", "avg_volume": "1.29M", "market_cap": "1.76B", "revenue": "162.44M", "p_e_ratio": "25.48", "beta": "0.35"}
+{"name": "California First National Bancorp", "currId": "15699", "short_name": "California First National", "avg_volume": "2.28K", "market_cap": "162.49M", "revenue": null, "p_e_ratio": "23.83", "beta": "0.5"}
+{"name": "Pingtan Marine Enterprise Ltd", "currId": "15701", "short_name": "Pingtan Marine", "avg_volume": "149.80K", "market_cap": "164.95M", "revenue": "86.50M", "p_e_ratio": "28.67", "beta": "-0.36"}
+{"name": "Compugen (NASDAQ)", "currId": "15702", "short_name": "Compugen", "avg_volume": "1.39M", "market_cap": "1.09B", "revenue": null, "p_e_ratio": null, "beta": "2.72"}
+{"name": "Cognex Corporation", "currId": "15703", "short_name": "Cognex", "avg_volume": "736.00K", "market_cap": "12.43B", "revenue": "757.18M", "p_e_ratio": "67.06", "beta": "1.64"}
+{"name": "Comstock Holding Companies Inc", "currId": "15704", "short_name": "Comstock", "avg_volume": "241.36K", "market_cap": "21.43M", "revenue": "29.24M", "p_e_ratio": "9.94", "beta": "0.92"}
+{"name": "City Holding Company", "currId": "15705", "short_name": "City Holding", "avg_volume": "59.92K", "market_cap": "1.04B", "revenue": "119.15M", "p_e_ratio": "11.9", "beta": "0.68"}
+{"name": "Churchill Downs Incorporated", "currId": "15706", "short_name": "Churchill Downs", "avg_volume": "254.12K", "market_cap": "7.14B", "revenue": "1.06B", "p_e_ratio": "783.88", "beta": "1.38"}
+{"name": "The Chefs Warehouse Inc", "currId": "15708", "short_name": "The Chefs Warehouse", "avg_volume": "920.35K", "market_cap": "734.62M", "revenue": "1.63B", "p_e_ratio": null, "beta": "2.24"}
+{"name": "Apex Global Brands Inc", "currId": "15712", "short_name": "Apex Global Brands Inc", "avg_volume": "116.55K", "market_cap": "1.53M", "revenue": "18.79M", "p_e_ratio": null, "beta": "1.1"}
+{"name": "China Natural Resources Inc", "currId": "15716", "short_name": "China Natural Resources", "avg_volume": "504.62K", "market_cap": "41.47M", "revenue": "436.48K", "p_e_ratio": "5041.19", "beta": "1.41"}
+{"name": "China Gerui Advanced Materials Group Ltd", "currId": "15717", "short_name": "China Gerui Advanced Materials", "avg_volume": "17.88K", "market_cap": "5.94K", "revenue": null, "p_e_ratio": null, "beta": null}
+{"name": "Coherus BioSciences Inc", "currId": "15719", "short_name": "Coherus BioSciences", "avg_volume": "900.48K", "market_cap": "1.29B", "revenue": "489.26M", "p_e_ratio": "8.85", "beta": "1.65"}
+{"name": "Charter Communications Inc", "currId": "15722", "short_name": "Charter Communications", "avg_volume": "1.00M", "market_cap": "129.36B", "revenue": "47.23B", "p_e_ratio": "51.16", "beta": "1.03"}
+{"name": "Cinedigm Corp", "currId": "15725", "short_name": "Cinedigm", "avg_volume": "4.17M", "market_cap": "61.98M", "revenue": "35.51M", "p_e_ratio": null, "beta": "1.95"}
+{"name": "Fanhua Inc", "currId": "15728", "short_name": "Fanhua", "avg_volume": "65.45K", "market_cap": "973.88M", "revenue": "75.68M", "p_e_ratio": "57.93", "beta": "0.9"}
+{"name": "Citizens Holding Company", "currId": "15730", "short_name": "Citizens", "avg_volume": "5.38K", "market_cap": "117.78M", "revenue": "25.82M", "p_e_ratio": "17.61", "beta": "0.07"}
+{"name": "China Jo-Jo Drugstores Inc", "currId": "15731", "short_name": "China Jo-Jo Drugstores", "avg_volume": "606.72K", "market_cap": "36.82M", "revenue": "125.58M", "p_e_ratio": null, "beta": "0.44"}
+{"name": "Collectors Universe Inc", "currId": "15735", "short_name": "Collectors Universe", "avg_volume": "125.36K", "market_cap": "621.08M", "revenue": "89.47M", "p_e_ratio": "46.24", "beta": "1.55"}
+{"name": "Celldex Therapeutics Inc", "currId": "15736", "short_name": "Celldex Therapeutics", "avg_volume": "680.00K", "market_cap": "790.15M", "revenue": "4.53M", "p_e_ratio": null, "beta": "2.99"}
+{"name": "Clearfield Inc", "currId": "15737", "short_name": "Clearfield", "avg_volume": "96.22K", "market_cap": "314.29M", "revenue": "93.08M", "p_e_ratio": "43.36", "beta": "0.94"}
+{"name": "Calumet Specialty Products Partners", "currId": "15739", "short_name": "Calumet", "avg_volume": "159.80K", "market_cap": "271.66M", "revenue": "2.49B", "p_e_ratio": null, "beta": "2.91"}
+{"name": "Clean Energy Fuels Corp", "currId": "15740", "short_name": "Clean Energy", "avg_volume": "1.38M", "market_cap": "632.48M", "revenue": "336.38M", "p_e_ratio": "20.12", "beta": "1.44"}
+{"name": "Sharing Economy International Inc", "currId": "15741", "short_name": "Sharing Economy", "avg_volume": "19.81K", "market_cap": "14.58M", "revenue": "1.78M", "p_e_ratio": "0.01", "beta": "0.84"}
+{"name": "ClearOne Inc", "currId": "15742", "short_name": "ClearOne", "avg_volume": "159.67K", "market_cap": "33.60M", "revenue": "24.41M", "p_e_ratio": null, "beta": "1.14"}
+{"name": "Town Sports International Holdings", "currId": "15743", "short_name": "Town Sportss", "avg_volume": "2.31M", "market_cap": "2.14M", "revenue": "329.54M", "p_e_ratio": null, "beta": "3"}
+{"name": "Clovis Oncology Inc", "currId": "15744", "short_name": "Clovis", "avg_volume": "4.86M", "market_cap": "376.24M", "revenue": "160.53M", "p_e_ratio": null, "beta": "2.07"}
+{"name": "Euro Tech Holdings Company Ltd", "currId": "15745", "short_name": "Euro Tech", "avg_volume": "16.81K", "market_cap": "8.98M", "revenue": "8.58M", "p_e_ratio": null, "beta": "0.57"}
+{"name": "Columbus McKinnon Corporation", "currId": "15746", "short_name": "Columbus McKinnon", "avg_volume": "80.94K", "market_cap": "879.00M", "revenue": "685.70M", "p_e_ratio": "50.56", "beta": "1.55"}
+{"name": "Destination XL Group Inc", "currId": "15751", "short_name": "Destination XL Group", "avg_volume": "3.83M", "market_cap": "16.24M", "revenue": "371.49M", "p_e_ratio": null, "beta": "1.81"}
+{"name": "Comtech Telecommunications Corp", "currId": "15753", "short_name": "Comtech", "avg_volume": "242.69K", "market_cap": "425.15M", "revenue": "616.71M", "p_e_ratio": "60.09", "beta": "1.86"}
+{"name": "Commercial National Financial Corp", "currId": "15755", "short_name": "Commercial National Financial", "avg_volume": "2.17K", "market_cap": "48.35M", "revenue": "9.94M", "p_e_ratio": "10.94", "beta": "0.46"}
+{"name": "Century Bancorp Inc", "currId": "15757", "short_name": "Century Bancorp", "avg_volume": "9.37K", "market_cap": "434.58M", "revenue": "80.83M", "p_e_ratio": "14.13", "beta": "1.01"}
+{"name": "Fortress Biotech Inc", "currId": "15758", "short_name": "Fortress Biotech", "avg_volume": "1.62M", "market_cap": "239.88M", "revenue": "42.98M", "p_e_ratio": null, "beta": "2.39"}
+{"name": "Chinanet Online Holdings Inc", "currId": "15759", "short_name": "Chinanet Online", "avg_volume": "498.08K", "market_cap": "32.18M", "revenue": "48.86M", "p_e_ratio": null, "beta": "1.85"}
+{"name": "Taoping Inc", "currId": "15760", "short_name": "Taoping", "avg_volume": "460.63K", "market_cap": "21.05M", "revenue": "17.53M", "p_e_ratio": null, "beta": "0.85"}
+{"name": "CONMED Corporation", "currId": "15761", "short_name": "CONMED", "avg_volume": "258.88K", "market_cap": "2.72B", "revenue": "874.50M", "p_e_ratio": "7589.78", "beta": "1.47"}
+{"name": "Consolidated Communications", "currId": "15763", "short_name": "Consolidated Communications", "avg_volume": "435.83K", "market_cap": "419.29M", "revenue": "1.31B", "p_e_ratio": "10.18", "beta": "1.36"}
+{"name": "China Techfaith Wireless Communication Technology Ltd", "currId": "15764", "short_name": "China Techfaith", "avg_volume": "6.51K", "market_cap": "1.78M", "revenue": null, "p_e_ratio": null, "beta": "2.74"}
+{"name": "Century Casinos Inc", "currId": "15765", "short_name": "Century Casinos", "avg_volume": "374.85K", "market_cap": "160.01M", "revenue": "286.71M", "p_e_ratio": null, "beta": "2.85"}
+{"name": "Viewtran Group Inc", "currId": "15772", "short_name": "Viewtran", "avg_volume": "13.04K", "market_cap": "133.74K", "revenue": null, "p_e_ratio": "0.13", "beta": "2.1"}
+{"name": "Coherent Inc", "currId": "15773", "short_name": "Coherent", "avg_volume": "168.66K", "market_cap": "2.90B", "revenue": "1.23B", "p_e_ratio": null, "beta": "1.56"}
+{"name": "Cohu Inc", "currId": "15774", "short_name": "Cohu", "avg_volume": "261.75K", "market_cap": "1.08B", "revenue": "575.66M", "p_e_ratio": null, "beta": "1.67"}
+{"name": "Coca-Cola Bottling Co Consolidated", "currId": "15775", "short_name": "Coca-Cola Bottling", "avg_volume": "27.94K", "market_cap": "2.42B", "revenue": "4.91B", "p_e_ratio": "28.45", "beta": "1.03"}
+{"name": "Columbia Banking System Inc", "currId": "15776", "short_name": "Columbia Banking", "avg_volume": "331.19K", "market_cap": "2.36B", "revenue": "465.45M", "p_e_ratio": "16.59", "beta": "1"}
+{"name": "Columbia Sportswear Company", "currId": "15777", "short_name": "Columbia Sportswear", "avg_volume": "360.77K", "market_cap": "5.19B", "revenue": "2.54B", "p_e_ratio": "41.09", "beta": "0.68"}
+{"name": "Conns Inc", "currId": "15779", "short_name": "Conns", "avg_volume": "386.73K", "market_cap": "291.64M", "revenue": "1.47B", "p_e_ratio": null, "beta": "2.61"}
+{"name": "Polarityte Inc", "currId": "15780", "short_name": "Polarityte", "avg_volume": "533.14K", "market_cap": "31.51M", "revenue": "8.01M", "p_e_ratio": null, "beta": "1.34"}
+{"name": "Core-Mark Holding Company Inc", "currId": "15781", "short_name": "Core-Mark", "avg_volume": "240.20K", "market_cap": "1.56B", "revenue": "16.86B", "p_e_ratio": "26.09", "beta": "0.47"}
+{"name": "Corcept Therapeutics Incorporated", "currId": "15782", "short_name": "Corcept", "avg_volume": "2.76M", "market_cap": "2.10B", "revenue": "356.03M", "p_e_ratio": "20.35", "beta": "0.82"}
+{"name": "Cowen Group Inc", "currId": "15784", "short_name": "Cowen Group", "avg_volume": "406.98K", "market_cap": "597.26M", "revenue": "1.40B", "p_e_ratio": "5.41", "beta": "1.53"}
+{"name": "Canterbury Park Holding Corporation", "currId": "15787", "short_name": "Canterbury Park", "avg_volume": "2.52K", "market_cap": "56.81M", "revenue": "44.92M", "p_e_ratio": "38.32", "beta": "0.55"}
+{"name": "Cumberland Pharmaceuticals Inc", "currId": "15789", "short_name": "Cumberland", "avg_volume": "17.37K", "market_cap": "45.25M", "revenue": "41.98M", "p_e_ratio": null, "beta": "0.35"}
+{"name": "Capital Product Partners LP", "currId": "15791", "short_name": "Capital Product", "avg_volume": "110.25K", "market_cap": "140.33M", "revenue": "133.48M", "p_e_ratio": null, "beta": "1.19"}
+{"name": "Catalyst Pharmaceuticals Inc", "currId": "15794", "short_name": "Catalyst Pharmaceuticals", "avg_volume": "1.63M", "market_cap": "352.40M", "revenue": "118.18M", "p_e_ratio": "5.06", "beta": "1.55"}
+{"name": "Computer Programs and Systems Inc", "currId": "15795", "short_name": "Computer Programs&Systems", "avg_volume": "78.06K", "market_cap": "430.43M", "revenue": "338.04M", "p_e_ratio": "19.16", "beta": "0.73"}
+{"name": "Consumer Portfolio Services Inc", "currId": "15797", "short_name": "Consumer Portfolio Services", "avg_volume": "133.22K", "market_cap": "78.75M", "revenue": "317.50M", "p_e_ratio": "4.74", "beta": "2.55"}
+{"name": "CRA International Inc", "currId": "15800", "short_name": "CRA", "avg_volume": "27.96K", "market_cap": "348.15M", "revenue": "616.37M", "p_e_ratio": "15.85", "beta": "1.45"}
+{"name": "China Recycling Energy Corp", "currId": "15807", "short_name": "China Recycling Energy", "avg_volume": "1.00M", "market_cap": "12.50M", "revenue": "700.00K", "p_e_ratio": null, "beta": "1.31"}
+{"name": "Cresud SACIF y A", "currId": "15808", "short_name": "Cresud SACIF", "avg_volume": "151.97K", "market_cap": "329.86M", "revenue": "3.28B", "p_e_ratio": null, "beta": "1.01"}
+{"name": "Curis Inc", "currId": "15811", "short_name": "Curis", "avg_volume": "538.22K", "market_cap": "72.35M", "revenue": "11.10M", "p_e_ratio": null, "beta": "2.15"}
+{"name": "Crumbs Bake Shop Inc", "currId": "15812", "short_name": "Crumbs", "avg_volume": "107.27K", "market_cap": "31.32K", "revenue": null, "p_e_ratio": null, "beta": "1.11"}
+{"name": "Americas Car-Mart Inc", "currId": "15814", "short_name": "Americas Car-Mart", "avg_volume": "54.00K", "market_cap": "667.85M", "revenue": "760.64M", "p_e_ratio": "12.06", "beta": "1.4"}
+{"name": "Ceragon Networks Ltd", "currId": "15815", "short_name": "Ceragon", "avg_volume": "368.15K", "market_cap": "188.23M", "revenue": "260.14M", "p_e_ratio": null, "beta": "2.01"}
+{"name": "CorVel Corp", "currId": "15819", "short_name": "CorVel", "avg_volume": "41.09K", "market_cap": "1.64B", "revenue": "560.75M", "p_e_ratio": "40.66", "beta": "0.87"}
+{"name": "Crown Crafts Inc", "currId": "15821", "short_name": "Crown Crafts", "avg_volume": "23.99K", "market_cap": "71.60M", "revenue": "76.76M", "p_e_ratio": "9.63", "beta": "0.9"}
+{"name": "CoStar Group Inc", "currId": "15828", "short_name": "CoStar", "avg_volume": "171.00K", "market_cap": "36.15B", "revenue": "1.59B", "p_e_ratio": "123.05", "beta": "1"}
+{"name": "CSG Systems International Inc", "currId": "15829", "short_name": "CSG Systems", "avg_volume": "186.08K", "market_cap": "1.42B", "revenue": "984.80M", "p_e_ratio": "20.45", "beta": "0.94"}
+{"name": "Cardiovascular Systems Inc", "currId": "15830", "short_name": "Cardiovascular", "avg_volume": "327.28K", "market_cap": "1.46B", "revenue": "232.59M", "p_e_ratio": null, "beta": "1.24"}
+{"name": "Canadian Solar Inc", "currId": "15831", "short_name": "Canadian Solar Inc", "avg_volume": "2.51M", "market_cap": "2.29B", "revenue": "3.20B", "p_e_ratio": "9.05", "beta": "1.4"}
+{"name": "Cornerstone OnDemand Inc", "currId": "15833", "short_name": "Cornerstone OnDemand", "avg_volume": "521.06K", "market_cap": "2.64B", "revenue": "683.59M", "p_e_ratio": null, "beta": "1.35"}
+{"name": "CSP Inc", "currId": "15834", "short_name": "CSP", "avg_volume": "3.94K", "market_cap": "33.15M", "revenue": "68.35M", "p_e_ratio": null, "beta": "1.93"}
+{"name": "Capital Southwest Corporation", "currId": "15838", "short_name": "Capital Southwest", "avg_volume": "76.00K", "market_cap": "291.08M", "revenue": "62.86M", "p_e_ratio": null, "beta": "1.08"}
+{"name": "Community Trust Bancorp Inc", "currId": "15840", "short_name": "Community Trust", "avg_volume": "51.34K", "market_cap": "611.97M", "revenue": "116.39M", "p_e_ratio": "10.22", "beta": "0.88"}
+{"name": "Cyren Ltd", "currId": "15841", "short_name": "Cyren", "avg_volume": "64.99K", "market_cap": "60.40M", "revenue": "37.86M", "p_e_ratio": null, "beta": "0.79"}
+{"name": "Hong Kong Television Network Ltd", "currId": "15844", "short_name": "Hong Kong TV Network", "avg_volume": "1.82K", "market_cap": "1.28B", "revenue": "46.82M", "p_e_ratio": null, "beta": "0.83"}
+{"name": "Computer Task Group Incorporated", "currId": "15846", "short_name": "Computer Task", "avg_volume": "26.20K", "market_cap": "94.01M", "revenue": "364.07M", "p_e_ratio": "11.97", "beta": "0.73"}
+{"name": "Charles & Colvard Ltd", "currId": "15847", "short_name": "Charles&Colvard", "avg_volume": "237.43K", "market_cap": "30.12M", "revenue": "29.51M", "p_e_ratio": null, "beta": "0.23"}
+{"name": "Yunhong CTI Ltd", "currId": "15848", "short_name": "CTI Industries", "avg_volume": "364.02K", "market_cap": "8.85M", "revenue": "61.69M", "p_e_ratio": null, "beta": "0.71"}
+{"name": "CTi Biopharma Corp", "currId": "15849", "short_name": "CTi Biopharma", "avg_volume": "3.37M", "market_cap": "252.97M", "revenue": "2.29M", "p_e_ratio": null, "beta": "0.88"}
+{"name": "Citi Trends Inc", "currId": "15850", "short_name": "Citi Trends", "avg_volume": "176.91K", "market_cap": "324.77M", "revenue": "726.33M", "p_e_ratio": "47.58", "beta": "1.45"}
+{"name": "Cutera Inc", "currId": "15852", "short_name": "Cutera", "avg_volume": "175.27K", "market_cap": "379.81M", "revenue": "149.54M", "p_e_ratio": null, "beta": "1.51"}
+{"name": "CVB Financial Corporation", "currId": "15853", "short_name": "CVB Financial", "avg_volume": "428.17K", "market_cap": "2.73B", "revenue": "239.89M", "p_e_ratio": "15.49", "beta": "0.68"}
+{"name": "Cavco Industries Inc", "currId": "15855", "short_name": "Cavco", "avg_volume": "50.52K", "market_cap": "1.80B", "revenue": "1.04B", "p_e_ratio": "28.14", "beta": "1.34"}
+{"name": "Central Valley Community Bancorp", "currId": "15856", "short_name": "Central Valley Community", "avg_volume": "25.98K", "market_cap": "179.73M", "revenue": "36.52M", "p_e_ratio": "10.36", "beta": "0.79"}
+{"name": "Commercial Vehicle Group Inc", "currId": "15857", "short_name": "Commercial Vehicle", "avg_volume": "328.16K", "market_cap": "237.35M", "revenue": "691.19M", "p_e_ratio": null, "beta": "3.54"}
+{"name": "Calavo Growers Inc", "currId": "15858", "short_name": "Calavo Growers", "avg_volume": "101.82K", "market_cap": "1.26B", "revenue": "1.12B", "p_e_ratio": null, "beta": "0.89"}
+{"name": "Codorus Valley Bancorp Inc", "currId": "15860", "short_name": "Codorus Valley", "avg_volume": "11.66K", "market_cap": "148.01M", "revenue": "45.03M", "p_e_ratio": "16.51", "beta": "0.59"}
+{"name": "Covenant Logistics Group Inc", "currId": "15861", "short_name": "Covenant", "avg_volume": "125.34K", "market_cap": "277.57M", "revenue": "846.46M", "p_e_ratio": null, "beta": "1.67"}
+{"name": "CVD Equipment Corporation", "currId": "15862", "short_name": "CVD Equipment", "avg_volume": "800.76K", "market_cap": "32.47M", "revenue": "19.30M", "p_e_ratio": null, "beta": "1.83"}
+{"name": "Community West Bancshares", "currId": "15864", "short_name": "Community West Bancshares", "avg_volume": "8.22K", "market_cap": "69.90M", "revenue": "23.89M", "p_e_ratio": "8.47", "beta": "0.98"}
+{"name": "Consolidated Water Co Ltd", "currId": "15865", "short_name": "Consolidated Water", "avg_volume": "61.67K", "market_cap": "169.06M", "revenue": "73.32M", "p_e_ratio": "32.33", "beta": "0.3"}
+{"name": "Casella Waste Systems Inc", "currId": "15867", "short_name": "Casella", "avg_volume": "269.13K", "market_cap": "2.89B", "revenue": "767.97M", "p_e_ratio": "78.14", "beta": "0.99"}
+{"name": "China XD Plastics Company Limited", "currId": "15869", "short_name": "China XD Plastics", "avg_volume": "85.75K", "market_cap": "84.66M", "revenue": "1.11B", "p_e_ratio": null, "beta": "1.15"}
+{"name": "Cyanotech Corporation", "currId": "15872", "short_name": "Cyanotech", "avg_volume": "9.19K", "market_cap": "16.46M", "revenue": "32.05M", "p_e_ratio": "26.54", "beta": "0.37"}
+{"name": "CyberOptics Corporation", "currId": "15873", "short_name": "CyberOptics", "avg_volume": "98.50K", "market_cap": "176.58M", "revenue": "70.10M", "p_e_ratio": "40.83", "beta": "1.27"}
+{"name": "Cyclacel Pharmaceuticals Inc", "currId": "15876", "short_name": "Cyclacel", "avg_volume": "143.11K", "market_cap": "17.22M", "revenue": null, "p_e_ratio": null, "beta": "1.08"}
+{"name": "Cytokinetics Inc", "currId": "15881", "short_name": "Cytokinetics Inc", "avg_volume": "1.57M", "market_cap": "1.17B", "revenue": "54.32M", "p_e_ratio": null, "beta": "1.46"}
+{"name": "CytRx Corp", "currId": "15882", "short_name": "CytRx", "avg_volume": "53.68K", "market_cap": "21.16M", "revenue": null, "p_e_ratio": null, "beta": "1.67"}
+{"name": "Plus Therapeutics Inc", "currId": "15883", "short_name": "Cytori Therapeutics", "avg_volume": "831.48K", "market_cap": "10.95M", "revenue": "1.49M", "p_e_ratio": null, "beta": "0.49"}
+{"name": "Citizens & Northern Corp", "currId": "15885", "short_name": "Citizens&Northern", "avg_volume": "28.58K", "market_cap": "298.10M", "revenue": "51.03M", "p_e_ratio": "14.73", "beta": "0.37"}
+{"name": "Citizens Community Bancorp Inc", "currId": "15886", "short_name": "Citizens Community", "avg_volume": "13.14K", "market_cap": "94.26M", "revenue": "41.18M", "p_e_ratio": "7.69", "beta": "1.06"}
+{"name": "Data I/O Corporation", "currId": "15888", "short_name": "Data I/O", "avg_volume": "22.54K", "market_cap": "30.77M", "revenue": "21.27M", "p_e_ratio": null, "beta": "1.27"}
+{"name": "Daktronics Inc", "currId": "15889", "short_name": "Daktronics", "avg_volume": "173.20K", "market_cap": "188.72M", "revenue": "572.32M", "p_e_ratio": "195.56", "beta": "0.61"}
+{"name": "BBQ Holdings Inc", "currId": "15892", "short_name": "BBQ Holdings", "avg_volume": "53.29K", "market_cap": "42.94M", "revenue": "133.87M", "p_e_ratio": "7.07", "beta": "1.94"}
+{"name": "Performance Shipping Inc", "currId": "15894", "short_name": "Performance Shipping", "avg_volume": "415.94K", "market_cap": "23.77M", "revenue": "46.36M", "p_e_ratio": null, "beta": "1.36"}
+{"name": "Dime Community Bancshares Inc", "currId": "15895", "short_name": "Dime Community", "avg_volume": "141.58K", "market_cap": "439.21M", "revenue": "130.57M", "p_e_ratio": "10.92", "beta": "1.06"}
+{"name": "Delcath Systems Inc", "currId": "15896", "short_name": "Delcath Systems", "avg_volume": "33.56K", "market_cap": "47.69M", "revenue": "1.57M", "p_e_ratio": "0.05", "beta": "0.38"}
+{"name": "Denny\u2019s Corp", "currId": "15899", "short_name": "Denny\u2019s", "avg_volume": "1.44M", "market_cap": "665.10M", "revenue": "322.33M", "p_e_ratio": "68.6", "beta": "1.61"}
+{"name": "Assertio Therapeutics Inc", "currId": "15900", "short_name": "Assertio Therapeutics", "avg_volume": "629.58K", "market_cap": "42.27M", "revenue": "135.33M", "p_e_ratio": null, "beta": "1.83"}
+{"name": "Destination Maternity Corporation", "currId": "15901", "short_name": "Destination Maternity", "avg_volume": "58.80K", "market_cap": "142.25K", "revenue": null, "p_e_ratio": null, "beta": "0.36"}
+{"name": "Donegal Group A Inc", "currId": "15905", "short_name": "Donegal A", "avg_volume": "36.99K", "market_cap": "429.91M", "revenue": "781.26M", "p_e_ratio": "8.05", "beta": "0.01"}
+{"name": "Donegal Group B Inc", "currId": "15906", "short_name": "Donegal B", "avg_volume": "0.63K", "market_cap": "373.73M", "revenue": "781.26M", "p_e_ratio": "8.05", "beta": "0.01"}
+{"name": "Digi International Inc", "currId": "15907", "short_name": "Digi", "avg_volume": "155.11K", "market_cap": "484.90M", "revenue": "279.28M", "p_e_ratio": "58.63", "beta": "1.83"}
+{"name": "Digital Ally Inc", "currId": "15909", "short_name": "Digital Ally", "avg_volume": "3.86M", "market_cap": "67.47M", "revenue": "10.17M", "p_e_ratio": null, "beta": "0.61"}
+{"name": "Diamond Hill Investment Group Inc", "currId": "15910", "short_name": "Diamond Hill", "avg_volume": "11.80K", "market_cap": "473.54M", "revenue": "127.27M", "p_e_ratio": "12.97", "beta": "1.04"}
+{"name": "Lianluo Smart Ltd", "currId": "15911", "short_name": "Lianluo Smart", "avg_volume": "714.45K", "market_cap": "8.35M", "revenue": "480.00K", "p_e_ratio": null, "beta": "0.04"}
+{"name": "Diodes Incorporated", "currId": "15913", "short_name": "Diodes", "avg_volume": "267.09K", "market_cap": "3.35B", "revenue": "1.18B", "p_e_ratio": "29.21", "beta": "1.14"}
+{"name": "Discovery Communications B Inc", "currId": "15914", "short_name": "Discovery B", "avg_volume": "1.36K", "market_cap": "14.92B", "revenue": "10.66B", "p_e_ratio": "11.16", "beta": "1.41"}
+{"name": "Discovery Communications C Inc", "currId": "15915", "short_name": "Discovery Communications C", "avg_volume": "2.52M", "market_cap": "10.26B", "revenue": "10.66B", "p_e_ratio": "11.16", "beta": "1.41"}
+{"name": "Daily Journal Corp", "currId": "15917", "short_name": "Daily Journal Corp", "avg_volume": "2.48K", "market_cap": "373.35M", "revenue": "49.91M", "p_e_ratio": null, "beta": "0.64"}
+{"name": "Meat-Tech 3D Ltd (OTC Markets)", "currId": "15922", "short_name": "Meat-Tech 3D", "avg_volume": "24.65K", "market_cap": "76.65M", "revenue": null, "p_e_ratio": null, "beta": null}
+{"name": "Dorchester Minerals LP", "currId": "15923", "short_name": "Dorchester Minerals", "avg_volume": "68.57K", "market_cap": "365.18M", "revenue": "54.41M", "p_e_ratio": "13.5", "beta": "1.46"}
+{"name": "Digimarc Corporation", "currId": "15925", "short_name": "Digimarc", "avg_volume": "142.52K", "market_cap": "517.21M", "revenue": "23.76M", "p_e_ratio": null, "beta": "0.99"}
+{"name": "Dorman Products Inc", "currId": "15927", "short_name": "Dorman", "avg_volume": "137.34K", "market_cap": "3.06B", "revenue": "1.03B", "p_e_ratio": "34.71", "beta": "0.9"}
+{"name": "Digirad Corp", "currId": "15930", "short_name": "Digirad", "avg_volume": "905.42K", "market_cap": "12.36M", "revenue": "115.67M", "p_e_ratio": null, "beta": "0.03"}
+{"name": "US Gold Corp", "currId": "15931", "short_name": "US Gold", "avg_volume": "75.79K", "market_cap": "32.56M", "revenue": null, "p_e_ratio": null, "beta": "1.66"}
+{"name": "DRDGOLD Ltd ADR", "currId": "15934", "short_name": "DRDGOLD ADR", "avg_volume": "385.10K", "market_cap": "950.87M", "revenue": "92.07M", "p_e_ratio": "21.16", "beta": "1.02"}
+{"name": "Durect Corporation", "currId": "15935", "short_name": "Durect", "avg_volume": "846.90K", "market_cap": "363.69M", "revenue": "41.98M", "p_e_ratio": null, "beta": "1.81"}
+{"name": "Moberg Pharma AB (OTC Markets)", "currId": "15937", "short_name": "Moberg Pharma", "avg_volume": "3.00K", "market_cap": "20.11M", "revenue": "58.74K", "p_e_ratio": null, "beta": "0.98"}
+{"name": "Descartes Systems Group Inc (NASDAQ)", "currId": "15939", "short_name": "Descartes Systems", "avg_volume": "133.02K", "market_cap": "4.72B", "revenue": "335.00M", "p_e_ratio": "111.5", "beta": "1.18"}
+{"name": "DSP Group Inc", "currId": "15940", "short_name": "DSP Group", "avg_volume": "147.37K", "market_cap": "373.78M", "revenue": "111.86M", "p_e_ratio": null, "beta": "0.93"}
+{"name": "Deswell Industries Inc", "currId": "15942", "short_name": "Deswell Industries", "avg_volume": "25.85K", "market_cap": "46.47M", "revenue": "65.37M", "p_e_ratio": null, "beta": "0.52"}
+{"name": "Davis Select US Equity", "currId": "15946", "short_name": "Davis Select US Equity", "avg_volume": "11.17K", "market_cap": null, "revenue": null, "p_e_ratio": "56.68", "beta": "0.83"}
+{"name": "Dynavax Technologies Corporation", "currId": "15947", "short_name": "Dynavax", "avg_volume": "3.48M", "market_cap": "458.32M", "revenue": "37.57M", "p_e_ratio": null, "beta": "1.21"}
+{"name": "Dawson Geophysical Company", "currId": "15950", "short_name": "Dawson Geophysical", "avg_volume": "61.38K", "market_cap": "41.67M", "revenue": "110.78M", "p_e_ratio": null, "beta": "2.02"}
+{"name": "DexCom Inc", "currId": "15951", "short_name": "DexCom", "avg_volume": "970.63K", "market_cap": "32.30B", "revenue": "1.82B", "p_e_ratio": "139.27", "beta": "0.92"}
+{"name": "DXP Enterprises Inc", "currId": "15952", "short_name": "DXP Enterprises", "avg_volume": "86.44K", "market_cap": "377.16M", "revenue": "1.07B", "p_e_ratio": null, "beta": "2.9"}
+{"name": "The Dixie Group Inc", "currId": "15953", "short_name": "The Dixie", "avg_volume": "184.69K", "market_cap": "30.05M", "revenue": "317.45M", "p_e_ratio": "1.81", "beta": "2.22"}
+{"name": "Dynatronics Corporation", "currId": "15956", "short_name": "Dynatronics", "avg_volume": "188.16K", "market_cap": "8.12M", "revenue": "53.42M", "p_e_ratio": null, "beta": "-0.28"}
+{"name": "Dynasil Corporation of America", "currId": "15957", "short_name": "Dynasil of America", "avg_volume": "4.66K", "market_cap": "15.45M", "revenue": "11.05M", "p_e_ratio": null, "beta": "0.2"}
+{"name": "Global Eagle Entertainment Inc", "currId": "15958", "short_name": "Global Eagle", "avg_volume": "33.97K", "market_cap": "1.43M", "revenue": "559.99M", "p_e_ratio": null, "beta": "0.93"}
+{"name": "Ebix Inc", "currId": "15959", "short_name": "Ebix", "avg_volume": "275.31K", "market_cap": "857.04M", "revenue": "549.68M", "p_e_ratio": "8.99", "beta": "2.39"}
+{"name": "Eagle Bancorp Montana Inc", "currId": "15960", "short_name": "Eagle Montana", "avg_volume": "14.07K", "market_cap": "133.43M", "revenue": "53.14M", "p_e_ratio": "7.28", "beta": "0.7"}
+{"name": "Meridian Interstate Bancorp Inc", "currId": "15961", "short_name": "Meridian Interstate", "avg_volume": "135.51K", "market_cap": "714.92M", "revenue": "135.99M", "p_e_ratio": "10.81", "beta": "0.93"}
+{"name": "Enterprise Bancorp Inc", "currId": "15962", "short_name": "Enterprise", "avg_volume": "10.57K", "market_cap": "297.21M", "revenue": "81.27M", "p_e_ratio": "9.77", "beta": "0.44"}
+{"name": "Echo Global Logistics Inc", "currId": "15965", "short_name": "Echo Global", "avg_volume": "151.28K", "market_cap": "767.11M", "revenue": "2.29B", "p_e_ratio": "122.47", "beta": "1.14"}
+{"name": "US Ecology Inc", "currId": "15966", "short_name": "US Ecology", "avg_volume": "180.68K", "market_cap": "1.13B", "revenue": "924.05M", "p_e_ratio": null, "beta": "1.25"}
+{"name": "Encore Capital Group Inc", "currId": "15967", "short_name": "Encore Capital", "avg_volume": "409.00K", "market_cap": "956.01M", "revenue": "1.47B", "p_e_ratio": "4.43", "beta": "1.59"}
+{"name": "Echo Therapeutics Inc", "currId": "15968", "short_name": "Echo Therapeutics", "avg_volume": "17.14K", "market_cap": "120.04K", "revenue": null, "p_e_ratio": null, "beta": "7.38"}
+{"name": "EDAP TMS SA", "currId": "15972", "short_name": "EDAP", "avg_volume": "87.07K", "market_cap": "131.45M", "revenue": "861.74K", "p_e_ratio": null, "beta": "2.1"}
+{"name": "Alithya Group inc Class A", "currId": "15974", "short_name": "Alithya A", "avg_volume": "13.96K", "market_cap": "39.74M", "revenue": "6.13M", "p_e_ratio": null, "beta": "0.87"}
+{"name": "Education Management Corp", "currId": "15975", "short_name": "Education Management", "avg_volume": "46.86K", "market_cap": "126.06K", "revenue": null, "p_e_ratio": null, "beta": "2.19"}
+{"name": "Exceed Company Ltd", "currId": "15976", "short_name": "Exceed Company", "avg_volume": "34.32K", "market_cap": "124.89K", "revenue": null, "p_e_ratio": "0.01", "beta": "7.14"}
+{"name": "Educational Development Corporation", "currId": "15977", "short_name": "Educational Development", "avg_volume": "51.83K", "market_cap": "130.10M", "revenue": "158.52M", "p_e_ratio": "13.78", "beta": "1.31"}
+{"name": "Euronet Worldwide Inc", "currId": "15978", "short_name": "Euronet", "avg_volume": "447.77K", "market_cap": "6.34B", "revenue": "2.47B", "p_e_ratio": "5651.75", "beta": "1.46"}
+{"name": "Enterprise Financial Services", "currId": "15982", "short_name": "Enterprise Financial", "avg_volume": "109.91K", "market_cap": "892.18M", "revenue": "166.57M", "p_e_ratio": "12.08", "beta": "1.31"}
+{"name": "eGain Corporation", "currId": "15984", "short_name": "eGain", "avg_volume": "380.34K", "market_cap": "356.55M", "revenue": "74.60M", "p_e_ratio": "46.06", "beta": "0.48"}
+{"name": "Eagle Bancorp Inc", "currId": "15985", "short_name": "Eagle", "avg_volume": "134.95K", "market_cap": "1.16B", "revenue": "221.83M", "p_e_ratio": "9.13", "beta": "1.11"}
+{"name": "8x8 Inc", "currId": "15986", "short_name": "8x8", "avg_volume": "1.25M", "market_cap": "1.99B", "revenue": "490.99M", "p_e_ratio": null, "beta": "0.79"}
+{"name": "Eagle Bulk Shipping Inc", "currId": "15987", "short_name": "Eagle Bulk Shipping", "avg_volume": "59.44K", "market_cap": "176.34M", "revenue": "271.44M", "p_e_ratio": null, "beta": "1.25"}
+{"name": "NIC Inc", "currId": "15988", "short_name": "NIC", "avg_volume": "303.68K", "market_cap": "1.62B", "revenue": "406.37M", "p_e_ratio": "26.94", "beta": "0.3"}
+{"name": "eHealth Inc", "currId": "15989", "short_name": "eHealth", "avg_volume": "897.59K", "market_cap": "1.85B", "revenue": "591.21M", "p_e_ratio": "29.07", "beta": "-0.3"}
+{"name": "Endologix Inc", "currId": "15991", "short_name": "Endologix", "avg_volume": "204.94K", "market_cap": "371.83K", "revenue": "124.87M", "p_e_ratio": null, "beta": "0.77"}
+{"name": "Electro-Sensors Inc", "currId": "15996", "short_name": "Electro-Sensors", "avg_volume": "399.72K", "market_cap": "13.14M", "revenue": "7.85M", "p_e_ratio": null, "beta": "0.57"}
+{"name": "Eltek Ltd", "currId": "15997", "short_name": "Eltek", "avg_volume": "43.97K", "market_cap": "19.43M", "revenue": "35.81M", "p_e_ratio": "9.69", "beta": "-2.68"}
+{"name": "Emclaire Financial Corp", "currId": "15998", "short_name": "Emclaire", "avg_volume": "2.31K", "market_cap": "64.94M", "revenue": "20.77M", "p_e_ratio": "11.54", "beta": "0.42"}
+{"name": "Elbit Imaging Ltd (OTC Markets)", "currId": "16000", "short_name": "Elbit Imaging", "avg_volume": "28.24K", "market_cap": "12.77M", "revenue": null, "p_e_ratio": null, "beta": "0.83"}
+{"name": "EMCORE Corporation", "currId": "16001", "short_name": "EMCORE", "avg_volume": "71.00K", "market_cap": "109.69M", "revenue": "100.90M", "p_e_ratio": null, "beta": "1.07"}
+{"name": "Eastern Co", "currId": "16002", "short_name": "Eastern Co", "avg_volume": "7.46K", "market_cap": "135.78M", "revenue": "248.70M", "p_e_ratio": "15.25", "beta": "1.09"}
+{"name": "Emmis Communications Corp", "currId": "16003", "short_name": "Emmis Comm", "avg_volume": "12.00K", "market_cap": "20.23M", "revenue": "30.06M", "p_e_ratio": null, "beta": "0.99"}
+{"name": "Endo International PLC", "currId": "16004", "short_name": "Endo Int", "avg_volume": "5.03M", "market_cap": "1.10B", "revenue": "2.91B", "p_e_ratio": null, "beta": "1.3"}
+{"name": "ENGlobal Corporation", "currId": "16005", "short_name": "ENGlobal", "avg_volume": "603.06K", "market_cap": "23.50M", "revenue": "67.80M", "p_e_ratio": "29.07", "beta": "1.4"}
+{"name": "The Ensign Group Inc", "currId": "16008", "short_name": "The Ensign", "avg_volume": "242.01K", "market_cap": "3.67B", "revenue": "2.08B", "p_e_ratio": "28.37", "beta": "1.02"}
+{"name": "Enzon Pharmaceuticals Inc", "currId": "16010", "short_name": "Enzon", "avg_volume": "73.90K", "market_cap": "11.21M", "revenue": "70.00K", "p_e_ratio": null, "beta": "0.43"}
+{"name": "Bottomline Technologies Inc", "currId": "16013", "short_name": "Bottomline", "avg_volume": "233.83K", "market_cap": "1.98B", "revenue": "446.41M", "p_e_ratio": null, "beta": "1.26"}
+{"name": "Erie Indemnity Company", "currId": "16017", "short_name": "Erie Indemnity", "avg_volume": "71.97K", "market_cap": "12.39B", "revenue": "2.52B", "p_e_ratio": "47.7", "beta": "0.47"}
+{"name": "Energy Recovery Inc", "currId": "16018", "short_name": "Energy Recovery", "avg_volume": "209.13K", "market_cap": "568.30M", "revenue": "112.06M", "p_e_ratio": "25.61", "beta": "1.31"}
+{"name": "Elmira Savings Bank", "currId": "16022", "short_name": "Elmira Savings Bank", "avg_volume": "2.92K", "market_cap": "37.69M", "revenue": "14.96M", "p_e_ratio": "9.83", "beta": "0.63"}
+{"name": "Escalade Incorporated", "currId": "16023", "short_name": "Escalade", "avg_volume": "56.07K", "market_cap": "281.83M", "revenue": "245.92M", "p_e_ratio": "12.08", "beta": "1.35"}
+{"name": "Euroseas Ltd", "currId": "16024", "short_name": "Euroseas", "avg_volume": "159.10K", "market_cap": "18.20M", "revenue": "52.55M", "p_e_ratio": "13.42", "beta": "0.8"}

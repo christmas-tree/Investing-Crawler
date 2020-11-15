@@ -1,0 +1,195 @@
+[
+  {
+    "name": "United States",
+    "url": "https://www.investing.com/equities/united-states"
+  },
+  {
+    "name": "United Kingdom",
+    "url": "https://www.investing.com/equities/united-kingdom"
+  },
+  { "name": "France", "url": "https://www.investing.com/equities/france" },
+  { "name": "Germany", "url": "https://www.investing.com/equities/germany" },
+  { "name": "Japan", "url": "https://www.investing.com/equities/japan" },
+  {
+    "name": "Australia",
+    "url": "https://www.investing.com/equities/australia"
+  },
+  {
+    "name": "Argentina",
+    "url": "https://www.investing.com/equities/argentina"
+  },
+  { "name": "Brazil", "url": "https://www.investing.com/equities/brazil" },
+  { "name": "Canada", "url": "https://www.investing.com/equities/canada" },
+  { "name": "Chile", "url": "https://www.investing.com/equities/chile" },
+  { "name": "Colombia", "url": "https://www.investing.com/equities/colombia" },
+  {
+    "name": "Costa Rica",
+    "url": "https://www.investing.com/equities/costa-rica"
+  },
+  { "name": "Jamaica", "url": "https://www.investing.com/equities/jamaica" },
+  { "name": "Mexico", "url": "https://www.investing.com/equities/mexico" },
+  { "name": "Peru", "url": "https://www.investing.com/equities/peru" },
+  {
+    "name": "United States",
+    "url": "https://www.investing.com/equities/united-states"
+  },
+  {
+    "name": "Venezuela",
+    "url": "https://www.investing.com/equities/venezuela"
+  },
+  { "name": "Austria", "url": "https://www.investing.com/equities/austria" },
+  { "name": "Belgium", "url": "https://www.investing.com/equities/belgium" },
+  {
+    "name": "Bosnia-Herzegovina",
+    "url": "https://www.investing.com/equities/bosnia"
+  },
+  { "name": "Bulgaria", "url": "https://www.investing.com/equities/bulgaria" },
+  { "name": "Croatia", "url": "https://www.investing.com/equities/croatia" },
+  { "name": "Cyprus", "url": "https://www.investing.com/equities/cyprus" },
+  {
+    "name": "Czech Republic",
+    "url": "https://www.investing.com/equities/czech-republic"
+  },
+  { "name": "Denmark", "url": "https://www.investing.com/equities/denmark" },
+  { "name": "Estonia", "url": "https://www.investing.com/equities/estonia" },
+  { "name": "Finland", "url": "https://www.investing.com/equities/finland" },
+  { "name": "France", "url": "https://www.investing.com/equities/france" },
+  { "name": "Germany", "url": "https://www.investing.com/equities/germany" },
+  { "name": "Greece", "url": "https://www.investing.com/equities/greece" },
+  { "name": "Hungary", "url": "https://www.investing.com/equities/hungary" },
+  { "name": "Iceland", "url": "https://www.investing.com/equities/iceland" },
+  { "name": "Ireland", "url": "https://www.investing.com/equities/ireland" },
+  { "name": "Italy", "url": "https://www.investing.com/equities/italy" },
+  { "name": "Latvia", "url": "https://www.investing.com/equities/latvia" },
+  {
+    "name": "Lithuania",
+    "url": "https://www.investing.com/equities/lithuania"
+  },
+  {
+    "name": "Luxembourg",
+    "url": "https://www.investing.com/equities/luxembourg"
+  },
+  { "name": "Malta", "url": "https://www.investing.com/equities/malta" },
+  {
+    "name": "Montenegro",
+    "url": "https://www.investing.com/equities/montenegro"
+  },
+  {
+    "name": "Netherlands",
+    "url": "https://www.investing.com/equities/netherlands"
+  },
+  { "name": "Norway", "url": "https://www.investing.com/equities/norway" },
+  { "name": "Poland", "url": "https://www.investing.com/equities/poland" },
+  { "name": "Portugal", "url": "https://www.investing.com/equities/portugal" },
+  { "name": "Romania", "url": "https://www.investing.com/equities/romania" },
+  { "name": "Russia", "url": "https://www.investing.com/equities/russia" },
+  { "name": "Serbia", "url": "https://www.investing.com/equities/serbia" },
+  { "name": "Slovakia", "url": "https://www.investing.com/equities/slovakia" },
+  { "name": "Slovenia", "url": "https://www.investing.com/equities/slovenia" },
+  { "name": "Spain", "url": "https://www.investing.com/equities/spain" },
+  { "name": "Sweden", "url": "https://www.investing.com/equities/sweden" },
+  {
+    "name": "Switzerland",
+    "url": "https://www.investing.com/equities/switzerland"
+  },
+  { "name": "Turkey", "url": "https://www.investing.com/equities/turkey" },
+  { "name": "Ukraine", "url": "https://www.investing.com/equities/ukraine" },
+  {
+    "name": "United Kingdom",
+    "url": "https://www.investing.com/equities/united-kingdom"
+  },
+  {
+    "name": "Australia",
+    "url": "https://www.investing.com/equities/australia"
+  },
+  {
+    "name": "Bangladesh",
+    "url": "https://www.investing.com/equities/bangladesh"
+  },
+  { "name": "China", "url": "https://www.investing.com/equities/china" },
+  {
+    "name": "Hong Kong",
+    "url": "https://www.investing.com/equities/hong-kong"
+  },
+  { "name": "India", "url": "https://www.investing.com/equities/india" },
+  {
+    "name": "Indonesia",
+    "url": "https://www.investing.com/equities/indonesia"
+  },
+  { "name": "Japan", "url": "https://www.investing.com/equities/japan" },
+  {
+    "name": "Kazakhstan",
+    "url": "https://www.investing.com/equities/kazakhstan"
+  },
+  { "name": "Malaysia", "url": "https://www.investing.com/equities/malaysia" },
+  { "name": "Mongolia", "url": "https://www.investing.com/equities/mongolia" },
+  {
+    "name": "New Zealand",
+    "url": "https://www.investing.com/equities/new-zealand"
+  },
+  { "name": "Pakistan", "url": "https://www.investing.com/equities/pakistan" },
+  {
+    "name": "Philippines",
+    "url": "https://www.investing.com/equities/philippines"
+  },
+  {
+    "name": "Singapore",
+    "url": "https://www.investing.com/equities/singapore"
+  },
+  {
+    "name": "South Korea",
+    "url": "https://www.investing.com/equities/south-korea"
+  },
+  {
+    "name": "Sri Lanka",
+    "url": "https://www.investing.com/equities/sri-lanka"
+  },
+  { "name": "Taiwan", "url": "https://www.investing.com/equities/taiwan" },
+  { "name": "Thailand", "url": "https://www.investing.com/equities/thailand" },
+  { "name": "Vietnam", "url": "https://www.investing.com/equities/vietnam" },
+  { "name": "Bahrain", "url": "https://www.investing.com/equities/bahrain" },
+  { "name": "Egypt", "url": "https://www.investing.com/equities/egypt" },
+  { "name": "Iraq", "url": "https://www.investing.com/equities/iraq" },
+  { "name": "Israel", "url": "https://www.investing.com/equities/israel" },
+  { "name": "Jordan", "url": "https://www.investing.com/equities/jordan" },
+  { "name": "Kuwait", "url": "https://www.investing.com/equities/kuwait" },
+  { "name": "Lebanon", "url": "https://www.investing.com/equities/lebanon" },
+  { "name": "Oman", "url": "https://www.investing.com/equities/oman" },
+  {
+    "name": "Palestinian Territory",
+    "url": "https://www.investing.com/equities/palestine"
+  },
+  { "name": "Qatar", "url": "https://www.investing.com/equities/qatar" },
+  {
+    "name": "Saudi Arabia",
+    "url": "https://www.investing.com/equities/saudi-arabia"
+  },
+  {
+    "name": "United Arab Emirates",
+    "url": "https://www.investing.com/equities/dubai"
+  },
+  { "name": "Botswana", "url": "https://www.investing.com/equities/botswana" },
+  {
+    "name": "Cote D'Ivoire",
+    "url": "https://www.investing.com/equities/ivory-coast"
+  },
+  { "name": "Kenya", "url": "https://www.investing.com/equities/kenya" },
+  { "name": "Malawi", "url": "https://www.investing.com/equities/malawi" },
+  {
+    "name": "Mauritius",
+    "url": "https://www.investing.com/equities/mauritius"
+  },
+  { "name": "Morocco", "url": "https://www.investing.com/equities/morocco" },
+  { "name": "Namibia", "url": "https://www.investing.com/equities/namibia" },
+  { "name": "Nigeria", "url": "https://www.investing.com/equities/nigeria" },
+  { "name": "Rwanda", "url": "https://www.investing.com/equities/rwanda" },
+  {
+    "name": "South Africa",
+    "url": "https://www.investing.com/equities/south-africa"
+  },
+  { "name": "Tanzania", "url": "https://www.investing.com/equities/tanzania" },
+  { "name": "Tunisia", "url": "https://www.investing.com/equities/tunisia" },
+  { "name": "Uganda", "url": "https://www.investing.com/equities/uganda" },
+  { "name": "Zambia", "url": "https://www.investing.com/equities/zambia" },
+  { "name": "Zimbabwe", "url": "https://www.investing.com/equities/zimbabwe" }
+]
